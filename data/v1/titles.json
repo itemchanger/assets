@@ -1,0 +1,5786 @@
+{
+ "CRL_Analyst": {
+  "Text": "CRL Analyst",
+  "Category": "Helper"
+ },
+ "CRL_Season_1_Champion": {
+  "Text": "CRL Season 1 Champion",
+  "Category": "Champion"
+ },
+ "CRL_Season_1_Elite": {
+  "Text": "CRL Season 1 Elite",
+  "Category": "Champion"
+ },
+ "Developer": {
+  "Text": "Developer",
+  "Category": "Developer"
+ },
+ "DreamHack_Champion": {
+  "Text": "DreamHack Champion",
+  "Category": "Champion"
+ },
+ "Eleague_Cup_Champion": {
+  "Text": "ELEAGUE Cup Champion",
+  "Category": "Champion"
+ },
+ "ESLMonthlyChampion": {
+  "Text": "ESL Monthly Champion",
+  "Category": "Champion"
+ },
+ "ESLMonthlyElite": {
+  "Text": "ESL Monthly Elite",
+  "Category": "Champion"
+ },
+ "FirstRocketeer": {
+  "Text": "First Rocketeer",
+  "Category": "Champion"
+ },
+ "MLGSeason1Champion": {
+  "Text": "MLG Season 1 Champion",
+  "Category": "Champion"
+ },
+ "MLGSeason1Elite": {
+  "Text": "MLG Season 1 Elite",
+  "Category": "Champion"
+ },
+ "Moderator": {
+  "Text": "Moderator",
+  "Category": "Helper"
+ },
+ "PaxChampion": {
+  "Text": "PAX Champion",
+  "Category": "Champion"
+ },
+ "RLCS_01_Contender": {
+  "Text": "RLCS Season 1 Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_01_Elite": {
+  "Text": "RLCS Season 1 Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_01_Grand_Finalist": {
+  "Text": "RLCS Season 1 Grand Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_01_World_Champion": {
+  "Text": "RLCS Season 1 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_02_Contender": {
+  "Text": "RLCS Season 2 Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_02_Elite": {
+  "Text": "RLCS Season 2 Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_02_Grand_Finalist": {
+  "Text": "RLCS Season 2 Grand Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_02_World_Champion": {
+  "Text": "RLCS Season 2 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_03_Contender": {
+  "Text": "RLCS Season 3 Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_03_Elite": {
+  "Text": "RLCS Season 3 Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_03_Grand_Finalist": {
+  "Text": "RLCS Season 3 Grand Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_03_World_Champion": {
+  "Text": "RLCS Season 3 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_04_Contender": {
+  "Text": "RLCS Season 4 Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_04_Elite": {
+  "Text": "RLCS Season 4 Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_04_Grand_Finalist": {
+  "Text": "RLCS Season 4 Grand Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_04_World_Champion": {
+  "Text": "RLCS Season 4 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_05_Contender": {
+  "Text": "RLCS Season 5 Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_05_Elite": {
+  "Text": "RLCS Season 5 Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_05_Grand_Finalist": {
+  "Text": "RLCS Season 5 Grand Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_05_World_Champion": {
+  "Text": "RLCS Season 5 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_Analyst": {
+  "Text": "RLCS Analyst",
+  "Category": "Helper"
+ },
+ "RLRS_01_Challenger": {
+  "Text": "Rival Series Season 1 Challenger",
+  "Category": "RLCS_Champion"
+ },
+ "RLRS_02_Challenger": {
+  "Text": "Rival Series Season 2 Challenger",
+  "Category": "RLCS_Champion"
+ },
+ "Season2GrandChampion": {
+  "Text": "Season 2 Grand Champion",
+  "Category": "Champion"
+ },
+ "Season3GrandChampion": {
+  "Text": "Season 3 Grand Champion",
+  "Category": "Champion"
+ },
+ "Season4GrandChampion": {
+  "Text": "Season 4 Grand Champion",
+  "Category": "Champion"
+ },
+ "Season5GrandChampion": {
+  "Text": "Season 5 Grand Champion",
+  "Category": "Champion"
+ },
+ "Season6GrandChampion": {
+  "Text": "Season 6 Grand Champion",
+  "Category": "Champion"
+ },
+ "Season7GrandChampion": {
+  "Text": "Season 7 Grand Champion",
+  "Category": "Champion"
+ },
+ "Season8GrandChampion": {
+  "Text": "Season 8 Grand Champion",
+  "Category": "Champion"
+ },
+ "The_Pigeon_Man": {
+  "Text": "The Pigeon Man",
+  "Category": "Helper"
+ },
+ "Wet_Art_Man": {
+  "Text": "Wet Art Man",
+  "Category": "Helper"
+ },
+ "Throwdown_ANZ_Champion": {
+  "Text": "Throwdown ANZ Champion",
+  "Category": "Champion"
+ },
+ "UORL_Champion": {
+  "Text": "Universal Open Champion",
+  "Category": "Champion"
+ },
+ "X_Games_Champion": {
+  "Text": "X GAMES Champion",
+  "Category": "Champion"
+ },
+ "XP_Veteran": {
+  "Text": "Veteran",
+  "Category": ""
+ },
+ "XP_Expert": {
+  "Text": "Expert",
+  "Category": ""
+ },
+ "XP_Master": {
+  "Text": "Master",
+  "Category": ""
+ },
+ "XP_Legend": {
+  "Text": "Legend",
+  "Category": ""
+ },
+ "XP_Rocketeer": {
+  "Text": "Rocketeer",
+  "Category": ""
+ },
+ "XP_EliteChallenger": {
+  "Text": "Elite Challenger",
+  "Category": ""
+ },
+ "XP_AllStar": {
+  "Text": "All-Star",
+  "Category": ""
+ },
+ "XP_Superstar": {
+  "Text": "Superstar",
+  "Category": ""
+ },
+ "XP_SupremeRival": {
+  "Text": "Supreme Rival",
+  "Category": ""
+ },
+ "XP_TranscendentMaster": {
+  "Text": "Transcendent Master",
+  "Category": ""
+ },
+ "XP_SupersonicLegend": {
+  "Text": "Legendary Nemesis",
+  "Category": ""
+ },
+ "XP_UltimateBaller": {
+  "Text": "Ultimate Baller",
+  "Category": ""
+ },
+ "XP_RocketeerElite": {
+  "Text": "Rocketeer Elite",
+  "Category": ""
+ },
+ "XP_RocketDemigod": {
+  "Text": "Rocket Demigod",
+  "Category": ""
+ },
+ "RP1_CrossbarHero": {
+  "Text": "Crossbar Hero",
+  "Category": ""
+ },
+ "RP1_SaltMiner": {
+  "Text": "Salt Miner",
+  "Category": ""
+ },
+ "RP1_TheFabulous": {
+  "Text": "The Fabulous",
+  "Category": ""
+ },
+ "RP1_TradeMinister": {
+  "Text": "Trade Minister",
+  "Category": ""
+ },
+ "RP1_TheCalculator": {
+  "Text": "The Calculator",
+  "Category": ""
+ },
+ "RP1_CaptainClutch": {
+  "Text": "Captain Clutch",
+  "Category": ""
+ },
+ "RP1_BallChaser": {
+  "Text": "Ball Chaser",
+  "Category": ""
+ },
+ "RP1_QuickChatChampion": {
+  "Text": "Quick Chat Champion",
+  "Category": ""
+ },
+ "RP1_Sherpa": {
+  "Text": "Sherpa",
+  "Category": ""
+ },
+ "RP1_AbsoluteMadman": {
+  "Text": "Absolute Madman",
+  "Category": ""
+ },
+ "RP1_TacticalWhiffer": {
+  "Text": "Tactical Whiffer",
+  "Category": ""
+ },
+ "RP1_Skylord": {
+  "Text": "Skylord",
+  "Category": ""
+ },
+ "SE_DemolitionDemon": {
+  "Text": "Demolition Demon",
+  "Category": ""
+ },
+ "RLCS_06_Contender": {
+  "Text": "RLCS Season 6 Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_06_Elite": {
+  "Text": "RLCS Season 6 Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_06_Grand_Finalist": {
+  "Text": "RLCS Season 6 Grand Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_06_World_Champion": {
+  "Text": "RLCS Season 6 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "Renegade_Cup_Champion": {
+  "Text": "Renegade Cup Champion",
+  "Category": "Champion"
+ },
+ "Renegade_Cup_Elite": {
+  "Text": "Renegade Cup Elite",
+  "Category": "Champion"
+ },
+ "Renegade_Cup_Monthly_Winner": {
+  "Text": "Renegade Cup Monthly Winner",
+  "Category": "Champion"
+ },
+ "RLRS_03_Challenger": {
+  "Text": "Rival Series Season 3 Challenger",
+  "Category": "RLCS_Champion"
+ },
+ "Rival_Series_Analyst": {
+  "Text": "Rival Series Analyst",
+  "Category": "Helper"
+ },
+ "CRL_Season_2_Champion": {
+  "Text": "CRL Season 2 Champion",
+  "Category": "Champion"
+ },
+ "CRL_Season_2_Elite": {
+  "Text": "CRL Season 2 Elite",
+  "Category": "Champion"
+ },
+ "CRL_02_Contender": {
+  "Text": "CRL Season 2 Contender",
+  "Category": "Champion"
+ },
+ "Rockets_Engaged": {
+  "Text": "Rockets Engaged",
+  "Category": "Helper"
+ },
+ "SE_PeppermintPowerhouse": {
+  "Text": "Peppermint Powerhouse",
+  "Category": ""
+ },
+ "RP2_WallCrawler": {
+  "Text": "Wall-Crawler",
+  "Category": ""
+ },
+ "RP2_BoostHog": {
+  "Text": "Boost Hog",
+  "Category": ""
+ },
+ "RP2_Leadfoot": {
+  "Text": "Leadfoot",
+  "Category": ""
+ },
+ "RP2_ReliableRotator": {
+  "Text": "Reliable Rotator",
+  "Category": ""
+ },
+ "RP2_BackseatDriver": {
+  "Text": "Backseat Driver",
+  "Category": ""
+ },
+ "RP2_MotorManiac": {
+  "Text": "Motor Maniac",
+  "Category": ""
+ },
+ "RP2_SpeedDemon": {
+  "Text": "Speed Demon",
+  "Category": ""
+ },
+ "RP2_BlastJockey": {
+  "Text": "Blast Jockey",
+  "Category": ""
+ },
+ "RP2_TheCollector": {
+  "Text": "The Collector",
+  "Category": ""
+ },
+ "RP2_ProfessorOfPhysics": {
+  "Text": "Professor of Physics",
+  "Category": ""
+ },
+ "RP2_SpinningCarWizard": {
+  "Text": "Spinning Car Wizard",
+  "Category": ""
+ },
+ "RP2_TheInsane": {
+  "Text": "The Insane",
+  "Category": ""
+ },
+ "S9_Grand_Champion_Rumble": {
+  "Text": "Season 9 RNG Champ",
+  "Category": "Champion"
+ },
+ "S9_Grand_Champion_Dropshot": {
+  "Text": "Season 9 Floor Destroyer",
+  "Category": "Champion"
+ },
+ "S9_Grand_Champion_SnowDay": {
+  "Text": "Season 9 Blizzard Wizard",
+  "Category": "Champion"
+ },
+ "S9_Grand_Champion_Hoops": {
+  "Text": "Season 9 Dunk Master",
+  "Category": "Champion"
+ },
+ "Season9GrandChampion": {
+  "Text": "Season 9 Grand Champion",
+  "Category": "Champion"
+ },
+ "RP3_Floater": {
+  "Text": "Floater",
+  "Category": ""
+ },
+ "RP3_Goaltender": {
+  "Text": "Goaltender",
+  "Category": ""
+ },
+ "RP3_WildCard": {
+  "Text": "Wild Card",
+  "Category": ""
+ },
+ "RP3_Wheeler": {
+  "Text": "Wheeler",
+  "Category": ""
+ },
+ "RP3_TheAccelerator": {
+  "Text": "The Accelerator",
+  "Category": ""
+ },
+ "RP3_TheFearless": {
+  "Text": "The Fearless",
+  "Category": ""
+ },
+ "RP3_Reckless": {
+  "Text": "Reckless",
+  "Category": ""
+ },
+ "RP3_SundayDriver": {
+  "Text": "Sunday Driver",
+  "Category": ""
+ },
+ "RP3_Ballistic": {
+  "Text": "Ballistic",
+  "Category": ""
+ },
+ "RP3_Steamroller": {
+  "Text": "Steamroller",
+  "Category": ""
+ },
+ "RP3_Showboat": {
+  "Text": "Showboat",
+  "Category": ""
+ },
+ "FR_4DChessmaster": {
+  "Text": "4D Chess Master",
+  "Category": ""
+ },
+ "FR_TiltDetector": {
+  "Text": "Tilt Detector",
+  "Category": ""
+ },
+ "Season10GrandChampion": {
+  "Text": "Season 10 Grand Champion",
+  "Category": "Champion"
+ },
+ "S10_Grand_Champion_Rumble": {
+  "Text": "Season 10 RNG Champ",
+  "Category": "Champion"
+ },
+ "S10_Grand_Champion_Dropshot": {
+  "Text": "Season 10 Floor Destroyer",
+  "Category": "Champion"
+ },
+ "S10_Grand_Champion_SnowDay": {
+  "Text": "Season 10 Blizzard Wizard",
+  "Category": "Champion"
+ },
+ "S10_Grand_Champion_Hoops": {
+  "Text": "Season 10 Dunk Master",
+  "Category": "Champion"
+ },
+ "SE_CouchPotato": {
+  "Text": "Couch Potato",
+  "Category": ""
+ },
+ "CRL_03_SpringChampion": {
+  "Text": "CRL Spring Champion",
+  "Category": "Champion"
+ },
+ "CRL_03_SpringElite": {
+  "Text": "CRL Spring Elite",
+  "Category": "Champion"
+ },
+ "CRL_03_SpringContender": {
+  "Text": "CRL Spring Contender",
+  "Category": "Champion"
+ },
+ "CRL_03_FallChampion": {
+  "Text": "CRL Fall Champion",
+  "Category": "Champion"
+ },
+ "CRL_03_FallElite": {
+  "Text": "CRL Fall Elite",
+  "Category": "Champion"
+ },
+ "CRL_03_FallContender": {
+  "Text": "CRL Fall Contender",
+  "Category": "Champion"
+ },
+ "RLRS_04_Challenger": {
+  "Text": "Rival Series Season 4 Challenger",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_07_Contender": {
+  "Text": "RLCS Season 7 Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_07_Elite": {
+  "Text": "RLCS Season 7 Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_07_Grand_Finalist": {
+  "Text": "RLCS Season 7 Grand Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_07_World_Champion": {
+  "Text": "RLCS Season 7 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "Season11GrandChampion": {
+  "Text": "Season 11 Grand Champion",
+  "Category": "Champion"
+ },
+ "S11_Grand_Champion_Rumble": {
+  "Text": "Season 11 RNG Champ",
+  "Category": "Champion"
+ },
+ "S11_Grand_Champion_Dropshot": {
+  "Text": "Season 11 Floor Destroyer",
+  "Category": "Champion"
+ },
+ "S11_Grand_Champion_SnowDay": {
+  "Text": "Season 11 Blizzard Wizard",
+  "Category": "Champion"
+ },
+ "S11_Grand_Champion_Hoops": {
+  "Text": "Season 11 Dunk Master",
+  "Category": "Champion"
+ },
+ "RP4_QuickStudy": {
+  "Text": "Quick Study",
+  "Category": ""
+ },
+ "RP4_TheMagnificent": {
+  "Text": "The Magnificent",
+  "Category": ""
+ },
+ "RP4_DriftKing": {
+  "Text": "Drift King",
+  "Category": ""
+ },
+ "RP4_RankAmateur": {
+  "Text": "Rank Amateur",
+  "Category": ""
+ },
+ "RP4_SonicChaser": {
+  "Text": "Sonic Chaser",
+  "Category": ""
+ },
+ "RP4_FlipLord": {
+  "Text": "Flip Lord",
+  "Category": ""
+ },
+ "RP4_Trailblazer": {
+  "Text": "Trailblazer",
+  "Category": ""
+ },
+ "RP4_DeftDefender": {
+  "Text": "Deft Defender",
+  "Category": ""
+ },
+ "RP4_SureStriker": {
+  "Text": "Sure Striker",
+  "Category": ""
+ },
+ "BTS_Champion": {
+  "Text": "Rocket League Summit Champion",
+  "Category": "Champion"
+ },
+ "Rocket_Husband": {
+  "Text": "Rocket Husband",
+  "Category": "Helper"
+ },
+ "Rocket_Wife": {
+  "Text": "Rocket Wife",
+  "Category": "Helper"
+ },
+ "FR_BackboardBaller": {
+  "Text": "Backboard Baller",
+  "Category": ""
+ },
+ "FR_MidfieldMagician": {
+  "Text": "Midfield Magician",
+  "Category": ""
+ },
+ "SE_DEMOgorgon": {
+  "Text": "DEMOgorgon",
+  "Category": ""
+ },
+ "SE_SilentKnight": {
+  "Text": "Silent Knight",
+  "Category": ""
+ },
+ "SE_RatRace": {
+  "Text": "Rat Racer",
+  "Category": ""
+ },
+ "RP5_Animator": {
+  "Text": "Animator",
+  "Category": ""
+ },
+ "RP5_SpeedChaser": {
+  "Text": "Speed Chaser",
+  "Category": ""
+ },
+ "RP5_ShotNinja": {
+  "Text": "Shot Ninja",
+  "Category": ""
+ },
+ "RP5_SoccerSenpai": {
+  "Text": "Soccer Senpai",
+  "Category": ""
+ },
+ "RP5_DriftQueen": {
+  "Text": "Drift Queen",
+  "Category": ""
+ },
+ "RP5_TheFantastic": {
+  "Text": "The Fantastic",
+  "Category": ""
+ },
+ "RP5_Juggler": {
+  "Text": "Juggler",
+  "Category": ""
+ },
+ "RP5_ChipChamp": {
+  "Text": "Chip Champ",
+  "Category": ""
+ },
+ "RP5_OGPlayer": {
+  "Text": "OG Player",
+  "Category": ""
+ },
+ "RP5_Committed": {
+  "Text": "Committed",
+  "Category": ""
+ },
+ "SE_DiscJockey": {
+  "Text": "Disc Jockey",
+  "Category": ""
+ },
+ "Season12GrandChampion": {
+  "Text": "Season 12 Grand Champion",
+  "Category": "Champion"
+ },
+ "S12_Grand_Champion_Rumble": {
+  "Text": "Season 12 RNG Champ",
+  "Category": "Champion"
+ },
+ "S12_Grand_Champion_Dropshot": {
+  "Text": "Season 12 Floor Destroyer",
+  "Category": "Champion"
+ },
+ "S12_Grand_Champion_SnowDay": {
+  "Text": "Season 12 Blizzard Wizard",
+  "Category": "Champion"
+ },
+ "S12_Grand_Champion_Hoops": {
+  "Text": "Season 12 Dunk Master",
+  "Category": "Champion"
+ },
+ "Helping_Hand": {
+  "Text": "Helping Hand",
+  "Category": ""
+ },
+ "RLRS_05_Challenger": {
+  "Text": "Rival Series Season 5 Challenger",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_08_Contender": {
+  "Text": "RLCS Season 8 Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_08_Elite": {
+  "Text": "RLCS Season 8 Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_08_Grand_Finalist": {
+  "Text": "RLCS Season 8 Grand Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_08_World_Champion": {
+  "Text": "RLCS Season 8 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "Season13GrandChampion": {
+  "Text": "Season 13 Grand Champion",
+  "Category": "Champion"
+ },
+ "S13_Grand_Champion_Rumble": {
+  "Text": "Season 13 RNG Champ",
+  "Category": "Champion"
+ },
+ "S13_Grand_Champion_Dropshot": {
+  "Text": "Season 13 Floor Destroyer",
+  "Category": "Champion"
+ },
+ "S13_Grand_Champion_SnowDay": {
+  "Text": "Season 13 Blizzard Wizard",
+  "Category": "Champion"
+ },
+ "S13_Grand_Champion_Hoops": {
+  "Text": "Season 13 Dunk Master",
+  "Category": "Champion"
+ },
+ "Est_2015": {
+  "Text": "EST. 2015",
+  "Category": ""
+ },
+ "Est_2016": {
+  "Text": "EST. 2016",
+  "Category": ""
+ },
+ "Est_2017": {
+  "Text": "EST. 2017",
+  "Category": ""
+ },
+ "Est_2018": {
+  "Text": "EST. 2018",
+  "Category": ""
+ },
+ "Est_2019": {
+  "Text": "EST. 2019",
+  "Category": ""
+ },
+ "Est_2020": {
+  "Text": "EST. 2020",
+  "Category": ""
+ },
+ "AutoTour_01_Bronze_1": {
+  "Text": "S1 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_01_Bronze_2": {
+  "Text": "S1 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_01_Silver_1": {
+  "Text": "S1 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_01_Silver_2": {
+  "Text": "S1 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_01_Gold_1": {
+  "Text": "S1 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_01_Gold_2": {
+  "Text": "S1 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_01_Platinum_1": {
+  "Text": "S1 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_01_Platinum_2": {
+  "Text": "S1 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_01_Diamond_1": {
+  "Text": "S1 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_01_Diamond_2": {
+  "Text": "S1 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_01_Champion_1": {
+  "Text": "S1 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_01_Champion_2": {
+  "Text": "S1 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_01_GrandChampion_1": {
+  "Text": "S1 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_01_GrandChampion_2": {
+  "Text": "S1 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_01_SuperSonicLegend_1": {
+  "Text": "S1 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_01_SuperSonicLegend_2": {
+  "Text": "S1 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "RP6_Technician": {
+  "Text": "Technician",
+  "Category": ""
+ },
+ "RP6_Thriller": {
+  "Text": "Thriller",
+  "Category": ""
+ },
+ "RP6_TroubleShooter": {
+  "Text": "Trouble Shooter",
+  "Category": ""
+ },
+ "RP6_TheMercurial": {
+  "Text": "The Mercurial",
+  "Category": ""
+ },
+ "RP6_VirtualRealist": {
+  "Text": "Virtual Realist",
+  "Category": ""
+ },
+ "RP6_Soloist": {
+  "Text": "Soloist",
+  "Category": ""
+ },
+ "RP6_NetWorker": {
+  "Text": "Net Worker",
+  "Category": ""
+ },
+ "RP6_StreetSamurai": {
+  "Text": "Dirtsider",
+  "Category": ""
+ },
+ "RP6_Duelist": {
+  "Text": "Duelist",
+  "Category": ""
+ },
+ "RP6_Fliptastic": {
+  "Text": "Fliptastic",
+  "Category": ""
+ },
+ "RP6_Maestro": {
+  "Text": "Maestro",
+  "Category": ""
+ },
+ "FR_Airhead": {
+  "Text": "Airhead",
+  "Category": ""
+ },
+ "2Time_World_Champion": {
+  "Text": "2-Time World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "3Time_World_Champion": {
+  "Text": "3-Time World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "4Time_World_Champion": {
+  "Text": "4-Time World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "5Time_World_Champion": {
+  "Text": "5-Time World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RP7_FifthWheel": {
+  "Text": "Fifth Wheel",
+  "Category": ""
+ },
+ "RP7_Gearshifter": {
+  "Text": "Gearshifter",
+  "Category": ""
+ },
+ "RP7_Throwback": {
+  "Text": "Throwback",
+  "Category": ""
+ },
+ "RP7_Cross_Platformer": {
+  "Text": "Cross-Platformer",
+  "Category": ""
+ },
+ "RP7_SupersonicAcrobat": {
+  "Text": "Supersonic Acrobat",
+  "Category": ""
+ },
+ "RP7_Renegade": {
+  "Text": "Renegade",
+  "Category": ""
+ },
+ "RP7_FreeSpirit": {
+  "Text": "Free Spirit",
+  "Category": ""
+ },
+ "RP7_RocketRookie": {
+  "Text": "Rocket Rookie",
+  "Category": ""
+ },
+ "RP7_Carpooler": {
+  "Text": "Carpooler",
+  "Category": ""
+ },
+ "RP8_ProspectElite": {
+  "Text": "Prospect Elite",
+  "Category": ""
+ },
+ "RP7_Passtronaut": {
+  "Text": "Passtronaut",
+  "Category": ""
+ },
+ "RLRS_06_Challenger": {
+  "Text": "Rival Series Season 6 Challenger",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_09_Contender": {
+  "Text": "RLCS Season 9 Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_09_NA_Champion": {
+  "Text": "RLCS Season 9 NA Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_09_Elite": {
+  "Text": "RLCS Season 9 Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_09_EU_Champion": {
+  "Text": "RLCS Season 9 EU Champion",
+  "Category": "RLCS_Champion"
+ },
+ "SE_Long_Time_Fan": {
+  "Text": "Longtime Fan",
+  "Category": ""
+ },
+ "Season14GrandChampion": {
+  "Text": "Season 14 Grand Champion",
+  "Category": "Champion"
+ },
+ "S14_Grand_Champion_Rumble": {
+  "Text": "Season 14 RNG Champ",
+  "Category": "Champion"
+ },
+ "S14_Grand_Champion_Dropshot": {
+  "Text": "Season 14 Floor Destroyer",
+  "Category": "Champion"
+ },
+ "S14_Grand_Champion_SnowDay": {
+  "Text": "Season 14 Blizzard Wizard",
+  "Category": "Champion"
+ },
+ "S14_Grand_Champion_Hoops": {
+  "Text": "Season 14 Dunk Master",
+  "Category": "Champion"
+ },
+ "KickOff_AsiaElite": {
+  "Text": "The Kickoff - Asia Elite",
+  "Category": "Champion"
+ },
+ "KickOff_AsiaGrandFinalist": {
+  "Text": "The Kickoff - Asia Grand Finalist",
+  "Category": "Champion"
+ },
+ "KickOff_AsiaChampion": {
+  "Text": "The Kickoff - Asia Champion",
+  "Category": "Champion"
+ },
+ "KickOff_MiddleEastElite": {
+  "Text": "The KickOff - Middle East Elite",
+  "Category": "Champion"
+ },
+ "KickOff_MiddleEastGrandFinalist": {
+  "Text": "The KickOff - Middle East Grand Finalist",
+  "Category": "Champion"
+ },
+ "KickOff_MiddleEastChampion": {
+  "Text": "The KickOff - Middle East Champion",
+  "Category": "Champion"
+ },
+ "FR_Hardstuck": {
+  "Text": "Hardstuck",
+  "Category": ""
+ },
+ "GrandSeries_09_Champion": {
+  "Text": "Grand Series Season 9 Champion",
+  "Category": "RLCS_Champion"
+ },
+ "GrandSeries_09_Elite": {
+  "Text": "Grand Series Season 9 Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RP8_Diva": {
+  "Text": "Diva",
+  "Category": ""
+ },
+ "RP8_The_Conductor": {
+  "Text": "The Conductor",
+  "Category": ""
+ },
+ "RP8_Beatseeker": {
+  "Text": "Beatseeker",
+  "Category": ""
+ },
+ "RP8_The_Entertainer": {
+  "Text": "The Entertainer",
+  "Category": ""
+ },
+ "RP8_Headliner": {
+  "Text": "Headliner",
+  "Category": ""
+ },
+ "RP8_Rockin_Roller": {
+  "Text": "Rockin' Roller",
+  "Category": ""
+ },
+ "SE_SleighQueen": {
+  "Text": "Sleigh Queen",
+  "Category": ""
+ },
+ "S15_Grand_Champion_Rumble": {
+  "Text": "S1 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S15_Grand_Champion_DropShot": {
+  "Text": "S1 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S15_Grand_Champion_SnowDay": {
+  "Text": "S1 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S15_Grand_Champion_Hoops": {
+  "Text": "S1 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "Season15GrandChampion": {
+  "Text": "S1 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "AutoTour_02_Bronze_1": {
+  "Text": "S2 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_02_Bronze_2": {
+  "Text": "S2 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_02_Silver_1": {
+  "Text": "S2 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_02_Silver_2": {
+  "Text": "S2 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_02_Gold_1": {
+  "Text": "S2 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_02_Gold_2": {
+  "Text": "S2 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_02_Platinum_1": {
+  "Text": "S2 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_02_Platinum_2": {
+  "Text": "S2 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_02_Diamond_1": {
+  "Text": "S2 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_02_Diamond_2": {
+  "Text": "S2 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_02_Champion_1": {
+  "Text": "S2 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_02_Champion_2": {
+  "Text": "S2 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_02_GrandChampion_1": {
+  "Text": "S2 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_02_GrandChampion_2": {
+  "Text": "S2 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "S15_SuperSonic_Legend": {
+  "Text": "S1 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S15_SSL_Rumble": {
+  "Text": "S1 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S15_SSL_DropShot": {
+  "Text": "S1 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S15_SSL_SnowDay": {
+  "Text": "S1 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S15_SSL_Hoops": {
+  "Text": "S1 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "AutoTour_02_SuperSonicLegend_1": {
+  "Text": "S2 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_02_SuperSonicLegend_2": {
+  "Text": "S2 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "RLCS_X_Major_Champion": {
+  "Text": "RLCS X Major Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_X_Major_Finalist": {
+  "Text": "RLCS X Major Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_X_Major_Elite": {
+  "Text": "RLCS X Major Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_X_Regional_Champion": {
+  "Text": "RLCS X Regional Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_X_Regional_Finalist": {
+  "Text": "RLCS X Regional Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "SE_LuckyDevil": {
+  "Text": "Lucky Devil",
+  "Category": ""
+ },
+ "SE_GridironGuru": {
+  "Text": "Gridiron Guru",
+  "Category": ""
+ },
+ "RP9_Hairpin_Hero": {
+  "Text": "Hairpin Hero",
+  "Category": ""
+ },
+ "RP9_Victory_Lapper": {
+  "Text": "Victory Lapper",
+  "Category": ""
+ },
+ "RP9_Slipstreamer": {
+  "Text": "Slipstreamer",
+  "Category": ""
+ },
+ "RP9_Downforcer": {
+  "Text": "Downforcer",
+  "Category": ""
+ },
+ "RP9_Crew_Chief": {
+  "Text": "Crew Chief",
+  "Category": ""
+ },
+ "RP9_Apex_Predator": {
+  "Text": "Apex Predator",
+  "Category": ""
+ },
+ "RP9_Tire_Changer": {
+  "Text": "Tire Changer",
+  "Category": ""
+ },
+ "RP9_Granny_Shifter": {
+  "Text": "Granny Shifter",
+  "Category": ""
+ },
+ "RP9_Powertrainer": {
+  "Text": "Powertrainer",
+  "Category": ""
+ },
+ "SE_ExtraOrdinary": {
+  "Text": "Extra Ordinary",
+  "Category": ""
+ },
+ "CRL_Spring_2020_Champion": {
+  "Text": "CRL Spring 2020 Champion",
+  "Category": "Champion"
+ },
+ "CRL_Spring_2020_Elite": {
+  "Text": "CRL Spring 2020 Elite",
+  "Category": "Champion"
+ },
+ "CRL_Spring_2020_Contender": {
+  "Text": "CRL Spring 2020 Contender",
+  "Category": "Champion"
+ },
+ "CRL_Spring_Showdown_Champ": {
+  "Text": "Spring Showdown Champ",
+  "Category": "Champion"
+ },
+ "CRL_Spring_Showdown_Elite": {
+  "Text": "Spring Showdown Elite",
+  "Category": "Champion"
+ },
+ "Summer_Series_Champion": {
+  "Text": "Summer Series Champion",
+  "Category": "Champion"
+ },
+ "Summer_Series_Elite": {
+  "Text": "Summer Series Elite",
+  "Category": "Champion"
+ },
+ "CRL_Fall_2020_Champion": {
+  "Text": "CRL Fall 2020 Champion",
+  "Category": "Champion"
+ },
+ "CRL_Fall_2020_Elite": {
+  "Text": "CRL Fall 2020 Elite",
+  "Category": "Champion"
+ },
+ "CRL_Fall_2020_Contender": {
+  "Text": "CRL Fall 2020 Contender",
+  "Category": "Champion"
+ },
+ "SE_Gridiron_Games_Champion": {
+  "Text": "Gridiron Games Champion",
+  "Category": "RLCS_Champion"
+ },
+ "SE_FordFreestyler": {
+  "Text": "Ford Freestyler",
+  "Category": "RLCS_Champion"
+ },
+ "SE_FordFreestyleFinalist": {
+  "Text": "Ford Freestyle Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "SE_FordFreestyleChampion": {
+  "Text": "Ford Freestyle Champion",
+  "Category": "RLCS_Champion"
+ },
+ "S16_Grand_Champion_Rumble": {
+  "Text": "S2 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S16_Grand_Champion_DropShot": {
+  "Text": "S2 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S16_Grand_Champion_SnowDay": {
+  "Text": "S2 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S16_Grand_Champion_Hoops": {
+  "Text": "S2 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "Season16GrandChampion": {
+  "Text": "S2 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "AutoTour_03_Bronze_1": {
+  "Text": "S3 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_03_Bronze_2": {
+  "Text": "S3 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_03_Silver_1": {
+  "Text": "S3 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_03_Silver_2": {
+  "Text": "S3 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_03_Gold_1": {
+  "Text": "S3 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_03_Gold_2": {
+  "Text": "S3 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_03_Platinum_1": {
+  "Text": "S3 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_03_Platinum_2": {
+  "Text": "S3 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_03_Diamond_1": {
+  "Text": "S3 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_03_Diamond_2": {
+  "Text": "S3 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_03_Champion_1": {
+  "Text": "S3 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_03_Champion_2": {
+  "Text": "S3 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_03_GrandChampion_1": {
+  "Text": "S3 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_03_GrandChampion_2": {
+  "Text": "S3 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "S16_SuperSonic_Legend": {
+  "Text": "S2 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S16_SSL_Rumble": {
+  "Text": "S2 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S16_SSL_DropShot": {
+  "Text": "S2 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S16_SSL_SnowDay": {
+  "Text": "S2 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S16_SSL_Hoops": {
+  "Text": "S2 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "AutoTour_03_SuperSonicLegend_1": {
+  "Text": "S3 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_03_SuperSonicLegend_2": {
+  "Text": "S3 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "RLOC_Season_9_Elite": {
+  "Text": "RLOC Season 9 Elite",
+  "Category": "RLCS_Champion"
+ },
+ "White_Hat_Legend": {
+  "Text": "White Hat Legend",
+  "Category": "Helper"
+ },
+ "FF_TunaNoCrust": {
+  "Text": "Tuna, No Crust",
+  "Category": ""
+ },
+ "Monstercat_OG": {
+  "Text": "Monstercat OG",
+  "Category": ""
+ },
+ "S17_Grand_Champion_Rumble": {
+  "Text": "S3 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S17_Grand_Champion_DropShot": {
+  "Text": "S3 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S17_Grand_Champion_SnowDay": {
+  "Text": "S3 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S17_Grand_Champion_Hoops": {
+  "Text": "S3 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "Season17GrandChampion": {
+  "Text": "S3 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "S17_SuperSonic_Legend": {
+  "Text": "S3 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S17_SSL_Rumble": {
+  "Text": "S3 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S17_SSL_DropShot": {
+  "Text": "S3 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S17_SSL_SnowDay": {
+  "Text": "S3 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S17_SSL_Hoops": {
+  "Text": "S3 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "RLCS_X_Champion": {
+  "Text": "RLCS X Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_X_Finalist": {
+  "Text": "RLCS X Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_X_Contender": {
+  "Text": "RLCS X Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_X_Elite": {
+  "Text": "RLCS X Elite",
+  "Category": "RLCS_Champion"
+ },
+ "CRL_Spring_21_Champion": {
+  "Text": "CRL Spring 2021 Champion",
+  "Category": "Champion"
+ },
+ "CRL_Spring_21_Elite": {
+  "Text": "CRL Spring 2021 Elite",
+  "Category": "Champion"
+ },
+ "CRL_Spring_21_Contender": {
+  "Text": "CRL Spring 2021 Contender",
+  "Category": "Champion"
+ },
+ "RP10_Boost_Bandit": {
+  "Text": "Boost Bandit",
+  "Category": ""
+ },
+ "RP10_The_Sheriff": {
+  "Text": "The Sheriff",
+  "Category": ""
+ },
+ "RP10_Outrider": {
+  "Text": "Outrider",
+  "Category": ""
+ },
+ "RP10_Yellowbelly": {
+  "Text": "Yellowbelly",
+  "Category": ""
+ },
+ "RP10_Sawbones": {
+  "Text": "Sawbones",
+  "Category": ""
+ },
+ "RP10_Wanted": {
+  "Text": "Wanted",
+  "Category": ""
+ },
+ "RP10_Lunkhead": {
+  "Text": "Lunkhead",
+  "Category": ""
+ },
+ "RP10_Car_Cowboy": {
+  "Text": "Car Cowboy",
+  "Category": ""
+ },
+ "RP10_Ace_In_The_Hole": {
+  "Text": "Ace In The Hole",
+  "Category": ""
+ },
+ "AutoTour_04_Bronze_1": {
+  "Text": "S4 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_04_Bronze_2": {
+  "Text": "S4 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_04_Silver_1": {
+  "Text": "S4 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_04_Silver_2": {
+  "Text": "S4 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_04_Gold_1": {
+  "Text": "S4 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_04_Gold_2": {
+  "Text": "S4 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_04_Platinum_1": {
+  "Text": "S4 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_04_Platinum_2": {
+  "Text": "S4 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_04_Diamond_1": {
+  "Text": "S4 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_04_Diamond_2": {
+  "Text": "S4 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_04_Champion_1": {
+  "Text": "S4 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_04_Champion_2": {
+  "Text": "S4 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_04_GrandChampion_1": {
+  "Text": "S4 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_04_GrandChampion_2": {
+  "Text": "S4 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_04_SuperSonicLegend_1": {
+  "Text": "S4 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_04_SuperSonicLegend_2": {
+  "Text": "S4 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "SE_DarkKnight": {
+  "Text": "Dark Knight",
+  "Category": ""
+ },
+ "SE_Agent007": {
+  "Text": "00 Agent",
+  "Category": ""
+ },
+ "FR_Onliner": {
+  "Text": "Onliner",
+  "Category": ""
+ },
+ "RP11_Zero_G": {
+  "Text": "Zero-G",
+  "Category": ""
+ },
+ "RP11_Rocket_Scientist": {
+  "Text": "Rocket Scientist",
+  "Category": ""
+ },
+ "RP11_Lightspeed_Lunatic": {
+  "Text": "Lightspeed Lunatic",
+  "Category": ""
+ },
+ "RP11_Rover": {
+  "Text": "Rover",
+  "Category": ""
+ },
+ "RP11_Star_Shooter": {
+  "Text": "Star Shooter",
+  "Category": ""
+ },
+ "RP11_Axial_Tilted": {
+  "Text": "Axial Tilted",
+  "Category": ""
+ },
+ "RP11_Spaced_Out": {
+  "Text": "Spaced Out",
+  "Category": ""
+ },
+ "SE_AbominableThrowman": {
+  "Text": "Abominable Throwman",
+  "Category": ""
+ },
+ "AutoTour_05_Bronze_1": {
+  "Text": "S5 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_05_Bronze_2": {
+  "Text": "S5 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_05_Silver_1": {
+  "Text": "S5 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_05_Silver_2": {
+  "Text": "S5 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_05_Gold_1": {
+  "Text": "S5 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_05_Gold_2": {
+  "Text": "S5 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_05_Platinum_1": {
+  "Text": "S5 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_05_Platinum_2": {
+  "Text": "S5 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_05_Diamond_1": {
+  "Text": "S5 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_05_Diamond_2": {
+  "Text": "S5 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_05_Champion_1": {
+  "Text": "S5 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_05_Champion_2": {
+  "Text": "S5 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_05_GrandChampion_1": {
+  "Text": "S5 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_05_GrandChampion_2": {
+  "Text": "S5 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_05_SuperSonicLegend_1": {
+  "Text": "S5 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_05_SuperSonicLegend_2": {
+  "Text": "S5 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "S18_Grand_Champion_Rumble": {
+  "Text": "S4 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S18_Grand_Champion_DropShot": {
+  "Text": "S4 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S18_Grand_Champion_SnowDay": {
+  "Text": "S4 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S18_Grand_Champion_Hoops": {
+  "Text": "S4 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "Season18GrandChampion": {
+  "Text": "S4 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "S18_SSL_Rumble": {
+  "Text": "S4 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S18_SSL_DropShot": {
+  "Text": "S4 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S18_SSL_SnowDay": {
+  "Text": "S4 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S18_SSL_Hoops": {
+  "Text": "S4 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "S18_SuperSonic_Legend": {
+  "Text": "S4 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "BMW_Freestyle_Champion": {
+  "Text": "BMW Freestyle Champion",
+  "Category": "RLCS_Champion"
+ },
+ "BMW_Freestyle_Finalist": {
+  "Text": "BMW Freestyle Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "BMW_Freestyle_Elite": {
+  "Text": "BMW Freestyle Elite",
+  "Category": "RLCS_Champion"
+ },
+ "BMW_Freestyler": {
+  "Text": "BMW Freestyler",
+  "Category": "RLCS_Champion"
+ },
+ "PsyonixHackathonWinner": {
+  "Text": "Psyonix Hackathon Winner",
+  "Category": "Developer"
+ },
+ "SE_FieldGeneral": {
+  "Text": "Field General",
+  "Category": ""
+ },
+ "SE_PlayerOfGames": {
+  "Text": "Player of Games",
+  "Category": ""
+ },
+ "SE_Instigator": {
+  "Text": "Instigator",
+  "Category": ""
+ },
+ "DiscordLegend": {
+  "Text": "Discord Legend",
+  "Category": "Helper"
+ },
+ "CRL_Fall_2021_Champion": {
+  "Text": "CRL Fall 2021 Champion",
+  "Category": "Champion"
+ },
+ "CRL_Fall_2021_Elite": {
+  "Text": "CRL Fall 2021 Elite",
+  "Category": "Champion"
+ },
+ "CRL_Fall_2021_Contender": {
+  "Text": "CRL Fall 2021 Contender",
+  "Category": "Champion"
+ },
+ "RLCS_21_22_Regional_Champion": {
+  "Text": "RLCS Regional Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_21_22_Regional_Finalist": {
+  "Text": "RLCS Regional Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_21_22_Major_Champion": {
+  "Text": "RLCS Fall Major Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_21_22_Major_Finalist": {
+  "Text": "RLCS Fall Major Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_21_22_Major_Elite": {
+  "Text": "RLCS Fall Major Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_21_22_Major_Contender": {
+  "Text": "RLCS Fall Major Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RP12_Super_Sketchy": {
+  "Text": "Super Sketchy",
+  "Category": ""
+ },
+ "RP12_Tilted_Perspective": {
+  "Text": "Tilted Perspective",
+  "Category": ""
+ },
+ "RP12_Artful_Dodger": {
+  "Text": "Artful Dodger",
+  "Category": ""
+ },
+ "RP12_Flat_Washed": {
+  "Text": "Flat Washed",
+  "Category": ""
+ },
+ "RP12_Major_Creator": {
+  "Text": "Master Crafter",
+  "Category": ""
+ },
+ "RP12_The_Muse": {
+  "Text": "The Muse",
+  "Category": ""
+ },
+ "RP12_Human_Highlight": {
+  "Text": "Human Highlight",
+  "Category": ""
+ },
+ "SE_MechanicalMenace": {
+  "Text": "Mechanical Menace",
+  "Category": ""
+ },
+ "S19_SSL_Rumble": {
+  "Text": "S5 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S19_SSL_DropShot": {
+  "Text": "S5 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S19_SSL_SnowDay": {
+  "Text": "S5 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S19_SSL_Hoops": {
+  "Text": "S5 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "S19_SuperSonic_Legend": {
+  "Text": "S5 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S19_Grand_Champion_Rumble": {
+  "Text": "S5 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S19_Grand_Champion_DropShot": {
+  "Text": "S5 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S19_Grand_Champion_SnowDay": {
+  "Text": "S5 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S19_Grand_Champion_Hoops": {
+  "Text": "S5 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "Season19GrandChampion": {
+  "Text": "S5 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "AutoTour_06_Bronze_1": {
+  "Text": "S6 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_06_Bronze_2": {
+  "Text": "S6 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_06_Silver_1": {
+  "Text": "S6 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_06_Silver_2": {
+  "Text": "S6 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_06_Gold_1": {
+  "Text": "S6 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_06_Gold_2": {
+  "Text": "S6 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_06_Platinum_1": {
+  "Text": "S6 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_06_Platinum_2": {
+  "Text": "S6 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_06_Diamond_1": {
+  "Text": "S6 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_06_Diamond_2": {
+  "Text": "S6 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_06_Champion_1": {
+  "Text": "S6 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_06_Champion_2": {
+  "Text": "S6 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_06_GrandChampion_1": {
+  "Text": "S6 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_06_GrandChampion_2": {
+  "Text": "S6 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_06_SuperSonicLegend_1": {
+  "Text": "S6 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_06_SuperSonicLegend_2": {
+  "Text": "S6 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "PostPartier": {
+  "Text": "Postpartier",
+  "Category": ""
+ },
+ "SE_KnockoutArtist": {
+  "Text": "Knockout Artist",
+  "Category": ""
+ },
+ "RLCS_WinterMajor_Champion": {
+  "Text": "RLCS Winter Major Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_WinterMajor_Finalist": {
+  "Text": "RLCS Winter Major Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_WinterMajor_Elite": {
+  "Text": "RLCS Winter Major Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_WinterMajor_Contender": {
+  "Text": "RLCS Winter Major Contender",
+  "Category": "RLCS_Champion"
+ },
+ "CRL_Spring_22_Champion": {
+  "Text": "CRL Spring 2022 Champion",
+  "Category": "Champion"
+ },
+ "CRL_Spring_22_Elite": {
+  "Text": "CRL Spring 2022 Elite",
+  "Category": "Champion"
+ },
+ "CRL_Spring_22_Contender": {
+  "Text": "CRL Spring 2022 Contender",
+  "Category": "Champion"
+ },
+ "CRL_Spring_22_WorldChampion": {
+  "Text": "CRL 2022 World Champion",
+  "Category": "Champion"
+ },
+ "SE_Full_Throttle": {
+  "Text": "Full Throttle",
+  "Category": ""
+ },
+ "SE_FreePlayerTitle": {
+  "Text": "Free Player Title",
+  "Category": ""
+ },
+ "SE_OnlyTheBest": {
+  "Text": "Golden Goat",
+  "Category": ""
+ },
+ "RP13_Chic_Geek": {
+  "Text": "Chic Geek",
+  "Category": ""
+ },
+ "RP13_Credit_Hoarder": {
+  "Text": "Credit Hoarder",
+  "Category": ""
+ },
+ "RP13_Kinda_Big_Deal": {
+  "Text": "Kinda Big Deal",
+  "Category": ""
+ },
+ "RP13_Aspiring_Influencer": {
+  "Text": "Aspiring Influencer",
+  "Category": ""
+ },
+ "RP13_A_Lister": {
+  "Text": "A-Lister",
+  "Category": ""
+ },
+ "RP13_Red_Carpet_Ready": {
+  "Text": "Red Carpet Ready",
+  "Category": ""
+ },
+ "RP13_Golden_Goalkeeper": {
+  "Text": "Golden Goalkeeper",
+  "Category": ""
+ },
+ "AutoTour_07_Bronze_1": {
+  "Text": "S7 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_07_Bronze_2": {
+  "Text": "S7 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_07_Silver_1": {
+  "Text": "S7 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_07_Silver_2": {
+  "Text": "S7 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_07_Gold_1": {
+  "Text": "S7 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_07_Gold_2": {
+  "Text": "S7 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_07_Platinum_1": {
+  "Text": "S7 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_07_Platinum_2": {
+  "Text": "S7 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_07_Diamond_1": {
+  "Text": "S7 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_07_Diamond_2": {
+  "Text": "S7 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_07_Champion_1": {
+  "Text": "S7 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_07_Champion_2": {
+  "Text": "S7 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_07_GrandChampion_1": {
+  "Text": "S7 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_07_GrandChampion_2": {
+  "Text": "S7 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_07_SuperSonicLegend_1": {
+  "Text": "S7 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_07_SuperSonicLegend_2": {
+  "Text": "S7 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "S20_SSL_Rumble": {
+  "Text": "S6 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S20_SSL_DropShot": {
+  "Text": "S6 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S20_SSL_SnowDay": {
+  "Text": "S6 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S20_SSL_Hoops": {
+  "Text": "S6 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "S20_SuperSonic_Legend": {
+  "Text": "S6 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S20_Grand_Champion_Rumble": {
+  "Text": "S6 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S20_Grand_Champion_DropShot": {
+  "Text": "S6 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S20_Grand_Champion_SnowDay": {
+  "Text": "S6 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S20_Grand_Champion_Hoops": {
+  "Text": "S6 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "Season20GrandChampion": {
+  "Text": "S6 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "CRL_22_Worlds_Finalist": {
+  "Text": "CRL 2022 Worlds Finalist",
+  "Category": "Champion"
+ },
+ "CRL_22_Worlds_Elite": {
+  "Text": "CRL 2022 Worlds Elite",
+  "Category": "Champion"
+ },
+ "CRL_22_Worlds_Contender": {
+  "Text": "CRL 2022 Worlds Contender",
+  "Category": "Champion"
+ },
+ "RLCS_Spring_Major_Champion": {
+  "Text": "RLCS Spring Major Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_Spring_Major_Finalist": {
+  "Text": "RLCS Spring Major Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_Spring_Major_Elite": {
+  "Text": "RLCS Spring Major Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_Spring_Major_Contender": {
+  "Text": "RLCS Spring Major Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_21_22_World_Champion": {
+  "Text": "RLCS 2021-22 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_World_Champion_Finalist": {
+  "Text": "RLCS World Championship Finalist",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_World_Champion_Elite": {
+  "Text": "RLCS World Championship Elite",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_World_Champion_Contender": {
+  "Text": "RLCS World Championship Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_Wildcard_Contender": {
+  "Text": "RLCS Wildcard Contender",
+  "Category": "RLCS_Champion"
+ },
+ "SE_TeamTitan": {
+  "Text": "Team Titan",
+  "Category": ""
+ },
+ "SE_TeamPlayer": {
+  "Text": "Team Player",
+  "Category": ""
+ },
+ "S21_SSL_Rumble": {
+  "Text": "S7 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S21_SSL_DropShot": {
+  "Text": "S7 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S21_SSL_SnowDay": {
+  "Text": "S7 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S21_SSL_Hoops": {
+  "Text": "S7 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "S21_SuperSonic_Legend": {
+  "Text": "S7 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S21_Grand_Champion_Rumble": {
+  "Text": "S7 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S21_Grand_Champion_DropShot": {
+  "Text": "S7 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S21_Grand_Champion_SnowDay": {
+  "Text": "S7 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S21_Grand_Champion_Hoops": {
+  "Text": "S7 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "Season21GrandChampion": {
+  "Text": "S7 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "AutoTour_08_Bronze_1": {
+  "Text": "S8 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_08_Bronze_2": {
+  "Text": "S8 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_08_Silver_1": {
+  "Text": "S8 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_08_Silver_2": {
+  "Text": "S8 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_08_Gold_1": {
+  "Text": "S8 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_08_Gold_2": {
+  "Text": "S8 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_08_Platinum_1": {
+  "Text": "S8 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_08_Platinum_2": {
+  "Text": "S8 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_08_Diamond_1": {
+  "Text": "S8 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_08_Diamond_2": {
+  "Text": "S8 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_08_Champion_1": {
+  "Text": "S8 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_08_Champion_2": {
+  "Text": "S8 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_08_GrandChampion_1": {
+  "Text": "S8 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_08_GrandChampion_2": {
+  "Text": "S8 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_08_SuperSonicLegend_1": {
+  "Text": "S8 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_08_SuperSonicLegend_2": {
+  "Text": "S8 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "RP14_Block_Partier": {
+  "Text": "Block Partier",
+  "Category": ""
+ },
+ "RP14_Big_City_Baller": {
+  "Text": "Big City Baller",
+  "Category": ""
+ },
+ "RP14_Street_Genius": {
+  "Text": "Street Genius",
+  "Category": ""
+ },
+ "RP14_Sky_Scraper": {
+  "Text": "Sky Scraper",
+  "Category": ""
+ },
+ "RP14_Urbanite": {
+  "Text": "Urbanite",
+  "Category": ""
+ },
+ "RP14_Finely_Tuned": {
+  "Text": "Finely Tuned",
+  "Category": ""
+ },
+ "RP14_Cosmopolitan": {
+  "Text": "Cosmopolitan",
+  "Category": ""
+ },
+ "SE_Vocal_Local": {
+  "Text": "Vocal Local",
+  "Category": ""
+ },
+ "SE_Sole_Survivor": {
+  "Text": "Sole Survivor",
+  "Category": ""
+ },
+ "SE_Footy_Fanatic": {
+  "Text": "Footy Fanatic",
+  "Category": ""
+ },
+ "SE_Jump_Starter": {
+  "Text": "Jump-Starter",
+  "Category": ""
+ },
+ "AutoTour_09_Bronze_1": {
+  "Text": "S9 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_09_Bronze_2": {
+  "Text": "S9 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_09_Silver_1": {
+  "Text": "S9 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_09_Silver_2": {
+  "Text": "S9 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_09_Gold_1": {
+  "Text": "S9 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_09_Gold_2": {
+  "Text": "S9 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_09_Platinum_1": {
+  "Text": "S9 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_09_Platinum_2": {
+  "Text": "S9 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_09_Diamond_1": {
+  "Text": "S9 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_09_Diamond_2": {
+  "Text": "S9 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_09_Champion_1": {
+  "Text": "S9 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_09_Champion_2": {
+  "Text": "S9 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_09_GrandChampion_1": {
+  "Text": "S9 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_09_GrandChampion_2": {
+  "Text": "S9 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_09_SuperSonicLegend_1": {
+  "Text": "S9 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_09_SuperSonicLegend_2": {
+  "Text": "S9 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "RP15_Whiff_Wizard": {
+  "Text": "Whiff Wizard",
+  "Category": ""
+ },
+ "RP15_Dungeon_Master": {
+  "Text": "Dungeon Master",
+  "Category": ""
+ },
+ "RP15_Dragon_Rider": {
+  "Text": "Dragon Rider",
+  "Category": ""
+ },
+ "RP15_5050_Magician": {
+  "Text": "50/50 Magician",
+  "Category": ""
+ },
+ "RP15_Fire_Flier": {
+  "Text": "Fire Flier",
+  "Category": ""
+ },
+ "RP15_Crit_Hitter": {
+  "Text": "Crit Hitter",
+  "Category": ""
+ },
+ "RP15_Frostbitten": {
+  "Text": "Frostbitten",
+  "Category": ""
+ },
+ "S22_SSL_Rumble": {
+  "Text": "S8 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S22_SSL_DropShot": {
+  "Text": "S8 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S22_SSL_SnowDay": {
+  "Text": "S8 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S22_SSL_Hoops": {
+  "Text": "S8 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "S22_SuperSonic_Legend": {
+  "Text": "S8 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S22_Grand_Champion_Rumble": {
+  "Text": "S8 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S22_Grand_Champion_DropShot": {
+  "Text": "S8 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S22_Grand_Champion_SnowDay": {
+  "Text": "S8 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S22_Grand_Champion_Hoops": {
+  "Text": "S8 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "Season22GrandChampion": {
+  "Text": "S8 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "SE_Frost_Boss": {
+  "Text": "Frost Boss",
+  "Category": ""
+ },
+ "SE_Nike_FC_Cup_MVP": {
+  "Text": "Nike FC Cup MVP",
+  "Category": ""
+ },
+ "SE_Style_Icon": {
+  "Text": "Style Icon",
+  "Category": "Helper"
+ },
+ "SE_TheInspector": {
+  "Text": "The Inspector",
+  "Category": ""
+ },
+ "CRL_Fall_22_Contender": {
+  "Text": "CRL Fall 2022 Contender",
+  "Category": "Champion"
+ },
+ "CRL_Fall_22_Elite": {
+  "Text": "CRL Fall 2022 Elite",
+  "Category": "Champion"
+ },
+ "CRL_Fall_22_Champion": {
+  "Text": "CRL Fall 2022 Champion",
+  "Category": "Champion"
+ },
+ "CRL_Spring_23_Contender": {
+  "Text": "CRL Spring 2023 Contender",
+  "Category": "Champion"
+ },
+ "CRL_Spring_23_Elite": {
+  "Text": "CRL Spring 2023 Elite",
+  "Category": "Champion"
+ },
+ "CRL_Spring_23_Champion": {
+  "Text": "CRL Spring 2023 Champion",
+  "Category": "Champion"
+ },
+ "CRL_23_WorldChampion": {
+  "Text": "CRL 2023 World Champion",
+  "Category": "Champion"
+ },
+ "CRL_23_Worlds_Finalist": {
+  "Text": "CRL 2023 Worlds Finalist",
+  "Category": "Champion"
+ },
+ "CRL_23_Worlds_Elite": {
+  "Text": "CRL 2023 Worlds Elite",
+  "Category": "Champion"
+ },
+ "CRL_23_Worlds_Contender": {
+  "Text": "CRL 2023 Worlds Contender",
+  "Category": "Champion"
+ },
+ "RLCS_22_23_World_Champion": {
+  "Text": "RLCS 2022-23 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_Referee": {
+  "Text": "RLCS Referee",
+  "Category": "Helper"
+ },
+ "RLSS_PocketLeagueMaster": {
+  "Text": "Pocket League Master",
+  "Category": "PocketLeague"
+ },
+ "AutoTour_10_Bronze_1": {
+  "Text": "S10 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_10_Bronze_2": {
+  "Text": "S10 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_10_Silver_1": {
+  "Text": "S10 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_10_Silver_2": {
+  "Text": "S10 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_10_Gold_1": {
+  "Text": "S10 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_10_Gold_2": {
+  "Text": "S10 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_10_Platinum_1": {
+  "Text": "S10 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_10_Platinum_2": {
+  "Text": "S10 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_10_Diamond_1": {
+  "Text": "S10 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_10_Diamond_2": {
+  "Text": "S10 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_10_Champion_1": {
+  "Text": "S10 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_10_Champion_2": {
+  "Text": "S10 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_10_GrandChampion_1": {
+  "Text": "S10 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_10_GrandChampion_2": {
+  "Text": "S10 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_10_SuperSonicLegend_1": {
+  "Text": "S10 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_10_SuperSonicLegend_2": {
+  "Text": "S10 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "S23_SSL_Rumble": {
+  "Text": "S9 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S23_SSL_DropShot": {
+  "Text": "S9 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S23_SSL_SnowDay": {
+  "Text": "S9 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S23_SSL_Hoops": {
+  "Text": "S9 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "S23_SuperSonic_Legend": {
+  "Text": "S9 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S23_Grand_Champion_Rumble": {
+  "Text": "S9 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S23_Grand_Champion_DropShot": {
+  "Text": "S9 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S23_Grand_Champion_SnowDay": {
+  "Text": "S9 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S23_Grand_Champion_Hoops": {
+  "Text": "S9 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "Season23GrandChampion": {
+  "Text": "S9 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "RP16_Dusty_Dunker": {
+  "Text": "Dusty Dunker",
+  "Category": ""
+ },
+ "RP16_Comeback_Kid": {
+  "Text": "Comeback Kid",
+  "Category": ""
+ },
+ "RP16_Blossoming_Bud": {
+  "Text": "Blossoming Bud",
+  "Category": ""
+ },
+ "RP16_Recovery_Whiz": {
+  "Text": "Recovery Whiz",
+  "Category": ""
+ },
+ "RP16_Fully_Flourished": {
+  "Text": "Fully Flourished",
+  "Category": ""
+ },
+ "RP16_Revivalist": {
+  "Text": "Revivalist",
+  "Category": ""
+ },
+ "RP16_Twilight_Trainer": {
+  "Text": "Twilight Trainer",
+  "Category": ""
+ },
+ "SE_RustBucket": {
+  "Text": "Rust Bucket",
+  "Category": ""
+ },
+ "SE_Droid": {
+  "Text": "Droid",
+  "Category": ""
+ },
+ "SE_Sleeper_Build": {
+  "Text": "Sleeper Build",
+  "Category": "Helper"
+ },
+ "RP17_Party_Planner": {
+  "Text": "Party Planner",
+  "Category": ""
+ },
+ "RP17_Hot_Hoonigan": {
+  "Text": "Hot Hoonigan",
+  "Category": ""
+ },
+ "RP17_Choku_Dori_Chief": {
+  "Text": "Choku-Dori Chief",
+  "Category": ""
+ },
+ "RP17_E_Brake_Expert": {
+  "Text": "E-Brake Expert",
+  "Category": ""
+ },
+ "AutoTour_11_Bronze_1": {
+  "Text": "S11 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_11_Bronze_2": {
+  "Text": "S11 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_11_Silver_1": {
+  "Text": "S11 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_11_Silver_2": {
+  "Text": "S11 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_11_Gold_1": {
+  "Text": "S11 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_11_Gold_2": {
+  "Text": "S11 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_11_Platinum_1": {
+  "Text": "S11 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_11_Platinum_2": {
+  "Text": "S11 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_11_Diamond_1": {
+  "Text": "S11 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_11_Diamond_2": {
+  "Text": "S11 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_11_Champion_1": {
+  "Text": "S11 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_11_Champion_2": {
+  "Text": "S11 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_11_GrandChampion_1": {
+  "Text": "S11 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_11_GrandChampion_2": {
+  "Text": "S11 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_11_SuperSonicLegend_1": {
+  "Text": "S11 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_11_SuperSonicLegend_2": {
+  "Text": "S11 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "RAINBOW_ICON": {
+  "Text": "RAINBOW ICON",
+  "Category": ""
+ },
+ "S10_Grand_Champion": {
+  "Text": "S10 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "S10_BLIZZARD_WIZARD": {
+  "Text": "S10 BLIZZARD WIZARD",
+  "Category": "SZN_1_Red"
+ },
+ "S10_RNG_CHAMP": {
+  "Text": "S10 RNG CHAMP",
+  "Category": "SZN_1_Red"
+ },
+ "S10_FLOOR_DESTROYER": {
+  "Text": "S10 FLOOR DESTROYER",
+  "Category": "SZN_1_Red"
+ },
+ "S10_DUNK_MASTER": {
+  "Text": "S10 DUNK MASTER",
+  "Category": "SZN_1_Red"
+ },
+ "S10_Supersonic_Legend": {
+  "Text": "S10 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S10_ICE_TITAN": {
+  "Text": "S10 ICE TITAN",
+  "Category": "SZN_1_White"
+ },
+ "S10_RNGENIUS": {
+  "Text": "S10 RNGENIUS",
+  "Category": "SZN_1_White"
+ },
+ "S10_TILE_ANNIHILATOR": {
+  "Text": "S10 TILE ANNIHILATOR",
+  "Category": "SZN_1_White"
+ },
+ "S10_LEGENDARY_BALLER": {
+  "Text": "S10 LEGENDARY BALLER",
+  "Category": "SZN_1_White"
+ },
+ "AUTOBOT": {
+  "Text": "AUTOBOT",
+  "Category": ""
+ },
+ "ROBOT_IN_DISGUISE": {
+  "Text": "ROBOT IN DISGUISE",
+  "Category": ""
+ },
+ "SE_Tireless_Tryhard": {
+  "Text": "Tireless Tryhard",
+  "Category": ""
+ },
+ "AutoTour_12_Bronze_1": {
+  "Text": "S12 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_12_Bronze_2": {
+  "Text": "S12 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_12_Silver_1": {
+  "Text": "S12 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_12_Silver_2": {
+  "Text": "S12 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_12_Gold_1": {
+  "Text": "S12 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_12_Gold_2": {
+  "Text": "S12 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_12_Platinum_1": {
+  "Text": "S12 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_12_Platinum_2": {
+  "Text": "S12 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_12_Diamond_1": {
+  "Text": "S12 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_12_Diamond_2": {
+  "Text": "S12 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_12_Champion_1": {
+  "Text": "S12 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_12_Champion_2": {
+  "Text": "S12 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_12_GrandChampion_1": {
+  "Text": "S12 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_12_GrandChampion_2": {
+  "Text": "S12 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_12_SuperSonicLegend_1": {
+  "Text": "S12 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_12_SuperSonicLegend_2": {
+  "Text": "S12 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "S25_SSL_Rumble": {
+  "Text": "S11 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S25_SSL_DropShot": {
+  "Text": "S11 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S25_SSL_SnowDay": {
+  "Text": "S11 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S25_SSL_Hoops": {
+  "Text": "S11 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "S25_SuperSonic_Legend": {
+  "Text": "S11 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S25_Grand_Champion_Rumble": {
+  "Text": "S11 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S25_Grand_Champion_DropShot": {
+  "Text": "S11 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S25_Grand_Champion_SnowDay": {
+  "Text": "S11 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S25_Grand_Champion_Hoops": {
+  "Text": "S11 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "Season25GrandChampion": {
+  "Text": "S11 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "Bundesliga_Baller": {
+  "Text": "Bundesliga Baller",
+  "Category": ""
+ },
+ "Data_Driven": {
+  "Text": "Data Driven",
+  "Category": ""
+ },
+ "Hacktivist": {
+  "Text": "Hacktivist",
+  "Category": ""
+ },
+ "Highly_Technical": {
+  "Text": "Highly Technical",
+  "Category": ""
+ },
+ "Fully_Encrypted": {
+  "Text": "Fully Encrypted",
+  "Category": ""
+ },
+ "Obsolete_Version": {
+  "Text": "Obsolete Version",
+  "Category": ""
+ },
+ "The_Writer": {
+  "Text": "The Writer",
+  "Category": ""
+ },
+ "Gooooal": {
+  "Text": "Gooooal!",
+  "Category": ""
+ },
+ "SE_PumpkinKing": {
+  "Text": "Pumpkin King",
+  "Category": ""
+ },
+ "Ghoulish_Gamer": {
+  "Text": "Ghoulish Gamer",
+  "Category": ""
+ },
+ "Billion_Dollar_Racer": {
+  "Text": "Sir Supersonic",
+  "Category": ""
+ },
+ "Retrofitted": {
+  "Text": "Retrofitted",
+  "Category": ""
+ },
+ "90s_Kid": {
+  "Text": "90's Kid",
+  "Category": ""
+ },
+ "Y2K_Ready": {
+  "Text": "Y2K Ready",
+  "Category": ""
+ },
+ "Mad_Millennial": {
+  "Text": "Mad Millennial",
+  "Category": ""
+ },
+ "S26_SSL_Rumble": {
+  "Text": "S12 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S26_SSL_DropShot": {
+  "Text": "S12 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S26_SSL_SnowDay": {
+  "Text": "S12 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S26_SSL_Hoops": {
+  "Text": "S12 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "S26_SuperSonic_Legend": {
+  "Text": "S12 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S26_Grand_Champion_Rumble": {
+  "Text": "S12 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S26_Grand_Champion_DropShot": {
+  "Text": "S12 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S26_Grand_Champion_SnowDay": {
+  "Text": "S12 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S26Grand_Champion_Hoops": {
+  "Text": "S12 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "Season26GrandChampion": {
+  "Text": "S12 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "AutoTour_13_Bronze_1": {
+  "Text": "S13 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_13_Bronze_2": {
+  "Text": "S13 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_13_Silver_1": {
+  "Text": "S13 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_13_Silver_2": {
+  "Text": "S13 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_13_Gold_1": {
+  "Text": "S13 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_13_Gold_2": {
+  "Text": "S13 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_13_Platinum_1": {
+  "Text": "S13 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_13_Platinum_2": {
+  "Text": "S13 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_13_Diamond_1": {
+  "Text": "S13 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_13_Diamond_2": {
+  "Text": "S13 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_13_Champion_1": {
+  "Text": "S13 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_13_Champion_2": {
+  "Text": "S13 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_13_GrandChampion_1": {
+  "Text": "S13 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_13_GrandChampion_2": {
+  "Text": "S13 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_13_SuperSonicLegend_1": {
+  "Text": "S13 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_13_SuperSonicLegend_2": {
+  "Text": "S13 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Cold_As_Ice": {
+  "Text": "Cold As Ice",
+  "Category": ""
+ },
+ "SE_ThisIsTheWay": {
+  "Text": "This is the Way",
+  "Category": ""
+ },
+ "SE_Mandalorian": {
+  "Text": "Mandalorian",
+  "Category": ""
+ },
+ "Cool_Captain": {
+  "Text": "Cool Captain",
+  "Category": ""
+ },
+ "Swag_Surfer": {
+  "Text": "Swag Surfer",
+  "Category": ""
+ },
+ "Beach_Bum": {
+  "Text": "Beach Bum",
+  "Category": ""
+ },
+ "Solid_Swimmer": {
+  "Text": "Solid Swimmer",
+  "Category": ""
+ },
+ "Season27GrandChampion": {
+  "Text": "S13 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "S27_Grand_Champion_Hoops": {
+  "Text": "S13 DUNK MASTER",
+  "Category": "SZN_1_Red"
+ },
+ "S27_SSL_Hoops": {
+  "Text": "S13 LEGENDARY BALLER",
+  "Category": "SZN_1_White"
+ },
+ "S27_Grand_Champion_Rumble": {
+  "Text": "S13 RNG CHAMP",
+  "Category": "SZN_1_Red"
+ },
+ "S27_SSL_Rumble": {
+  "Text": "S13 RNGENIUS",
+  "Category": "SZN_1_White"
+ },
+ "S27_Grand_Champion_SnowDay": {
+  "Text": "S13 BLIZZARD WIZARD",
+  "Category": "SZN_1_Red"
+ },
+ "S27_SSL_SnowDay": {
+  "Text": "S13 ICE TITAN",
+  "Category": "SZN_1_White"
+ },
+ "S27_SuperSonic_Legend": {
+  "Text": "S13 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "AutoTour_14_Bronze_1": {
+  "Text": "S14 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_14_Bronze_2": {
+  "Text": "S14 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_14_Silver_1": {
+  "Text": "S14 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_14_Silver_2": {
+  "Text": "S14 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_14_Gold_1": {
+  "Text": "S14 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_14_Gold_2": {
+  "Text": "S14 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_14_Platinum_1": {
+  "Text": "S14 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_14_Platinum_2": {
+  "Text": "S14 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_14_Diamond_1": {
+  "Text": "S14 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_14_Diamond_2": {
+  "Text": "S14 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_14_Champion_1": {
+  "Text": "S14 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_14_Champion_2": {
+  "Text": "S14 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_14_GrandChampion_1": {
+  "Text": "S14 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_14_GrandChampion_2": {
+  "Text": "S14 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_14_SuperSonicLegend_1": {
+  "Text": "S14 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_14_SuperSonicLegend_2": {
+  "Text": "S14 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Mutant": {
+  "Text": "Mutant",
+  "Category": ""
+ },
+ "CRL_Fall_2023_Champion": {
+  "Text": "CRL Fall 2023 Champion",
+  "Category": "Champion"
+ },
+ "CRL_Fall_2023_Contender": {
+  "Text": "CRL Fall 2023 Contender",
+  "Category": "Champion"
+ },
+ "CRL_Fall_2023_Elite": {
+  "Text": "CRL Fall 2023 Elite",
+  "Category": "Champion"
+ },
+ "RLCS_2024_Challenger": {
+  "Text": "RLCS 2024 Challenger",
+  "Category": "RLCS_Challenger"
+ },
+ "RLCS_2024_Contender": {
+  "Text": "RLCS 2024 Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2024_Regional_Champion": {
+  "Text": "RLCS 2024 Regional Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2024_Major_1_Champion": {
+  "Text": "RLCS 2024 Copenhagen Major Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2024_Major_1_Contender": {
+  "Text": "RLCS 2024 Copenhagen Major Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2024_Major_2_Champion": {
+  "Text": "RLCS 2024 London Major Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2024_Major_2_Contender": {
+  "Text": "RLCS 2024 London Major Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2024_World_Champion": {
+  "Text": "RLCS 2024 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_World_Championship_Contender": {
+  "Text": "RLCS 2024 World Championship Contender",
+  "Category": "RLCS_Champion"
+ },
+ "Mosh_Maniac": {
+  "Text": "Mosh Maniac",
+  "Category": ""
+ },
+ "Elder_Emo": {
+  "Text": "Elder Emo",
+  "Category": ""
+ },
+ "Headliner": {
+  "Text": "Vocalist",
+  "Category": ""
+ },
+ "Indie_Artist": {
+  "Text": "Indie Artist",
+  "Category": ""
+ },
+ "Season28GrandChampion": {
+  "Text": "S14 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "S28_Grand_Champion_Rumble": {
+  "Text": "S14 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S28_Grand_Champion_DropShot": {
+  "Text": "S14 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S28_Grand_Champion_Hoops": {
+  "Text": "S14 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "S28_SuperSonic_Legend": {
+  "Text": "S14 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S28_SSL_Rumble": {
+  "Text": "S14 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S28_SSL_DropShot": {
+  "Text": "S14 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S28_SSL_Hoops": {
+  "Text": "S14 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "AutoTour_15_Bronze_1": {
+  "Text": "S15 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_15_Bronze_2": {
+  "Text": "S15 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_15_Silver_1": {
+  "Text": "S15 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_15_Silver_2": {
+  "Text": "S15 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_15_Gold_1": {
+  "Text": "S15 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_15_Gold_2": {
+  "Text": "S15 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_15_Platinum_1": {
+  "Text": "S15 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_15_Platinum_2": {
+  "Text": "S15 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_15_Diamond_1": {
+  "Text": "S15 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_15_Diamond_2": {
+  "Text": "S15 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_15_Champion_1": {
+  "Text": "S15 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_15_Champion_2": {
+  "Text": "S15 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_15_GrandChampion_1": {
+  "Text": "S15 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_15_GrandChampion_2": {
+  "Text": "S15 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_15_SuperSonicLegend_1": {
+  "Text": "S15 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_15_SuperSonicLegend_2": {
+  "Text": "S15 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Shoobie": {
+  "Text": "Shoobie",
+  "Category": ""
+ },
+ "S29_GRAND_CHAMPION": {
+  "Text": "S15 GRAND CHAMPION",
+  "Category": "SZN_1_Red"
+ },
+ "S29_DUNK_MASTER": {
+  "Text": "S15 DUNK MASTER",
+  "Category": "SZN_1_Red"
+ },
+ "S29_LEGENDARY_BALLER": {
+  "Text": "S15 LEGENDARY BALLER",
+  "Category": "SZN_1_White"
+ },
+ "S29_RNG_CHAMP": {
+  "Text": "S15 RNG CHAMP",
+  "Category": "SZN_1_Red"
+ },
+ "S29_RNGENIUS": {
+  "Text": "S15 RNGENIUS",
+  "Category": "SZN_1_White"
+ },
+ "S29_BLIZZARD_WIZARD": {
+  "Text": "S15 BLIZZARD WIZARD",
+  "Category": "SZN_1_Red"
+ },
+ "S29_ICE_TITAN": {
+  "Text": "S15 ICE TITAN",
+  "Category": "SZN_1_White"
+ },
+ "S29_SUPERSONIC_LEGEND": {
+  "Text": "S15 SUPERSONIC LEGEND",
+  "Category": "SZN_1_White"
+ },
+ "AutoTour_16_Bronze_1": {
+  "Text": "S16 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_16_Bronze_2": {
+  "Text": "S16 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_16_Silver_1": {
+  "Text": "S16 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_16_Silver_2": {
+  "Text": "S16 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_16_Gold_1": {
+  "Text": "S16 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_16_Gold_2": {
+  "Text": "S16 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_16_Platinum_1": {
+  "Text": "S16 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_16_Platinum_2": {
+  "Text": "S16 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_16_Diamond_1": {
+  "Text": "S16 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_16_Diamond_2": {
+  "Text": "S16 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_16_Champion_1": {
+  "Text": "S16 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_16_Champion_2": {
+  "Text": "S16 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_16_GrandChampion_1": {
+  "Text": "S16 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_16_GrandChampion_2": {
+  "Text": "S16 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_16_SuperSonicLegend_1": {
+  "Text": "S16 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_16_SuperSonicLegend_2": {
+  "Text": "S16 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Outdoorsy": {
+  "Text": "Outdoorsy",
+  "Category": ""
+ },
+ "OffTheGrid": {
+  "Text": "Off The Grid",
+  "Category": ""
+ },
+ "HappyCamper": {
+  "Text": "Happy Camper",
+  "Category": ""
+ },
+ "Cryptozoologist": {
+  "Text": "Cryptozoologist",
+  "Category": ""
+ },
+ "GOAT_IN_TRAINING": {
+  "Text": "GOAT IN TRAINING",
+  "Category": ""
+ },
+ "FOREVER_FASTER": {
+  "Text": "FOREVER. FASTER.",
+  "Category": ""
+ },
+ "CompletelyLost": {
+  "Text": "Completely Lost",
+  "Category": ""
+ },
+ "Rocket_Passer": {
+  "Text": "Rocket Passer",
+  "Category": ""
+ },
+ "Next_Level": {
+  "Text": "Next Level",
+  "Category": ""
+ },
+ "S30_Grand_Champion": {
+  "Text": "S16 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "S30_Grand_Champion_Rumble": {
+  "Text": "S16 RNG CHAMP",
+  "Category": "SZN_1_Red"
+ },
+ "S30_Grand_Champion_DropShot": {
+  "Text": "S16 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S30_Grand_Champion_Hoops": {
+  "Text": "S16 DUNK MASTER",
+  "Category": "SZN_1_Red"
+ },
+ "S30_SuperSonic_Legend": {
+  "Text": "S16 SUPERSONIC LEGEND",
+  "Category": "SZN_1_White"
+ },
+ "S30_SSL_Rumble": {
+  "Text": "S16 RNGENIUS",
+  "Category": "SZN_1_White"
+ },
+ "S30_SSL_DropShot": {
+  "Text": "S16 TILE ANNIHILATOR",
+  "Category": "SZN_1_White"
+ },
+ "S30_SSL_Hoops": {
+  "Text": "S16 LEGENDARY BALLER",
+  "Category": "SZN_1_White"
+ },
+ "ButtonMasher": {
+  "Text": "Button Masher\t",
+  "Category": ""
+ },
+ "IGotNext": {
+  "Text": "I Got Next",
+  "Category": ""
+ },
+ "HighScorer": {
+  "Text": "High Scorer",
+  "Category": ""
+ },
+ "LanPartier": {
+  "Text": "Lan Partier",
+  "Category": ""
+ },
+ "Squishy": {
+  "Text": "Squishy Saver",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Squishy_Community": {
+  "Text": "Squishy Saver",
+  "Category": "Community_Spotlight"
+ },
+ "Ice_Cold": {
+  "Text": "Ice Cold",
+  "Category": ""
+ },
+ "Power_of_Friendship": {
+  "Text": "Power of Friendship",
+  "Category": ""
+ },
+ "AutoTour_17_Bronze_1": {
+  "Text": "S17 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_17_Bronze_2": {
+  "Text": "S17 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_17_Silver_1": {
+  "Text": "S17 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_17_Silver_2": {
+  "Text": "S17 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_17_Gold_1": {
+  "Text": "S17 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_17_Gold_2": {
+  "Text": "S17 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_17_Platinum_1": {
+  "Text": "S17 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_17_Platinum_2": {
+  "Text": "S17 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_17_Diamond_1": {
+  "Text": "S17 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_17_Diamond_2": {
+  "Text": "S17 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_17_Champion_1": {
+  "Text": "S17 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_17_Champion_2": {
+  "Text": "S17 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_17_GrandChampion_1": {
+  "Text": "S17 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_17_GrandChampion_2": {
+  "Text": "S17 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_17_SuperSonicLegend_1": {
+  "Text": "S17 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_17_SuperSonicLegend_2": {
+  "Text": "S17 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Aventurine": {
+  "Text": "Virtual Singer",
+  "Category": ""
+ },
+ "U53_MakeGood": {
+  "Text": "S17 Launch Survivor",
+  "Category": ""
+ },
+ "U53_MakeGood_120FPS": {
+  "Text": "120 FPS or Bust",
+  "Category": ""
+ },
+ "S31_Grand_Champion": {
+  "Text": "S17 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "S31_Grand_Champion_Rumble": {
+  "Text": "S17 RNG CHAMP",
+  "Category": "SZN_1_Red"
+ },
+ "S31_Grand_Champion_SnowDay": {
+  "Text": "S17 BLIZZARD WIZARD",
+  "Category": "SZN_1_Red"
+ },
+ "S31_Grand_Champion_Hoops": {
+  "Text": "S17 DUNK MASTER",
+  "Category": "SZN_1_Red"
+ },
+ "S31_SuperSonic_Legend": {
+  "Text": "S17 SUPERSONIC LEGEND",
+  "Category": "SZN_1_White"
+ },
+ "S31_SSL_Rumble": {
+  "Text": "S17 RNGENIUS",
+  "Category": "SZN_1_White"
+ },
+ "S31_SSL_Snowday": {
+  "Text": "S17 ICE TITAN",
+  "Category": "SZN_1_White"
+ },
+ "S31_SSL_Hoops": {
+  "Text": "S17 LEGENDARY BALLER",
+  "Category": "SZN_1_White"
+ },
+ "AutoTour_18_Bronze_1": {
+  "Text": "S18 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_18_Bronze_2": {
+  "Text": "S18 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_18_Silver_1": {
+  "Text": "S18 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_18_Silver_2": {
+  "Text": "S18 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_18_Gold_1": {
+  "Text": "S18 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_18_Gold_2": {
+  "Text": "S18 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_18_Platinum_1": {
+  "Text": "S18 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_18_Platinum_2": {
+  "Text": "S18 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_18_Diamond_1": {
+  "Text": "S18 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_18_Diamond_2": {
+  "Text": "S18 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_18_Champion_1": {
+  "Text": "S18 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_18_Champion_2": {
+  "Text": "S18 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_18_GrandChampion_1": {
+  "Text": "S18 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_18_GrandChampion_2": {
+  "Text": "S18 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_18_SuperSonicLegend_1": {
+  "Text": "S18 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_18_SuperSonicLegend_2": {
+  "Text": "S18 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Futurist": {
+  "Text": "Futurist",
+  "Category": ""
+ },
+ "Artificially_Intelligent": {
+  "Text": "Artificially Intelligent",
+  "Category": ""
+ },
+ "Telepath": {
+  "Text": "Telepath",
+  "Category": ""
+ },
+ "Time_Traveler": {
+  "Text": "Time Traveler",
+  "Category": ""
+ },
+ "Athena_Crossbar_Queen": {
+  "Text": "Crossbar Queen",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Crossbar_Queen": {
+  "Text": "Crossbar Queen",
+  "Category": "Community_Spotlight"
+ },
+ "BackupPlan": {
+  "Text": "Backup Plan",
+  "Category": ""
+ },
+ "PIZZA_TIME": {
+  "Text": "PIZZA TIME",
+  "Category": ""
+ },
+ "Johnnyboi_Creator_Spotlight": {
+  "Text": "Kickoff Merchant",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Johnnyboi_Community_Spotlight": {
+  "Text": "Kickoff Merchant",
+  "Category": "Community_Spotlight"
+ },
+ "FORCE_SENSITIVE": {
+  "Text": "FORCE SENSITIVE",
+  "Category": ""
+ },
+ "SITH_LORD": {
+  "Text": "SITH LORD",
+  "Category": ""
+ },
+ "RLCS_2025_Challenger": {
+  "Text": "RLCS 2025 Challenger",
+  "Category": "RLCS_Challenger"
+ },
+ "RLCS_2025_Contender": {
+  "Text": "RLCS 2025 Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2025_Regional_Champion": {
+  "Text": "RLCS 2025 Regional Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2025_Major_1_Champion": {
+  "Text": "RLCS 2025 Birmingham Major Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2025_Major_1_Contender": {
+  "Text": "RLCS 2025 Birmingham Major Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2025_Major_2_Champion": {
+  "Text": "RLCS 2025 Raleigh Major Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2025_Major_2_Contender": {
+  "Text": "RLCS 2025 Raleigh Major Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2025_World_Champion": {
+  "Text": "RLCS 2025 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2025_World_Championship_Contender": {
+  "Text": "RLCS 2025 World Championship Contender",
+  "Category": "RLCS_Champion"
+ },
+ "2024_CRL_Fall_Champion": {
+  "Text": "CRL Fall 2024 Champion",
+  "Category": "Champion"
+ },
+ "2024_CRL_Fall_Championship_Contender": {
+  "Text": "CRL Fall 2024 Contender",
+  "Category": "Champion"
+ },
+ "2025_CRL_Spring_Champion": {
+  "Text": "CRL Spring 2025 Champion",
+  "Category": "Champion"
+ },
+ "2025_CRL_Spring_Championship_Contender": {
+  "Text": "CRL Spring 2025 Contender",
+  "Category": "Champion"
+ },
+ "Maddening_Mutator": {
+  "Text": "Maddening Mutator",
+  "Category": ""
+ },
+ "Hawaiian_Shirt_Connoisseur": {
+  "Text": "Hawaiian Shirt Connoisseur",
+  "Category": ""
+ },
+ "We_Are_Chalked": {
+  "Text": "We Are Chalked",
+  "Category": "Community_Spotlight"
+ },
+ "First_Touch_Crew": {
+  "Text": "First Touch Crew",
+  "Category": "Community_Spotlight"
+ },
+ "We_Are_Chalked_Creator": {
+  "Text": "We Are Chalked",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Sunless_Video_Participant": {
+  "Text": "Sunless Video Participant",
+  "Category": "Community_Spotlight"
+ },
+ "Sunless_Video_Participant_Creator": {
+  "Text": "Sunless Video Participant",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "First_Touch_Crew_Creator": {
+  "Text": "First Touch Crew",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "AutoTour_19_Bronze_1": {
+  "Text": "S19 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_19_Bronze_2": {
+  "Text": "S19 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_19_Silver_1": {
+  "Text": "S19 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_19_Silver_2": {
+  "Text": "S19 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_19_Gold_1": {
+  "Text": "S19 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_19_Gold_2": {
+  "Text": "S19 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_19_Platinum_1": {
+  "Text": "S19 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_19_Platinum_2": {
+  "Text": "S19 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_19_Diamond_1": {
+  "Text": "S19 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_19_Diamond_2": {
+  "Text": "S19 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_19_Champion_1": {
+  "Text": "S19 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_19_Champion_2": {
+  "Text": "S19 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_19_GrandChampion_1": {
+  "Text": "S19 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_19_GrandChampion_2": {
+  "Text": "S19 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_19_SuperSonicLegend_1": {
+  "Text": "S19 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_19_SuperSonicLegend_2": {
+  "Text": "S19 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Pentathlon_19_Participant": {
+  "Text": "10th Anniversary Pentathlete",
+  "Category": ""
+ },
+ "Pentathlon_19_Bronze_1": {
+  "Text": "{Bronze} 10th Anniversary Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_19_Bronze_2": {
+  "Text": "{Bronze} 10th Anniversary Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_19_Silver_1": {
+  "Text": "{Silver} 10th Anniversary Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_19_Silver_2": {
+  "Text": "{Silver} 10th Anniversary Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_19_Gold_1": {
+  "Text": "{Gold} 10th Anniversary Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_19_Gold_2": {
+  "Text": "{Gold} 10th Anniversary Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_19_Platinum_1": {
+  "Text": "{Platinum} 10th Anniversary Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_19_Platinum_2": {
+  "Text": "{Platinum} 10th Anniversary Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_19_Diamond_1": {
+  "Text": "{Diamond} 10th Anniversary Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_19_Diamond_2": {
+  "Text": "{Diamond} 10th Anniversary Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_19_Champion_1": {
+  "Text": "{Champion} 10th Anniversary Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_19_Champion_2": {
+  "Text": "{Champion} 10th Anniversary Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_19_GrandChampion_1": {
+  "Text": "{GrandChampion} 10th Anniversary Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_19_GrandChampion_2": {
+  "Text": "{GrandChampion} 10th Anniversary Pentathlon Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "Pentathlon_19_SuperSonicLegend_1": {
+  "Text": "{Legend} 10th Anniversary Pentathlon Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "Pentathlon_19_SuperSonicLegend_2": {
+  "Text": "{Legend} 10th Anniversary Pentathlon Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Rocket_Boomer": {
+  "Text": "Rocket Boomer",
+  "Category": ""
+ },
+ "Gift_Giver": {
+  "Text": "Gift Giver",
+  "Category": ""
+ },
+ "Rocket_Zoomer": {
+  "Text": "Rocket Zoomer",
+  "Category": ""
+ },
+ "This_Is_Rocket_League": {
+  "Text": "This Is Rocket League",
+  "Category": ""
+ },
+ "S32_Grand_Champion": {
+  "Text": "S18 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "S32_Grand_Champion_Rumble": {
+  "Text": "S18 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S32_Grand_Champion_Dropshot": {
+  "Text": "S18 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S32_Grand_Champion_Hoops": {
+  "Text": "S18 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "S32_SuperSonic_Legend": {
+  "Text": "S18 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S32_SSL_Rumble": {
+  "Text": "S18 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S32_SSL_Dropshot": {
+  "Text": "S18 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S32_SSL_Hoops": {
+  "Text": "S18 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "PERSONAL_TRAINER": {
+  "Text": "PERSONAL TRAINER",
+  "Category": ""
+ },
+ "I'm_Zen": {
+  "Text": "I'm Zen",
+  "Category": "Community_Spotlight"
+ },
+ "I'm_Zen_Creator": {
+  "Text": "I'm Zen",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "That_Is_Unavailable": {
+  "Text": "That is unavailable.",
+  "Category": ""
+ },
+ "Bathroom_Title": {
+  "Text": "BATHROOM CODE 9914",
+  "Category": ""
+ },
+ "You're_Too_Slow": {
+  "Text": "You're Too Slow",
+  "Category": ""
+ },
+ "SE_AndKnuckles": {
+  "Text": "& Knuckles",
+  "Category": ""
+ },
+ "Gotta_Go_Fast": {
+  "Text": "Gotta Go Fast",
+  "Category": ""
+ },
+ "Food_Court_Fiend": {
+  "Text": "Food Court Fiend",
+  "Category": ""
+ },
+ "Mallrat": {
+  "Text": "Mallrat",
+  "Category": ""
+ },
+ "Physical_Media_Collector": {
+  "Text": "Physical Media Collector",
+  "Category": ""
+ },
+ "Retail_Therapist": {
+  "Text": "Retail Therapist",
+  "Category": ""
+ },
+ "AutoTour_20_Bronze_1": {
+  "Text": "S20 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_20_Bronze_2": {
+  "Text": "S20 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_20_Silver_1": {
+  "Text": "S20 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_20_Silver_2": {
+  "Text": "S20 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_20_Gold_1": {
+  "Text": "S20 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_20_Gold_2": {
+  "Text": "S20 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_20_Platinum_1": {
+  "Text": "S20 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_20_Platinum_2": {
+  "Text": "S20 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_20_Diamond_1": {
+  "Text": "S20 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_20_Diamond_2": {
+  "Text": "S20 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_20_Champion_1": {
+  "Text": "S20 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_20_Champion_2": {
+  "Text": "S20 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_20_GrandChampion_1": {
+  "Text": "S20 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_20_GrandChampion_2": {
+  "Text": "S20 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_20_SuperSonicLegend_1": {
+  "Text": "S20 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_20_SuperSonicLegend_2": {
+  "Text": "S20 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Pentathlon_20_Bronze_1": {
+  "Text": "S20 {Bronze} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_20_Bronze_2": {
+  "Text": "S20 {Bronze} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_20_Silver_1": {
+  "Text": "S20 {Silver} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_20_Silver_2": {
+  "Text": "S20 {Silver} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_20_Gold_1": {
+  "Text": "S20 {Gold} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_20_Gold_2": {
+  "Text": "S20 {Gold} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_20_Platinum_1": {
+  "Text": "S20 {Platinum} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_20_Platinum_2": {
+  "Text": "S20 {Platinum} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_20_Diamond_1": {
+  "Text": "S20 {Diamond} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_20_Diamond_2": {
+  "Text": "S20 {Diamond} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_20_Champion_1": {
+  "Text": "S20 {Champion} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_20_Champion_2": {
+  "Text": "S20 {Champion} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_20_GrandChampion_1": {
+  "Text": "S20 {GrandChampion} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_20_GrandChampion_2": {
+  "Text": "S20 {GrandChampion} Pentathlon Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "Pentathlon_20_SuperSonicLegend_1": {
+  "Text": "S20 {Legend} Pentathlon Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "Pentathlon_20_SuperSonicLegend_2": {
+  "Text": "S20 {Legend} Pentathlon Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "S33_Grand_Champion": {
+  "Text": "S19 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "S33_Grand_Champion_Rumble": {
+  "Text": "S19 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S33_Grand_Champion_Snowday": {
+  "Text": "S19 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S33_Grand_Champion_Hoops": {
+  "Text": "S19 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "S33_SuperSonic_Legend": {
+  "Text": "S19 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S33_SSL_Rumble": {
+  "Text": "S19 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S33_SSL_Snowday": {
+  "Text": "S19 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S33_SSL_Hoops": {
+  "Text": "S19 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "CARTOGRAPHER": {
+  "Text": "CARTOGRAPHER",
+  "Category": "Community_Spotlight"
+ },
+ "CARTOGRAPHER_Creator": {
+  "Text": "CARTOGRAPHER",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Meddling_Kid": {
+  "Text": "Meddling Kid",
+  "Category": ""
+ },
+ "Zoinks!": {
+  "Text": "Zoinks!",
+  "Category": ""
+ },
+ "Cancer_Free_Est._2023": {
+  "Text": "Cancer Free Est. 2023",
+  "Category": ""
+ },
+ "SixSeven": {
+  "Text": "6 7",
+  "Category": ""
+ },
+ "S34_Grand_Champion": {
+  "Text": "S20 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "S34_Grand_Champion_Rumble": {
+  "Text": "S20 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S34_Grand_Champion_Dropshot": {
+  "Text": "S20 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S34_Grand_Champion_Hoops": {
+  "Text": "S20 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "S34_Grand_Champion_Quads": {
+  "Text": "S20 QUAD SQUAD",
+  "Category": "SZN_1_Red"
+ },
+ "S34_SuperSonic_Legend": {
+  "Text": "S20 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S34_SSL_Rumble": {
+  "Text": "S20 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S34_SSL_Dropshot": {
+  "Text": "S20 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S34_SSL_Hoops": {
+  "Text": "S20 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "S34_SSL_Quads": {
+  "Text": "S20 TOUR DE FOURCE",
+  "Category": "SZN_1_White"
+ },
+ "AutoTour_21_Bronze_1": {
+  "Text": "S21 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_21_Bronze_2": {
+  "Text": "S21 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_21_Silver_1": {
+  "Text": "S21 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_21_Silver_2": {
+  "Text": "S21 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_21_Gold_1": {
+  "Text": "S21 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_21_Gold_2": {
+  "Text": "S21 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_21_Platinum_1": {
+  "Text": "S21 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_21_Platinum_2": {
+  "Text": "S21 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_21_Diamond_1": {
+  "Text": "S21 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_21_Diamond_2": {
+  "Text": "S21 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_21_Champion_1": {
+  "Text": "S21 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_21_Champion_2": {
+  "Text": "S21 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_21_GrandChampion_1": {
+  "Text": "S21 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_21_GrandChampion_2": {
+  "Text": "S21 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_21_SuperSonicLegend_1": {
+  "Text": "S21 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_21_SuperSonicLegend_2": {
+  "Text": "S21 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Pentathlon_21_Bronze_1": {
+  "Text": "S21 {Bronze} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_21_Bronze_2": {
+  "Text": "S21 {Bronze} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_21_Silver_1": {
+  "Text": "S21 {Silver} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_21_Silver_2": {
+  "Text": "S21 {Silver} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_21_Gold_1": {
+  "Text": "S21 {Gold} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_21_Gold_2": {
+  "Text": "S21 {Gold} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_21_Platinum_1": {
+  "Text": "S21 {Platinum} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_21_Platinum_2": {
+  "Text": "S21 {Platinum} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_21_Diamond_1": {
+  "Text": "S21 {Diamond} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_21_Diamond_2": {
+  "Text": "S21 {Diamond} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_21_Champion_1": {
+  "Text": "S21 {Champion} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_21_Champion_2": {
+  "Text": "S21 {Champion} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_21_GrandChampion_1": {
+  "Text": "S21 {GrandChampion} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_21_GrandChampion_2": {
+  "Text": "S21 {GrandChampion} Pentathlon Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "Pentathlon_21_SuperSonicLegend_1": {
+  "Text": "S21 {Legend} Pentathlon Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "Pentathlon_21_SuperSonicLegend_2": {
+  "Text": "S21 {Legend} Pentathlon Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "FF_Thistle_Gryffindor": {
+  "Text": "Gryffindor",
+  "Category": "Gryffindor"
+ },
+ "FF_Thistle_Hufflepuff": {
+  "Text": "Hufflepuff",
+  "Category": "Hufflepuff"
+ },
+ "FF_Thistle_Ravenclaw": {
+  "Text": "Ravenclaw",
+  "Category": "Ravenclaw"
+ },
+ "FF_Thistle_Slytherin": {
+  "Text": "Slytherin",
+  "Category": "Slytherin"
+ },
+ "FF_Thistle_FinalReward": {
+  "Text": "GRYFFINDOR WINS!",
+  "Category": ""
+ },
+ "Heatseeker_Hero": {
+  "Text": "Heatseeker Hero",
+  "Category": ""
+ },
+ "Cest_La_Vie": {
+  "Text": "C'est La Vie",
+  "Category": ""
+ },
+ "Creme_De_La_Creme": {
+  "Text": "Crème De La Crème",
+  "Category": ""
+ },
+ "Rat": {
+  "Text": "Rat",
+  "Category": ""
+ },
+ "Cat_Burglar": {
+  "Text": "Cat Burglar",
+  "Category": ""
+ },
+ "Shot_Like_The_Dop": {
+  "Text": "Shot Like The Dop",
+  "Category": "Community_Spotlight"
+ },
+ "Shot_Like_The_Dop_CREATOR": {
+  "Text": "Shot Like The Dop",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Heartbreaker": {
+  "Text": "Heartbreaker",
+  "Category": ""
+ },
+ "Wicked_Good": {
+  "Text": "Wicked Good",
+  "Category": ""
+ },
+ "NPC": {
+  "Text": "NPC",
+  "Category": ""
+ },
+ "Main_Character": {
+  "Text": "Main Character",
+  "Category": ""
+ },
+ "Aura_Farmer": {
+  "Text": "Aura Farmer",
+  "Category": "AuraFarmer"
+ },
+ "Minus_Aura": {
+  "Text": "-1000 Aura",
+  "Category": "MinusAura"
+ },
+ "Peak": {
+  "Text": "Peak",
+  "Category": ""
+ },
+ "Cracked": {
+  "Text": "Cracked",
+  "Category": ""
+ },
+ "Lurking_Legend": {
+  "Text": "Lurking Legend",
+  "Category": ""
+ },
+ "Washed": {
+  "Text": "Washed",
+  "Category": ""
+ },
+ "RLCS_BOSTON_2026_ATTENDEE": {
+  "Text": "RLCS BOSTON 2026 ATTENDEE",
+  "Category": "Community_Spotlight"
+ },
+ "RLCS_PARIS_2026_ATTENDEE": {
+  "Text": "RLCS PARIS 2026 ATTENDEE",
+  "Category": "Community_Spotlight"
+ },
+ "AutoTour_22_Bronze_1": {
+  "Text": "S22 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_22_Bronze_2": {
+  "Text": "S22 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_22_Silver_1": {
+  "Text": "S22 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_22_Silver_2": {
+  "Text": "S22 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_22_Gold_1": {
+  "Text": "S22 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_22_Gold_2": {
+  "Text": "S22 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_22_Platinum_1": {
+  "Text": "S22 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_22_Platinum_2": {
+  "Text": "S22 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_22_Diamond_1": {
+  "Text": "S22 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_22_Diamond_2": {
+  "Text": "S22 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_22_Champion_1": {
+  "Text": "S22 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_22_Champion_2": {
+  "Text": "S22 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_22_GrandChampion_1": {
+  "Text": "S22 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_22_GrandChampion_2": {
+  "Text": "S22 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_22_SuperSonicLegend_1": {
+  "Text": "S22 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_22_SuperSonicLegend_2": {
+  "Text": "S22 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Pentathlon_22_Bronze_1": {
+  "Text": "S22 {Bronze} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_22_Bronze_2": {
+  "Text": "S22 {Bronze} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_22_Silver_1": {
+  "Text": "S22 {Silver} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_22_Silver_2": {
+  "Text": "S22 {Silver} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_22_Gold_1": {
+  "Text": "S22 {Gold} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_22_Gold_2": {
+  "Text": "S22 {Gold} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_22_Platinum_1": {
+  "Text": "S22 {Platinum} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_22_Platinum_2": {
+  "Text": "S22 {Platinum} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_22_Diamond_1": {
+  "Text": "S22 {Diamond} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_22_Diamond_2": {
+  "Text": "S22 {Diamond} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_22_Champion_1": {
+  "Text": "S22 {Champion} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_22_Champion_2": {
+  "Text": "S22 {Champion} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_22_GrandChampion_1": {
+  "Text": "S22 {GrandChampion} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_22_GrandChampion_2": {
+  "Text": "S22 {GrandChampion} Pentathlon Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "Pentathlon_22_SuperSonicLegend_1": {
+  "Text": "S22 {Legend} Pentathlon Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "Pentathlon_22_SuperSonicLegend_2": {
+  "Text": "S22 {Legend} Pentathlon Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "S35_Grand_Champion": {
+  "Text": "S21 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "S35_Grand_Champion_Rumble": {
+  "Text": "S21 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S35_Grand_Champion_Snowday": {
+  "Text": "S21 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S35_Grand_Champion_Hoops": {
+  "Text": "S21 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "S35_Grand_Champion_Quads": {
+  "Text": "S21 QUAD SQUAD",
+  "Category": "SZN_1_Red"
+ },
+ "S35_Grand_Champion_Heatseeker": {
+  "Text": "S21 HEATSEEKER ACE",
+  "Category": "SZN_1_Red"
+ },
+ "S35_SuperSonic_Legend": {
+  "Text": "S21 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S35_SSL_Rumble": {
+  "Text": "S21 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S35_SSL_Snowday": {
+  "Text": "S21 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S35_SSL_Hoops": {
+  "Text": "S21 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "S35_SSL_Quads": {
+  "Text": "S21 TOUR DE FOURCE",
+  "Category": "SZN_1_White"
+ },
+ "S35_SSL_Heetseeker": {
+  "Text": "S21 SUPER SEEKING LEGEND",
+  "Category": "SZN_1_White"
+ },
+ "Low_Level": {
+  "Text": "Low Level",
+  "Category": ""
+ },
+ "Mid": {
+  "Text": "Mid",
+  "Category": ""
+ },
+ "Final_Boss": {
+  "Text": "Final Boss",
+  "Category": ""
+ },
+ "Massive_Gains": {
+  "Text": "Massive Gains",
+  "Category": ""
+ },
+ "Arch_Nemesis": {
+  "Text": "Arch Nemesis",
+  "Category": ""
+ },
+ "Rundown_ADFP_Sky_Sentinel": {
+  "Text": "Sky Sentinel",
+  "Category": ""
+ },
+ "Rundown_GDFP_Sweeper_Keeper": {
+  "Text": "Sweeper Keeper",
+  "Category": ""
+ },
+ "Rundown_AOFP_Airborne_Thrillness": {
+  "Text": "Airborne Thrillness",
+  "Category": ""
+ },
+ "Rundown_GOFP_Breakaway_Nine": {
+  "Text": "Breakaway Nine",
+  "Category": ""
+ },
+ "Rundown_ADPP_Flying_Bulwark": {
+  "Text": "Flying Bulwark",
+  "Category": ""
+ },
+ "Rundown_GDPP_Bunker_Manager": {
+  "Text": "Bunker Manager",
+  "Category": ""
+ },
+ "Rundown_AOPP_Ace_Ascendant": {
+  "Text": "Ace Ascendant",
+  "Category": ""
+ },
+ "Rundown_GOPP_Logistics_Royal": {
+  "Text": "Logistics Royal",
+  "Category": ""
+ },
+ "Rundown_ADFD_Lofted_Pivot": {
+  "Text": "Lofted Pivot",
+  "Category": ""
+ },
+ "Rundown_GDFD_Support_Main": {
+  "Text": "Support Main",
+  "Category": ""
+ },
+ "Rundown_AOFD_Delivery_Pilot": {
+  "Text": "Delivery Pilot",
+  "Category": ""
+ },
+ "Rundown_GOFD_Sharpshooter": {
+  "Text": "Sharpshooter",
+  "Category": ""
+ },
+ "Rundown_ADPD_Control_Tower": {
+  "Text": "Control Tower",
+  "Category": ""
+ },
+ "Rundown_GDPD_Anchor_Orchestrator": {
+  "Text": "Anchor Orchestrator",
+  "Category": ""
+ },
+ "Rundown_AOPD_Windborne_Architect": {
+  "Text": "Windborne Architect",
+  "Category": ""
+ },
+ "Rundown_GOPD_Shadow_Catalyst": {
+  "Text": "Shadow Catalyst",
+  "Category": ""
+ },
+ "Season22_Login_Reward": {
+  "Text": "All Gas, No Brakes",
+  "Category": ""
+ },
+ "Bracket_Rivalry_Team8": {
+  "Text": "No Miss Just Fake",
+  "Category": "Rivalry_Blue"
+ },
+ "Bracket_Rivalry_Team8_Creator": {
+  "Text": "No Miss Just Fake",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Bracket_Rivalry_Team7": {
+  "Text": "Cracked Captain",
+  "Category": ""
+ },
+ "Bracket_Rivalry_Team7_Creator": {
+  "Text": "Cracked Captain",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Bracket_Rivalry_Team6": {
+  "Text": "MENA LEGEND",
+  "Category": "Rivalry_Red"
+ },
+ "Bracket_Rivalry_Team6_Creator": {
+  "Text": "MENA LEGEND",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Bracket_Rivalry_Team5": {
+  "Text": "Pinch Pro",
+  "Category": ""
+ },
+ "Bracket_Rivalry_Team5_Creator": {
+  "Text": "Pinch Pro",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Bracket_Rivalry_Team4": {
+  "Text": "Sangre Caliente",
+  "Category": "Rivalry_Yellow"
+ },
+ "Bracket_Rivalry_Team4_Creator": {
+  "Text": "Sangre Caliente",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Bracket_Rivalry_Team3": {
+  "Text": "Goalmaxxing",
+  "Category": ""
+ },
+ "Bracket_Rivalry_Team3_Creator": {
+  "Text": "Goalmaxxing",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Bracket_Rivalry_Team2": {
+  "Text": "Retirement Home",
+  "Category": ""
+ },
+ "Bracket_Rivalry_Team2_Creator": {
+  "Text": "Retirement Home",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "Bracket_Rivalry_Team1": {
+  "Text": "Baguettes",
+  "Category": "Rivalry_Red"
+ },
+ "Bracket_Rivalry_Team1_Creator": {
+  "Text": "Baguettes",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "I_KNOW_BALL": {
+  "Text": "I KNOW BALL",
+  "Category": ""
+ },
+ "KNOWLEDGE_DROPPER": {
+  "Text": "KNOWLEDGE DROPPER",
+  "Category": ""
+ },
+ "ELITE_BALL_KNOWLEDGE": {
+  "Text": "ELITE BALL KNOWLEDGE",
+  "Category": ""
+ },
+ "INSANE_PULL": {
+  "Text": "INSANE PULL",
+  "Category": ""
+ },
+ "I_GOT_IT_HABIBI": {
+  "Text": "I GOT IT, HABIBI!",
+  "Category": ""
+ },
+ "Little_Chef": {
+  "Text": "Little Chef",
+  "Category": ""
+ },
+ "Anyone_Can_Cook": {
+  "Text": "Anyone Can Cook",
+  "Category": ""
+ },
+ "DRIPPY": {
+  "Text": "DRIPPY",
+  "Category": ""
+ },
+ "FLOW_STATE": {
+  "Text": "FLOW STATE",
+  "Category": ""
+ },
+ "ITS_CALLED_MOTION": {
+  "Text": "IT’S CALLED MOTION",
+  "Category": ""
+ },
+ "CALL_ME_CLUTCH": {
+  "Text": "CALL ME CLUTCH",
+  "Category": ""
+ },
+ "IN_THE_NET": {
+  "Text": "IN THE NET",
+  "Category": "Helper"
+ },
+ "1v3ing": {
+  "Text": "1v3ing",
+  "Category": ""
+ },
+ "I_HEART_RULE_ONE": {
+  "Text": "I <3 RULE 1",
+  "Category": ""
+ },
+ "ABSOLUTE_CINEMA": {
+  "Text": "ABSOLUTE CINEMA",
+  "Category": ""
+ },
+ "CLIP_MACHINE": {
+  "Text": "CLIP MACHINE",
+  "Category": ""
+ },
+ "RLCS_2026_Challenger": {
+  "Text": "RLCS 2026 Challenger",
+  "Category": "RLCS_Challenger"
+ },
+ "RLCS_2026_Contender": {
+  "Text": "RLCS 2026 Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2026_Regional_Champion": {
+  "Text": "RLCS 2026 Regional Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2026_Major_1_Champion": {
+  "Text": "RLCS 2026 Boston Major Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2026_Major_1_Contender": {
+  "Text": "RLCS 2026 Boston Major Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2026_Major_2_Champion": {
+  "Text": "RLCS 2026 Paris Major Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2026_Major_2_Contender": {
+  "Text": "RLCS 2026 Paris Major Contender",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2026_World_Champion": {
+  "Text": "RLCS 2026 World Champion",
+  "Category": "RLCS_Champion"
+ },
+ "RLCS_2026_World_Championship_Contender": {
+  "Text": "RLCS 2026 World Championship Contender",
+  "Category": "RLCS_Champion"
+ },
+ "AutoTour_23_Bronze_1": {
+  "Text": "S23 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_23_Bronze_2": {
+  "Text": "S23 {Bronze} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_23_Silver_1": {
+  "Text": "S23 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_23_Silver_2": {
+  "Text": "S23 {Silver} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_23_Gold_1": {
+  "Text": "S23 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_23_Gold_2": {
+  "Text": "S23 {Gold} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_23_Platinum_1": {
+  "Text": "S23 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_23_Platinum_2": {
+  "Text": "S23 {Platinum} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_23_Diamond_1": {
+  "Text": "S23 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_23_Diamond_2": {
+  "Text": "S23 {Diamond} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_23_Champion_1": {
+  "Text": "S23 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_23_Champion_2": {
+  "Text": "S23 {Champion} Tournament Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "AutoTour_23_GrandChampion_1": {
+  "Text": "S23 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_23_GrandChampion_2": {
+  "Text": "S23 {GrandChampion} Tournament Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "AutoTour_23_SuperSonicLegend_1": {
+  "Text": "S23 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "AutoTour_23_SuperSonicLegend_2": {
+  "Text": "S23 {Legend} Tournament Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Pentathlon_23_Bronze_1": {
+  "Text": "S23 {Bronze} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_23_Bronze_2": {
+  "Text": "S23 {Bronze} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_23_Silver_1": {
+  "Text": "S23 {Silver} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_23_Silver_2": {
+  "Text": "S23 {Silver} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_23_Gold_1": {
+  "Text": "S23 {Gold} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_23_Gold_2": {
+  "Text": "S23 {Gold} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_23_Platinum_1": {
+  "Text": "S23 {Platinum} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_23_Platinum_2": {
+  "Text": "S23 {Platinum} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_23_Diamond_1": {
+  "Text": "S23 {Diamond} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_23_Diamond_2": {
+  "Text": "S23 {Diamond} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_23_Champion_1": {
+  "Text": "S23 {Champion} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_23_Champion_2": {
+  "Text": "S23 {Champion} Pentathlon Winner",
+  "Category": "AutoTour_Completed"
+ },
+ "Pentathlon_23_GrandChampion_1": {
+  "Text": "S23 {GrandChampion} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_23_GrandChampion_2": {
+  "Text": "S23 {GrandChampion} Pentathlon Winner",
+  "Category": "AutoTour_CompletedGC"
+ },
+ "Pentathlon_23_SuperSonicLegend_1": {
+  "Text": "S23 {Legend} Pentathlon Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_1"
+ },
+ "Pentathlon_23_SuperSonicLegend_2": {
+  "Text": "S23 {Legend} Pentathlon Winner",
+  "Category": "AutoTour_CompletedSuperSonicLegend_2"
+ },
+ "Mexico_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_mx}",
+  "Category": ""
+ },
+ "South_Africa_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_za}",
+  "Category": ""
+ },
+ "South_Korea_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_kr}",
+  "Category": ""
+ },
+ "Czechia_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_cz}",
+  "Category": ""
+ },
+ "Canada_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_ca}",
+  "Category": ""
+ },
+ "Switzerland_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_ch}",
+  "Category": ""
+ },
+ "Qatar_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_qa}",
+  "Category": ""
+ },
+ "Bosnia_&_Herz._World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_ba}",
+  "Category": ""
+ },
+ "Brazil_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_br}",
+  "Category": ""
+ },
+ "Morocco_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_ma}",
+  "Category": ""
+ },
+ "Scotland_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_sc}",
+  "Category": ""
+ },
+ "Haiti_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_ht}",
+  "Category": ""
+ },
+ "United_States_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_us}",
+  "Category": ""
+ },
+ "Paraguay_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_py}",
+  "Category": ""
+ },
+ "Australia_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_au}",
+  "Category": ""
+ },
+ "Turkiye_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_tr}",
+  "Category": ""
+ },
+ "Germany_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_de}",
+  "Category": ""
+ },
+ "Curacao_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_cw}",
+  "Category": ""
+ },
+ "Ivory_Coast_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_ci}",
+  "Category": ""
+ },
+ "Ecuador_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_ec}",
+  "Category": ""
+ },
+ "Netherlands_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_nl}",
+  "Category": ""
+ },
+ "Japan_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_jp}",
+  "Category": ""
+ },
+ "Sweden_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_se}",
+  "Category": ""
+ },
+ "Tunisia_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_tn}",
+  "Category": ""
+ },
+ "Belgium_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_be}",
+  "Category": ""
+ },
+ "Egypt_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_eg}",
+  "Category": ""
+ },
+ "Iran_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_ir}",
+  "Category": ""
+ },
+ "New_Zealand_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_nz}",
+  "Category": ""
+ },
+ "Spain_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_es}",
+  "Category": ""
+ },
+ "Uruguay_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_uy}",
+  "Category": ""
+ },
+ "Saudi_Arabia_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_sa}",
+  "Category": ""
+ },
+ "Cape_Verde_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_cv}",
+  "Category": ""
+ },
+ "France_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_fr}",
+  "Category": ""
+ },
+ "Senegal_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_sn}",
+  "Category": ""
+ },
+ "Norway_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_no}",
+  "Category": ""
+ },
+ "Iraq_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_iq}",
+  "Category": ""
+ },
+ "Argentina_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_ar}",
+  "Category": ""
+ },
+ "Austria_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_at}",
+  "Category": ""
+ },
+ "Algeria_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_dz}",
+  "Category": ""
+ },
+ "Jordan_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_jo}",
+  "Category": ""
+ },
+ "Portugal_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_pt}",
+  "Category": ""
+ },
+ "Colombia_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_co}",
+  "Category": ""
+ },
+ "Uzbekistan_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_uz}",
+  "Category": ""
+ },
+ "DR_Congo_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_cd}",
+  "Category": ""
+ },
+ "England_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_en}",
+  "Category": ""
+ },
+ "Croatia_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_hr}",
+  "Category": ""
+ },
+ "Ghana_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_gh}",
+  "Category": ""
+ },
+ "Panama_World_Cup_2026_Champion": {
+  "Text": "World Cup Champion '26 {flag_pa}",
+  "Category": ""
+ },
+ "Mexico_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_mx}",
+  "Category": "World_Cup_Gold"
+ },
+ "South_Africa_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_za}",
+  "Category": "World_Cup_Gold"
+ },
+ "South_Korea_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_kr}",
+  "Category": "World_Cup_Gold"
+ },
+ "Czechia_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_cz}",
+  "Category": "World_Cup_Gold"
+ },
+ "Canada_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_ca}",
+  "Category": "World_Cup_Gold"
+ },
+ "Switzerland_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_ch}",
+  "Category": "World_Cup_Gold"
+ },
+ "Qatar_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_qa}",
+  "Category": "World_Cup_Gold"
+ },
+ "Bosnia_&_Herz._World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_ba}",
+  "Category": "World_Cup_Gold"
+ },
+ "Brazil_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_br}",
+  "Category": "World_Cup_Gold"
+ },
+ "Morocco_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_ma}",
+  "Category": "World_Cup_Gold"
+ },
+ "Scotland_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_sc}",
+  "Category": "World_Cup_Gold"
+ },
+ "Haiti_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_ht}",
+  "Category": "World_Cup_Gold"
+ },
+ "United_States_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_us}",
+  "Category": "World_Cup_Gold"
+ },
+ "Paraguay_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_py}",
+  "Category": "World_Cup_Gold"
+ },
+ "Australia_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_au}",
+  "Category": "World_Cup_Gold"
+ },
+ "Turkiye_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_tr}",
+  "Category": "World_Cup_Gold"
+ },
+ "Germany_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_de}",
+  "Category": "World_Cup_Gold"
+ },
+ "Curacao_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_cw}",
+  "Category": "World_Cup_Gold"
+ },
+ "Ivory_Coast_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_ci}",
+  "Category": "World_Cup_Gold"
+ },
+ "Ecuador_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_ec}",
+  "Category": "World_Cup_Gold"
+ },
+ "Netherlands_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_nl}",
+  "Category": "World_Cup_Gold"
+ },
+ "Japan_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_jp}",
+  "Category": "World_Cup_Gold"
+ },
+ "Sweden_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_se}",
+  "Category": "World_Cup_Gold"
+ },
+ "Tunisia_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_tn}",
+  "Category": "World_Cup_Gold"
+ },
+ "Belgium_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_be}",
+  "Category": "World_Cup_Gold"
+ },
+ "Egypt_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_eg}",
+  "Category": "World_Cup_Gold"
+ },
+ "Iran_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_ir}",
+  "Category": "World_Cup_Gold"
+ },
+ "New_Zealand_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_nz}",
+  "Category": "World_Cup_Gold"
+ },
+ "Spain_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_es}",
+  "Category": "World_Cup_Gold"
+ },
+ "Uruguay_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_uy}",
+  "Category": "World_Cup_Gold"
+ },
+ "Saudi_Arabia_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_sa}",
+  "Category": "World_Cup_Gold"
+ },
+ "Cape_Verde_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_cv}",
+  "Category": "World_Cup_Gold"
+ },
+ "France_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_fr}",
+  "Category": "World_Cup_Gold"
+ },
+ "Senegal_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_sn}",
+  "Category": "World_Cup_Gold"
+ },
+ "Norway_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_no}",
+  "Category": "World_Cup_Gold"
+ },
+ "Iraq_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_iq}",
+  "Category": "World_Cup_Gold"
+ },
+ "Argentina_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_ar}",
+  "Category": "World_Cup_Gold"
+ },
+ "Austria_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_at}",
+  "Category": "World_Cup_Gold"
+ },
+ "Algeria_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_dz}",
+  "Category": "World_Cup_Gold"
+ },
+ "Jordan_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_jo}",
+  "Category": "World_Cup_Gold"
+ },
+ "Portugal_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_pt}",
+  "Category": "World_Cup_Gold"
+ },
+ "Colombia_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_co}",
+  "Category": "World_Cup_Gold"
+ },
+ "Uzbekistan_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_uz}",
+  "Category": "World_Cup_Gold"
+ },
+ "DR_Congo_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_cd}",
+  "Category": "World_Cup_Gold"
+ },
+ "England_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_en}",
+  "Category": "World_Cup_Gold"
+ },
+ "Croatia_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_hr}",
+  "Category": "World_Cup_Gold"
+ },
+ "Ghana_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_gh}",
+  "Category": "World_Cup_Gold"
+ },
+ "Panama_World_Cup_2026_Champion_Gold": {
+  "Text": "World Cup Champion '26 {flag_pa}",
+  "Category": "World_Cup_Gold"
+ },
+ "Team_Mexico_World_Cup_2026": {
+  "Text": "Team Mexico '26 {flag_mx}",
+  "Category": ""
+ },
+ "Team_South_Africa_World_Cup_2026": {
+  "Text": "Team South Africa '26 {flag_za}",
+  "Category": ""
+ },
+ "Team_Korea_Republic_World_Cup_2026": {
+  "Text": "Team Korea Republic '26 {flag_kr}",
+  "Category": ""
+ },
+ "Team_Czechia_World_Cup_2026": {
+  "Text": "Team Czechia '26 {flag_cz}",
+  "Category": ""
+ },
+ "Team_Canada_World_Cup_2026": {
+  "Text": "Team Canada '26 {flag_ca}",
+  "Category": ""
+ },
+ "Team_Switzerland_World_Cup_2026": {
+  "Text": "Team Switzerland '26 {flag_ch}",
+  "Category": ""
+ },
+ "Team_Qatar_World_Cup_2026": {
+  "Text": "Team Qatar '26 {flag_qa}",
+  "Category": ""
+ },
+ "Team_Bosnia-Herzegovina_World_Cup_2026": {
+  "Text": "Bosnia & Herz. '26 {flag_ba}",
+  "Category": ""
+ },
+ "Team_Brazil_World_Cup_2026": {
+  "Text": "Team Brazil '26 {flag_br}",
+  "Category": ""
+ },
+ "Team_Morocco_World_Cup_2026": {
+  "Text": "Team Morocco '26 {flag_ma}",
+  "Category": ""
+ },
+ "Team_Scotland_World_Cup_2026": {
+  "Text": "Team Scotland '26 {flag_sc}",
+  "Category": ""
+ },
+ "Team_Haiti_World_Cup_2026": {
+  "Text": "Team Haiti '26 {flag_ht}",
+  "Category": ""
+ },
+ "Team_USA_World_Cup_2026": {
+  "Text": "Team USA '26 {flag_us}",
+  "Category": ""
+ },
+ "Team_Paraguay_World_Cup_2026": {
+  "Text": "Team Paraguay '26 {flag_py}",
+  "Category": ""
+ },
+ "Team_Australia_World_Cup_2026": {
+  "Text": "Team Australia '26 {flag_au}",
+  "Category": ""
+ },
+ "Team_Turkiye_World_Cup_2026": {
+  "Text": "Team Türkiye '26 {flag_tr}",
+  "Category": ""
+ },
+ "Team_Germany_World_Cup_2026": {
+  "Text": "Team Germany '26 {flag_de}",
+  "Category": ""
+ },
+ "Team_Curacao_World_Cup_2026": {
+  "Text": "Team Curaçao '26 {flag_cw}",
+  "Category": ""
+ },
+ "Team_Cote_dIvoire_World_Cup_2026": {
+  "Text": "Team Côte d'Ivoire '26 {flag_ci}",
+  "Category": ""
+ },
+ "Team_Ecuador_World_Cup_2026": {
+  "Text": "Team Ecuador '26 {flag_ec}",
+  "Category": ""
+ },
+ "Team_Netherlands_World_Cup_2026": {
+  "Text": "Team Netherlands '26 {flag_nl}",
+  "Category": ""
+ },
+ "Team_Japan_World_Cup_2026": {
+  "Text": "Team Japan '26 {flag_jp}",
+  "Category": ""
+ },
+ "Team_Sweden_World_Cup_2026": {
+  "Text": "Team Sweden '26 {flag_se}",
+  "Category": ""
+ },
+ "Team_Tunisia_World_Cup_2026": {
+  "Text": "Team Tunisia '26 {flag_tn}",
+  "Category": ""
+ },
+ "Team_Belgium_World_Cup_2026": {
+  "Text": "Team Belgium '26 {flag_be}",
+  "Category": ""
+ },
+ "Team_Egypt_World_Cup_2026": {
+  "Text": "Team Egypt '26 {flag_eg}",
+  "Category": ""
+ },
+ "Team_Iran_World_Cup_2026": {
+  "Text": "Team Iran '26 {flag_ir}",
+  "Category": ""
+ },
+ "Team_New_Zealand_World_Cup_2026": {
+  "Text": "Team New Zealand '26 {flag_nz}",
+  "Category": ""
+ },
+ "Team_Spain_World_Cup_2026": {
+  "Text": "Team Spain '26 {flag_es}",
+  "Category": ""
+ },
+ "Team_Uruguay_World_Cup_2026": {
+  "Text": "Team Uruguay '26 {flag_uy}",
+  "Category": ""
+ },
+ "Team_Saudi_Arabia_World_Cup_2026": {
+  "Text": "Team Saudi Arabia '26 {flag_sa}",
+  "Category": ""
+ },
+ "Team_Cabo_Verde_World_Cup_2026": {
+  "Text": "Team Cabo Verde '26 {flag_cv}",
+  "Category": ""
+ },
+ "Team_France_World_Cup_2026": {
+  "Text": "Team France '26 {flag_fr}",
+  "Category": ""
+ },
+ "Team_Senegal_World_Cup_2026": {
+  "Text": "Team Senegal '26 {flag_sn}",
+  "Category": ""
+ },
+ "Team_Norway_World_Cup_2026": {
+  "Text": "Team Norway '26 {flag_no}",
+  "Category": ""
+ },
+ "Team_Iraq_World_Cup_2026": {
+  "Text": "Team Iraq '26 {flag_iq}",
+  "Category": ""
+ },
+ "Team_Argentina_World_Cup_2026": {
+  "Text": "Team Argentina '26 {flag_ar}",
+  "Category": ""
+ },
+ "Team_Austria_World_Cup_2026": {
+  "Text": "Team Austria '26 {flag_at}",
+  "Category": ""
+ },
+ "Team_Algeria_World_Cup_2026": {
+  "Text": "Team Algeria '26 {flag_dz}",
+  "Category": ""
+ },
+ "Team_Jordan_World_Cup_2026": {
+  "Text": "Team Jordan '26 {flag_jo}",
+  "Category": ""
+ },
+ "Team_Portugal_World_Cup_2026": {
+  "Text": "Team Portugal '26 {flag_pt}",
+  "Category": ""
+ },
+ "Team_Colombia_World_Cup_2026": {
+  "Text": "Team Colombia '26 {flag_co}",
+  "Category": ""
+ },
+ "Team_Uzbekistan_World_Cup_2026": {
+  "Text": "Team Uzbekistan '26 {flag_uz}",
+  "Category": ""
+ },
+ "Team_Congo_DR_World_Cup_2026": {
+  "Text": "Team Congo DR '26 {flag_cd}",
+  "Category": ""
+ },
+ "Team_England_World_Cup_2026": {
+  "Text": "Team England '26 {flag_en}",
+  "Category": ""
+ },
+ "Team_Croatia_World_Cup_2026": {
+  "Text": "Team Croatia '26 {flag_hr}",
+  "Category": ""
+ },
+ "Team_Ghana_World_Cup_2026": {
+  "Text": "Team Ghana '26 {flag_gh}",
+  "Category": ""
+ },
+ "Team_Panama_World_Cup_2026": {
+  "Text": "Team Panama '26 {flag_pa}",
+  "Category": ""
+ },
+ "Jynxzi_BALRIGHT": {
+  "Text": "BALRIGHT",
+  "Category": "Community_Spotlight"
+ },
+ "Junko": {
+  "Text": "Junko",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "FASHIONABLY_EARLY": {
+  "Text": "FASHIONABLY EARLY",
+  "Category": ""
+ },
+ "Test_Title1": {
+  "Text": "S24 MVPs: 5",
+  "Category": "StatTrackerStage1"
+ },
+ "Test_Title2": {
+  "Text": "S24 MVPs: 15",
+  "Category": "StatTrackerStage2"
+ },
+ "Test_Title3": {
+  "Text": "S24 MVPs: 25",
+  "Category": "StatTrackerStage3"
+ },
+ "FOOTBALL_IS_LIFE": {
+  "Text": "FOOTBALL IS LIFE",
+  "Category": ""
+ },
+ "HOLY_GOALIE": {
+  "Text": "HOLY GOALIE",
+  "Category": ""
+ },
+ "TOP_OF_THE_TABLE": {
+  "Text": "TOP OF THE TABLE",
+  "Category": ""
+ },
+ "POINTS_DONT_MATTER": {
+  "Text": "POINTS DON'T MATTER",
+  "Category": ""
+ },
+ "S36_Grand_Champion": {
+  "Text": "S22 Grand Champion",
+  "Category": "SZN_1_Red"
+ },
+ "S36_Grand_Champion_Rumble": {
+  "Text": "S22 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S36_Grand_Champion_Snowday": {
+  "Text": "S22 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S36_Grand_Champion_Hoops": {
+  "Text": "S22 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "S36_Grand_Champion_Dropshot": {
+  "Text": "S22 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S36_Grand_Champion_Heatseeker": {
+  "Text": "S22 HEATSEEKER ACE",
+  "Category": "SZN_1_Red"
+ },
+ "S36_SuperSonic_Legend": {
+  "Text": "S22 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S36_SSL_Rumble": {
+  "Text": "S22 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S36_SSL_Snowday": {
+  "Text": "S22 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S36_SSL_Hoops": {
+  "Text": "S22 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "S36_SSL_Dropshot": {
+  "Text": "S22 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S36_SSL_Heetseeker": {
+  "Text": "S22 SUPER SEEKING LEGEND",
+  "Category": "SZN_1_White"
+ },
+ "Mizuista": {
+  "Text": "Mizuista",
+  "Category": "Community_Spotlight"
+ },
+ "Mizuista_Creator": {
+  "Text": "Mizuista",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "New_Car_Who_Dis": {
+  "Text": "New Car, Who Dis?",
+  "Category": ""
+ },
+ "PLAYING_THE_REAL_GAME": {
+  "Text": "PLAYING THE REAL GAME",
+  "Category": ""
+ },
+ "INTERNATIONAL_ICON": {
+  "Text": "INTERNATIONAL ICON",
+  "Category": ""
+ },
+ "UPPER_90_SPECIALIST": {
+  "Text": "UPPER 90 SPECIALIST",
+  "Category": ""
+ },
+ "LONG_SHOT": {
+  "Text": "LONG SHOT",
+  "Category": ""
+ },
+ "AoRL_Gol": {
+  "Text": "Gol",
+  "Category": ""
+ },
+ "AoRL_Tchiki_Tchiki": {
+  "Text": "Tchiki Tchiki",
+  "Category": ""
+ },
+ "AoRL_SAIKO_SAIKO": {
+  "Text": "SAIKO SAIKO",
+  "Category": ""
+ },
+ "Unity2026_Title_01": {
+  "Text": "Diva Energy",
+  "Category": ""
+ }
+}
