@@ -19193,7 +19193,7 @@
 		"AssetPackageName": "AvatarBorder_Default",
 		"AssetPath": "AvatarBorder_Default.AvatarBorder_Default",
 		"ID": 3085,
-		"Product": "UnlockMethod_Default",
+		"Product": "Default",
 		"Quality": "Common",
 		"Slot": "Avatar Border",
 		"Slot Index": 20,
