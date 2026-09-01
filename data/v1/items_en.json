@@ -590,8 +590,8 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
-		"AssetPackageName": "Boost_AlphaReward",
-		"AssetPath": "Boost_AlphaReward.Boost_AlphaReward",
+		"AssetPackageName": "Boost_Standard",
+		"AssetPath": "Boost_Standard.Boost_Standard",
 		"ID": 63,
 		"Product": "Standard",
 		"Quality": "Common",
@@ -12540,8 +12540,8 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
-		"AssetPackageName": "ss_charged_Tier3",
-		"AssetPath": "ss_charged_Tier3.ss_charged_Tier3",
+		"AssetPackageName": "ss_default",
+		"AssetPath": "ss_default.ss_default",
 		"ID": 1948,
 		"Product": "Classic",
 		"Quality": "Common",
