@@ -63,7 +63,7 @@
 		"AssetPackageName": "Antenna_LightningBolt",
 		"AssetPath": "Antenna_LightningBolt.Antenna_LightningBolt",
 		"ID": 9,
-		"Product": "Eclair",
+		"Product": "Éclair",
 		"Quality": "Uncommon",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -133,7 +133,7 @@
 		"AssetPackageName": "Antenna_Star",
 		"AssetPath": "Antenna_Star.Antenna_Star",
 		"ID": 17,
-		"Product": "Etoile",
+		"Product": "Étoile",
 		"Quality": "Uncommon",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -583,7 +583,7 @@
 		"AssetPackageName": "Boost_Sparkles",
 		"AssetPath": "Boost_Sparkles.Boost_Sparkles",
 		"ID": 62,
-		"Product": "Etincelles",
+		"Product": "Étincelles",
 		"Quality": "Uncommon",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
@@ -1403,7 +1403,7 @@
 		"AssetPackageName": "CountryFlag_Ecuador",
 		"AssetPath": "CountryFlag_Ecuador.CountryFlag_Ecuador",
 		"ID": 144,
-		"Product": "Equateur",
+		"Product": "Équateur",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -1833,7 +1833,7 @@
 		"AssetPackageName": "CountryFlag_Scotland",
 		"AssetPath": "CountryFlag_Scotland.CountryFlag_Scotland",
 		"ID": 187,
-		"Product": "Ecosse",
+		"Product": "Écosse",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -1973,7 +1973,7 @@
 		"AssetPackageName": "CountryFlag_UAE",
 		"AssetPath": "CountryFlag_UAE.CountryFlag_UAE",
 		"ID": 202,
-		"Product": "Emirats arabes unis",
+		"Product": "Émirats arabes unis",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -2013,7 +2013,7 @@
 		"AssetPackageName": "CountryFlag_USA",
 		"AssetPath": "CountryFlag_USA.CountryFlag_USA",
 		"ID": 206,
-		"Product": "Etats-Unis",
+		"Product": "États-Unis",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -2593,7 +2593,7 @@
 		"AssetPackageName": "Skin_Backfire_Lightning",
 		"AssetPath": "Skin_Backfire_Lightning.Skin_Backfire_Lightning",
 		"ID": 289,
-		"Product": "Backfire : Eclair",
+		"Product": "Backfire : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -2613,7 +2613,7 @@
 		"AssetPackageName": "Skin_Backfire_Stars",
 		"AssetPath": "Skin_Backfire_Stars.Skin_Backfire_Stars",
 		"ID": 291,
-		"Product": "Backfire : Etoiles",
+		"Product": "Backfire : Étoiles",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -2663,7 +2663,7 @@
 		"AssetPackageName": "Skin_Force_Lightning",
 		"AssetPath": "Skin_Force_Lightning.Skin_Force_Lightning",
 		"ID": 296,
-		"Product": "Breakout : Eclair",
+		"Product": "Breakout : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -2683,7 +2683,7 @@
 		"AssetPackageName": "Skin_Force_Stars",
 		"AssetPath": "Skin_Force_Stars.Skin_Force_Stars",
 		"ID": 298,
-		"Product": "Breakout : Etoiles",
+		"Product": "Breakout : Étoiles",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -2733,7 +2733,7 @@
 		"AssetPackageName": "Skin_Octane_Lightning",
 		"AssetPath": "Skin_Octane_Lightning.Skin_Octane_Lightning",
 		"ID": 303,
-		"Product": "Octane : Eclair",
+		"Product": "Octane : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -2753,7 +2753,7 @@
 		"AssetPackageName": "Skin_Octane_Stars",
 		"AssetPath": "Skin_Octane_Stars.Skin_Octane_Stars",
 		"ID": 305,
-		"Product": "Octane : Etoiles",
+		"Product": "Octane : Étoiles",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -2803,7 +2803,7 @@
 		"AssetPackageName": "Skin_Orion_Lightning",
 		"AssetPath": "Skin_Orion_Lightning.Skin_Orion_Lightning",
 		"ID": 310,
-		"Product": "Paladin : Eclair",
+		"Product": "Paladin : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -2823,7 +2823,7 @@
 		"AssetPackageName": "Skin_Orion_Stars",
 		"AssetPath": "Skin_Orion_Stars.Skin_Orion_Stars",
 		"ID": 312,
-		"Product": "Paladin : Etoiles",
+		"Product": "Paladin : Étoiles",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -2873,7 +2873,7 @@
 		"AssetPackageName": "Skin_Rhino_Lightning",
 		"AssetPath": "Skin_Rhino_Lightning.Skin_Rhino_Lightning",
 		"ID": 317,
-		"Product": "Road Hog : Eclair",
+		"Product": "Road Hog : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -2893,7 +2893,7 @@
 		"AssetPackageName": "Skin_Rhino_Stars",
 		"AssetPath": "Skin_Rhino_Stars.Skin_Rhino_Stars",
 		"ID": 319,
-		"Product": "Road Hog : Etoiles",
+		"Product": "Road Hog : Étoiles",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -2943,7 +2943,7 @@
 		"AssetPackageName": "Skin_Spark_Lightning",
 		"AssetPath": "Skin_Spark_Lightning.Skin_Spark_Lightning",
 		"ID": 324,
-		"Product": "Gizmo : Eclair",
+		"Product": "Gizmo : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -2963,7 +2963,7 @@
 		"AssetPackageName": "Skin_Spark_Stars",
 		"AssetPath": "Skin_Spark_Stars.Skin_Spark_Stars",
 		"ID": 326,
-		"Product": "Gizmo : Etoiles",
+		"Product": "Gizmo : Étoiles",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -3013,7 +3013,7 @@
 		"AssetPackageName": "Skin_Torch_Lightning",
 		"AssetPath": "Skin_Torch_Lightning.Skin_Torch_Lightning",
 		"ID": 331,
-		"Product": "X-Devil : Eclair",
+		"Product": "X-Devil : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -3033,7 +3033,7 @@
 		"AssetPackageName": "Skin_Torch_Stars",
 		"AssetPath": "Skin_Torch_Stars.Skin_Torch_Stars",
 		"ID": 333,
-		"Product": "X-Devil : Etoiles",
+		"Product": "X-Devil : Étoiles",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -3083,7 +3083,7 @@
 		"AssetPackageName": "Skin_Torment_Lightning",
 		"AssetPath": "Skin_Torment_Lightning.Skin_Torment_Lightning",
 		"ID": 338,
-		"Product": "Hotshot : Eclair",
+		"Product": "Hotshot : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -3103,7 +3103,7 @@
 		"AssetPackageName": "Skin_Torment_Stars",
 		"AssetPath": "Skin_Torment_Stars.Skin_Torment_Stars",
 		"ID": 340,
-		"Product": "Hotshot : Etoiles",
+		"Product": "Hotshot : Étoiles",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -3163,7 +3163,7 @@
 		"AssetPackageName": "Skin_Vanquish_Lightning",
 		"AssetPath": "Skin_Vanquish_Lightning.Skin_Vanquish_Lightning",
 		"ID": 346,
-		"Product": "Merc : Eclair",
+		"Product": "Merc : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -3183,7 +3183,7 @@
 		"AssetPackageName": "Skin_Vanquish_Stars",
 		"AssetPath": "Skin_Vanquish_Stars.Skin_Vanquish_Stars",
 		"ID": 348,
-		"Product": "Merc : Etoiles",
+		"Product": "Merc : Étoiles",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -3233,7 +3233,7 @@
 		"AssetPackageName": "Skin_Venom_Lightning",
 		"AssetPath": "Skin_Venom_Lightning.Skin_Venom_Lightning",
 		"ID": 353,
-		"Product": "Venom : Eclair",
+		"Product": "Venom : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -3753,7 +3753,7 @@
 		"AssetPackageName": "Boost_Lightning",
 		"AssetPath": "Boost_Lightning.Boost_Lightning",
 		"ID": 405,
-		"Product": "Eclair",
+		"Product": "Éclair",
 		"Quality": "VeryRare",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
@@ -3943,7 +3943,7 @@
 		"AssetPackageName": "CountryFlag_Egypt",
 		"AssetPath": "CountryFlag_Egypt.CountryFlag_Egypt",
 		"ID": 426,
-		"Product": "Egypte",
+		"Product": "Égypte",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -3953,7 +3953,7 @@
 		"AssetPackageName": "CountryFlag_Eritrea",
 		"AssetPath": "CountryFlag_Eritrea.CountryFlag_Eritrea",
 		"ID": 427,
-		"Product": "Erythrée",
+		"Product": "Érythrée",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -3973,7 +3973,7 @@
 		"AssetPackageName": "CountryFlag_Ethiopia",
 		"AssetPath": "CountryFlag_Ethiopia.CountryFlag_Ethiopia",
 		"ID": 429,
-		"Product": "Ethiopie",
+		"Product": "Éthiopie",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -4233,7 +4233,7 @@
 		"AssetPackageName": "CountryFlag_N_Mariana_Islands",
 		"AssetPath": "CountryFlag_N_Mariana_Islands.CountryFlag_N_Mariana_Islands",
 		"ID": 456,
-		"Product": "Iles Mariannes du Nord",
+		"Product": "Îles Mariannes du Nord",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -4473,7 +4473,7 @@
 		"AssetPackageName": "CountryFlag_US_Virgin_Islands",
 		"AssetPath": "CountryFlag_US_Virgin_Islands.CountryFlag_US_Virgin_Islands",
 		"ID": 480,
-		"Product": "Iles Vierges des Etats-Unis",
+		"Product": "Îles Vierges des États-Unis",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -5293,7 +5293,7 @@
 		"AssetPackageName": "CountryFlag_SolomonIslands",
 		"AssetPath": "CountryFlag_SolomonIslands.CountryFlag_SolomonIslands",
 		"ID": 567,
-		"Product": "Iles Salomon",
+		"Product": "Îles Salomon",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -7023,7 +7023,7 @@
 		"AssetPackageName": "wheel_proto_07",
 		"AssetPath": "wheel_proto_07.wheel_proto_07",
 		"ID": 825,
-		"Product": "Egalisateur",
+		"Product": "Égalisateur",
 		"Quality": "Exotic",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -7113,7 +7113,7 @@
 		"AssetPackageName": "CountryFlag_BVE",
 		"AssetPath": "CountryFlag_BVE.CountryFlag_BVE",
 		"ID": 837,
-		"Product": "Iles Vierges britanniques",
+		"Product": "Îles Vierges britanniques",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -7123,7 +7123,7 @@
 		"AssetPackageName": "CountryFlag_CaymanIslands",
 		"AssetPath": "CountryFlag_CaymanIslands.CountryFlag_CaymanIslands",
 		"ID": 838,
-		"Product": "Iles Caïman",
+		"Product": "Îles Caïman",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -7133,7 +7133,7 @@
 		"AssetPackageName": "CountryFlag_CookIslands",
 		"AssetPath": "CountryFlag_CookIslands.CountryFlag_CookIslands",
 		"ID": 839,
-		"Product": "Iles Cook",
+		"Product": "Îles Cook",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -7163,7 +7163,7 @@
 		"AssetPackageName": "CountryFlag_FalklandIslands",
 		"AssetPath": "CountryFlag_FalklandIslands.CountryFlag_FalklandIslands",
 		"ID": 842,
-		"Product": "Iles Malouines",
+		"Product": "Îles Malouines",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -7173,7 +7173,7 @@
 		"AssetPackageName": "CountryFlag_FaroeIslands",
 		"AssetPath": "CountryFlag_FaroeIslands.CountryFlag_FaroeIslands",
 		"ID": 843,
-		"Product": "Iles Féroé",
+		"Product": "Îles Féroé",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -7193,7 +7193,7 @@
 		"AssetPackageName": "CountryFlag_IsleOfMan",
 		"AssetPath": "CountryFlag_IsleOfMan.CountryFlag_IsleOfMan",
 		"ID": 845,
-		"Product": "Ile de Man",
+		"Product": "Île de Man",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -7223,7 +7223,7 @@
 		"AssetPackageName": "CountryFlag_MarshallIslands",
 		"AssetPath": "CountryFlag_MarshallIslands.CountryFlag_MarshallIslands",
 		"ID": 848,
-		"Product": "Iles Marshall",
+		"Product": "Îles Marshall",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -7343,7 +7343,7 @@
 		"AssetPackageName": "CountryFlag_TurksCacos",
 		"AssetPath": "CountryFlag_TurksCacos.CountryFlag_TurksCacos",
 		"ID": 860,
-		"Product": "Iles Turques-et-Caïques",
+		"Product": "Îles Turques-et-Caïques",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -7983,7 +7983,7 @@
 		"AssetPackageName": "boost_iceshards",
 		"AssetPath": "boost_iceshards.boost_iceshards",
 		"ID": 1166,
-		"Product": "Eclats de glace",
+		"Product": "Éclats de glace",
 		"Quality": "VeryRare",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
@@ -8003,7 +8003,7 @@
 		"AssetPackageName": "Skin_Torch2_Star",
 		"AssetPath": "Skin_Torch2_Star.Skin_Torch2_Star",
 		"ID": 1168,
-		"Product": "X-Devil Mk2 : Etoiles",
+		"Product": "X-Devil Mk2 : Étoiles",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -8053,7 +8053,7 @@
 		"AssetPackageName": "Skin_NeoCar_Stars",
 		"AssetPath": "Skin_NeoCar_Stars.Skin_NeoCar_Stars",
 		"ID": 1174,
-		"Product": "Masamune : Etoiles",
+		"Product": "Masamune : Étoiles",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -8953,7 +8953,7 @@
 		"AssetPackageName": "Skin_Marauder_BigBuck",
 		"AssetPath": "Skin_Marauder_BigBuck.Skin_Marauder_BigBuck",
 		"ID": 1340,
-		"Product": "Marauder : Enorme daim",
+		"Product": "Marauder : Énorme daim",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -9067,7 +9067,7 @@
 		"Quality": "Premium",
 		"Slot": "Caisses",
 		"Slot Index": 11,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_vanquish_flowers",
@@ -9177,7 +9177,7 @@
 		"Quality": "BlackMarket",
 		"Slot": "Châssis",
 		"Slot Index": 0,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "Body_CarCar",
@@ -9487,7 +9487,7 @@
 		"Quality": "BlackMarket",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_number6_stripes_rgb",
@@ -9503,7 +9503,7 @@
 		"AssetPackageName": "boost_lightning_yellow",
 		"AssetPath": "boost_lightning_yellow.boost_lightning_yellow",
 		"ID": 1473,
-		"Product": "Jaune Eclair",
+		"Product": "Jaune Éclair",
 		"Quality": "VeryRare",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
@@ -9733,7 +9733,7 @@
 		"AssetPackageName": "antenna_seastar",
 		"AssetPath": "antenna_seastar.antenna_seastar",
 		"ID": 1516,
-		"Product": "Etoile de mer",
+		"Product": "Étoile de mer",
 		"Quality": "Uncommon",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -11913,7 +11913,7 @@
 		"AssetPackageName": "skins_zmoney_lightning",
 		"AssetPath": "skins_zmoney_lightning.skins_zmoney_lightning",
 		"ID": 1830,
-		"Product": "Nemesis : Eclair",
+		"Product": "Nemesis : Éclair",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -12253,7 +12253,7 @@
 		"AssetPackageName": "Explosion_Electric",
 		"AssetPath": "Explosion_Electric.Explosion_Electric",
 		"ID": 1904,
-		"Product": "Electrochoc",
+		"Product": "Électrochoc",
 		"Quality": "BlackMarket",
 		"Slot": "Explosion de but",
 		"Slot Index": 15,
@@ -12393,7 +12393,7 @@
 		"AssetPackageName": "skin_pumpernickel_soundwave",
 		"AssetPath": "skin_pumpernickel_soundwave.skin_pumpernickel_soundwave",
 		"ID": 1924,
-		"Product": "Centio : Echo-pulsation",
+		"Product": "Centio : Écho-pulsation",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -12573,7 +12573,7 @@
 		"AssetPackageName": "skin_endo_splat",
 		"AssetPath": "skin_endo_splat.skin_endo_splat",
 		"ID": 1953,
-		"Product": "Endo : Eclaboussures",
+		"Product": "Endo : Éclaboussures",
 		"Quality": "Rare",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -12733,7 +12733,7 @@
 		"AssetPackageName": "ss_Lightning",
 		"AssetPath": "ss_Lightning.ss_Lightning",
 		"ID": 1974,
-		"Product": "Eclair",
+		"Product": "Éclair",
 		"Quality": "VeryRare",
 		"Slot": "Traînée",
 		"Slot Index": 14,
@@ -13113,7 +13113,7 @@
 		"AssetPackageName": "skin_musclecar2_ocho",
 		"AssetPath": "skin_musclecar2_ocho.skin_musclecar2_ocho",
 		"ID": 2024,
-		"Product": "Dominus GT : Eclaboussure",
+		"Product": "Dominus GT : Éclaboussure",
 		"Quality": "Rare",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -13243,7 +13243,7 @@
 		"AssetPackageName": "hat_JOS",
 		"AssetPath": "hat_JOS.hat_JOS",
 		"ID": 2043,
-		"Product": "Epouvantail",
+		"Product": "Épouvantail",
 		"Quality": "Limited",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
@@ -14513,7 +14513,7 @@
 		"AssetPackageName": "hat_babyelephant",
 		"AssetPath": "hat_babyelephant.hat_babyelephant",
 		"ID": 2395,
-		"Product": "Eléphanteau",
+		"Product": "Éléphanteau",
 		"Quality": "Uncommon",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
@@ -14623,7 +14623,7 @@
 		"AssetPackageName": "PlayerBanner_CarbonFiber",
 		"AssetPath": "PlayerBanner_CarbonFiber.PlayerBanner_CarbonFiber",
 		"ID": 2411,
-		"Product": "Etoiles porte-bonheur",
+		"Product": "Étoiles porte-bonheur",
 		"Quality": "Rare",
 		"Slot": "Bannière de joueur",
 		"Slot Index": 16,
@@ -15063,7 +15063,7 @@
 		"AssetPackageName": "skin_pumpernickel_waterways",
 		"AssetPath": "skin_pumpernickel_waterways.skin_pumpernickel_waterways",
 		"ID": 2461,
-		"Product": "Centio : Eclaboussures",
+		"Product": "Centio : Éclaboussures",
 		"Quality": "Rare",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -15163,7 +15163,7 @@
 		"AssetPackageName": "PlayerBanner_Starstreak",
 		"AssetPath": "PlayerBanner_Starstreak.PlayerBanner_Starstreak",
 		"ID": 2477,
-		"Product": "Etoile filante",
+		"Product": "Étoile filante",
 		"Quality": "Limited",
 		"Slot": "Bannière de joueur",
 		"Slot Index": 16,
@@ -15473,7 +15473,7 @@
 		"AssetPackageName": "playerBanner_Scales",
 		"AssetPath": "playerBanner_Scales.playerBanner_Scales",
 		"ID": 2511,
-		"Product": "Ecailles",
+		"Product": "Écailles",
 		"Quality": "Uncommon",
 		"Slot": "Bannière de joueur",
 		"Slot Index": 16,
@@ -19467,7 +19467,7 @@
 		"Quality": "Rare",
 		"Slot": "Châssis",
 		"Slot Index": 0,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_force_born2boost",
@@ -20873,7 +20873,7 @@
 		"AssetPackageName": "avatarborder_lightning",
 		"AssetPath": "avatarborder_lightning.avatarborder_lightning",
 		"ID": 3349,
-		"Product": "Electrochoc",
+		"Product": "Électrochoc",
 		"Quality": "Limited",
 		"Slot": "Bordure d'avatar",
 		"Slot Index": 20,
@@ -21183,7 +21183,7 @@
 		"AssetPackageName": "skin_octane_edgestar",
 		"AssetPath": "skin_octane_edgestar.skin_octane_edgestar",
 		"ID": 3405,
-		"Product": "Octane : Etoile à lames",
+		"Product": "Octane : Étoile à lames",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -21543,7 +21543,7 @@
 		"AssetPackageName": "skin_orion_cogignition",
 		"AssetPath": "skin_orion_cogignition.skin_orion_cogignition",
 		"ID": 3450,
-		"Product": "Paladin : Equipé",
+		"Product": "Paladin : Équipé",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -21573,7 +21573,7 @@
 		"AssetPackageName": "explosion_solar",
 		"AssetPath": "explosion_solar.explosion_solar",
 		"ID": 3453,
-		"Product": "Eruption solaire",
+		"Product": "Éruption solaire",
 		"Quality": "BlackMarket",
 		"Slot": "Explosion de but",
 		"Slot Index": 15,
@@ -21593,7 +21593,7 @@
 		"AssetPackageName": "skin_rhino_responseteam",
 		"AssetPath": "skin_rhino_responseteam.skin_rhino_responseteam",
 		"ID": 3455,
-		"Product": "Road Hog : Equipe d'intervention",
+		"Product": "Road Hog : Équipe d'intervention",
 		"Quality": "Uncommon",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -21613,7 +21613,7 @@
 		"AssetPackageName": "ItemContainer",
 		"AssetPath": "ItemContainer.Crate_Number15",
 		"ID": 3457,
-		"Product": "Elévation",
+		"Product": "Élévation",
 		"Quality": "Rare",
 		"Slot": "Plans",
 		"Slot Index": 24,
@@ -21843,7 +21843,7 @@
 		"AssetPackageName": "skin_ElectricMagic",
 		"AssetPath": "skin_ElectricMagic.skin_ElectricMagic",
 		"ID": 3488,
-		"Product": "Electro-punk",
+		"Product": "Électro-punk",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -22623,7 +22623,7 @@
 		"AssetPackageName": "antenna_orbit_tier1",
 		"AssetPath": "antenna_orbit_tier1.antenna_orbit_tier1",
 		"ID": 3601,
-		"Product": "Electron I",
+		"Product": "Électron I",
 		"Quality": "Limited",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -22713,7 +22713,7 @@
 		"AssetPackageName": "antenna_orbit_tier1",
 		"AssetPath": "antenna_orbit_tier1.antenna_orbit_tier2",
 		"ID": 3611,
-		"Product": "Electron II",
+		"Product": "Électron II",
 		"Quality": "Limited",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -22723,7 +22723,7 @@
 		"AssetPackageName": "antenna_orbit_tier1",
 		"AssetPath": "antenna_orbit_tier1.antenna_orbit_tier3",
 		"ID": 3612,
-		"Product": "Electron III",
+		"Product": "Électron III",
 		"Quality": "Limited",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -22943,7 +22943,7 @@
 		"AssetPackageName": "antenna_cnnyf",
 		"AssetPath": "antenna_cnnyf.antenna_cnnyf",
 		"ID": 3639,
-		"Product": "Eventail de la fortune",
+		"Product": "Éventail de la fortune",
 		"Quality": "Limited",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -23783,7 +23783,7 @@
 		"AssetPackageName": "hat_chess",
 		"AssetPath": "hat_chess.hat_chess",
 		"ID": 3755,
-		"Product": "Echec et mat",
+		"Product": "Échec et mat",
 		"Quality": "Limited",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
@@ -24133,7 +24133,7 @@
 		"AssetPackageName": "hat_starfish",
 		"AssetPath": "hat_starfish.hat_starfish",
 		"ID": 3810,
-		"Product": "Etoile de mer",
+		"Product": "Étoile de mer",
 		"Quality": "Limited",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
@@ -24423,7 +24423,7 @@
 		"AssetPackageName": "antenna_sparkler_tier3",
 		"AssetPath": "antenna_sparkler_tier3.antenna_sparkler_tier3",
 		"ID": 3857,
-		"Product": "Etincelles III",
+		"Product": "Étincelles III",
 		"Quality": "Limited",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -24763,7 +24763,7 @@
 		"AssetPackageName": "skin_musclecar_bustedgame",
 		"AssetPath": "skin_musclecar_bustedgame.skin_musclecar_bustedgame",
 		"ID": 3915,
-		"Product": "Dominus : Ecran de la Mort",
+		"Product": "Dominus : Écran de la Mort",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -25263,7 +25263,7 @@
 		"AssetPackageName": "skin_mango_thunder_tierall",
 		"AssetPath": "skin_mango_thunder_tierall.skin_mango_thunder_tierall",
 		"ID": 3972,
-		"Product": "Guardian : Eclair",
+		"Product": "Guardian : Éclair",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -25363,7 +25363,7 @@
 		"AssetPackageName": "wheel_emerald",
 		"AssetPath": "wheel_emerald.wheel_emerald",
 		"ID": 3986,
-		"Product": "Emeraude",
+		"Product": "Émeraude",
 		"Quality": "Limited",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -26393,7 +26393,7 @@
 		"AssetPackageName": "antenna_sparkler",
 		"AssetPath": "antenna_sparkler.antenna_sparkler_tier1",
 		"ID": 4120,
-		"Product": "Etincelles I",
+		"Product": "Étincelles I",
 		"Quality": "Limited",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -26403,7 +26403,7 @@
 		"AssetPackageName": "antenna_sparkler",
 		"AssetPath": "antenna_sparkler.antenna_sparkler_tier2",
 		"ID": 4121,
-		"Product": "Etincelles II",
+		"Product": "Étincelles II",
 		"Quality": "Limited",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -26517,7 +26517,7 @@
 		"Quality": "Premium",
 		"Slot": "Bannière de joueur",
 		"Slot Index": 16,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_edge",
@@ -26873,7 +26873,7 @@
 		"AssetPackageName": "skin_octane_crowscare",
 		"AssetPath": "skin_octane_crowscare.skin_octane_crowscare",
 		"ID": 4197,
-		"Product": "Octane : Epouvantail",
+		"Product": "Octane : Épouvantail",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -27473,7 +27473,7 @@
 		"AssetPackageName": "boost_ninjastar",
 		"AssetPath": "boost_ninjastar.boost_ninjastar",
 		"ID": 4282,
-		"Product": "Etoile de ninja",
+		"Product": "Étoile de ninja",
 		"Quality": "Import",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
@@ -27543,7 +27543,7 @@
 		"AssetPackageName": "skin_grain_lightning",
 		"AssetPath": "skin_grain_lightning.skin_grain_lightning",
 		"ID": 4292,
-		"Product": "Fennec : Eclair",
+		"Product": "Fennec : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -27823,7 +27823,7 @@
 		"AssetPackageName": "skin_melon_pace_tierall",
 		"AssetPath": "skin_melon_pace_tierall.skin_melon_pace_tierall",
 		"ID": 4329,
-		"Product": "Mudcat : Eclair de course",
+		"Product": "Mudcat : Éclair de course",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -28133,7 +28133,7 @@
 		"AssetPackageName": "flag_checkered",
 		"AssetPath": "flag_checkered.flag_checkered",
 		"ID": 4368,
-		"Product": "Enorme checker",
+		"Product": "Énorme checker",
 		"Quality": "Limited",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -28453,7 +28453,7 @@
 		"AssetPackageName": "skin_chip_lightning",
 		"AssetPath": "skin_chip_lightning.skin_chip_lightning",
 		"ID": 4404,
-		"Product": "Sentinel : Eclair",
+		"Product": "Sentinel : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -28633,7 +28633,7 @@
 		"AssetPackageName": "playerbanner_rallylivery",
 		"AssetPath": "playerbanner_rallylivery.playerbanner_rallylivery",
 		"ID": 4423,
-		"Product": "Etoile de course",
+		"Product": "Étoile de course",
 		"Quality": "Limited",
 		"Slot": "Bannière de joueur",
 		"Slot Index": 16,
@@ -29553,7 +29553,7 @@
 		"AssetPackageName": "playerbanner_lightning",
 		"AssetPath": "playerbanner_lightning.playerbanner_lightning",
 		"ID": 4563,
-		"Product": "Electrifié",
+		"Product": "Électrifié",
 		"Quality": "Limited",
 		"Slot": "Bannière de joueur",
 		"Slot Index": 16,
@@ -29583,7 +29583,7 @@
 		"AssetPackageName": "PaintFinish_Waves",
 		"AssetPath": "PaintFinish_Waves.PaintFinish_Waves",
 		"ID": 4568,
-		"Product": "Ecailles de dragon",
+		"Product": "Écailles de dragon",
 		"Quality": "Limited",
 		"Slot": "Peinture",
 		"Slot Index": 7,
@@ -30667,7 +30667,7 @@
 		"Quality": "Premium",
 		"Slot": "Devise",
 		"Slot Index": 26,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "body_kusanagi_t3",
@@ -32763,7 +32763,7 @@
 		"AssetPackageName": "boost_pops",
 		"AssetPath": "boost_pops.boost_pops",
 		"ID": 5067,
-		"Product": "Etincelle Diecast",
+		"Product": "Étincelle Diecast",
 		"Quality": "Limited",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
@@ -33437,7 +33437,7 @@
 		"Quality": "Premium",
 		"Slot": "Bannière de joueur",
 		"Slot Index": 16,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "Skin_SideWinder",
@@ -34347,7 +34347,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_ToonRocks_psplus",
@@ -34357,13 +34357,13 @@
 		"Quality": "Premium",
 		"Slot": "Traînée",
 		"Slot Index": 14,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_shark_lightning",
 		"AssetPath": "skin_shark_lightning.skin_shark_lightning",
 		"ID": 5315,
-		"Product": "Peregrine TT : Eclair",
+		"Product": "Peregrine TT : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -34377,7 +34377,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_shark_frosted",
@@ -35617,7 +35617,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_focaccia_psplus",
@@ -35627,7 +35627,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_trailblazer",
@@ -35773,7 +35773,7 @@
 		"AssetPackageName": "playerbanner_equalizer",
 		"AssetPath": "playerbanner_equalizer.playerbanner_equalizer",
 		"ID": 5474,
-		"Product": "Egalisateur",
+		"Product": "Égalisateur",
 		"Quality": "Limited",
 		"Slot": "Bannière de joueur",
 		"Slot Index": 16,
@@ -35853,11 +35853,11 @@
 		"AssetPackageName": "SS_Lightning_psplus",
 		"AssetPath": "SS_Lightning_psplus.SS_Lightning_psplus",
 		"ID": 5483,
-		"Product": "Eclair plus",
+		"Product": "Éclair plus",
 		"Quality": "Premium",
 		"Slot": "Traînée",
 		"Slot Index": 14,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_sblo",
@@ -36187,7 +36187,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_chains",
@@ -38513,7 +38513,7 @@
 		"AssetPackageName": "skin_brick_lightning",
 		"AssetPath": "skin_brick_lightning.skin_brick_lightning",
 		"ID": 5818,
-		"Product": "Tygris : Eclair",
+		"Product": "Tygris : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -38583,7 +38583,7 @@
 		"AssetPackageName": "explosion_singleatom",
 		"AssetPath": "explosion_singleatom.explosion_singleatom",
 		"ID": 5826,
-		"Product": "Eclair atomique",
+		"Product": "Éclair atomique",
 		"Quality": "BlackMarket",
 		"Slot": "Explosion de but",
 		"Slot Index": 15,
@@ -38697,7 +38697,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_stylized_psplus",
@@ -38707,7 +38707,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_dwi_psplus",
@@ -38717,7 +38717,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_7spoke_psplus",
@@ -38727,7 +38727,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_magic_fire",
@@ -38843,7 +38843,7 @@
 		"AssetPackageName": "ss_aurora",
 		"AssetPath": "ss_aurora.ss_aurora",
 		"ID": 5857,
-		"Product": "Ethéré",
+		"Product": "Éthéré",
 		"Quality": "VeryRare",
 		"Slot": "Traînée",
 		"Slot Index": 14,
@@ -38863,7 +38863,7 @@
 		"AssetPackageName": "boost_aurora",
 		"AssetPath": "boost_aurora.boost_aurora",
 		"ID": 5859,
-		"Product": "Ethéré",
+		"Product": "Éthéré",
 		"Quality": "Import",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
@@ -39137,7 +39137,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_s2",
@@ -39257,7 +39257,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ItemContainer",
@@ -39377,7 +39377,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_apexstripes",
@@ -39397,7 +39397,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "avatarborder_savethebees",
@@ -39643,7 +39643,7 @@
 		"AssetPackageName": "mx_anthems_epicaudioteam",
 		"AssetPath": "mx_anthems_epicaudioteam.Album_Anthem_EpicAudioTeam",
 		"ID": 5948,
-		"Product": "Equipe Audio Epic",
+		"Product": "Équipe Audio Epic",
 		"Quality": "Common",
 		"Slot": "Hymne de joueur",
 		"Slot Index": 18,
@@ -40293,11 +40293,11 @@
 		"AssetPackageName": "boost_ninjastar_psplus",
 		"AssetPath": "boost_ninjastar_psplus.boost_ninjastar_psplus",
 		"ID": 6034,
-		"Product": "Etoile de ninja BL",
+		"Product": "Étoile de ninja BL",
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_fracture_haa",
@@ -40313,11 +40313,11 @@
 		"AssetPackageName": "hat_stars_psplus",
 		"AssetPath": "hat_stars_psplus.hat_stars_psplus",
 		"ID": 6036,
-		"Product": "Etoiles dans les yeux BL",
+		"Product": "Étoiles dans les yeux BL",
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_fracture_ast",
@@ -40343,11 +40343,11 @@
 		"AssetPackageName": "wheel_toon_psplus",
 		"AssetPath": "wheel_toon_psplus.wheel_toon_psplus",
 		"ID": 6040,
-		"Product": "Etoile Spoof BL",
+		"Product": "Étoile Spoof BL",
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_fracture_red",
@@ -40857,7 +40857,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_drofb",
@@ -40877,7 +40877,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_bluemoon_xbb",
@@ -40973,7 +40973,7 @@
 		"AssetPackageName": "skin_fuego_lightning",
 		"AssetPath": "skin_fuego_lightning.skin_fuego_lightning",
 		"ID": 6125,
-		"Product": "Fast & Furious Pontiac Fiero : Eclair",
+		"Product": "Fast & Furious Pontiac Fiero : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -41357,7 +41357,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_goop_xbg",
@@ -41367,7 +41367,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_7spoke_xbg",
@@ -41387,7 +41387,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_toon_xbg",
@@ -46693,7 +46693,7 @@
 		"AssetPackageName": "skin_norton_lightning",
 		"AssetPath": "skin_norton_lightning.skin_norton_lightning",
 		"ID": 7061,
-		"Product": "Nexus : Eclair",
+		"Product": "Nexus : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -49593,7 +49593,7 @@
 		"AssetPackageName": "skin_maser_lightning",
 		"AssetPath": "skin_maser_lightning.skin_maser_lightning",
 		"ID": 7394,
-		"Product": "Mamba : Eclair",
+		"Product": "Mamba : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -50133,7 +50133,7 @@
 		"AssetPackageName": "skin_maui_lightning",
 		"AssetPath": "skin_maui_lightning.skin_maui_lightning",
 		"ID": 7455,
-		"Product": "Nomad : Eclair",
+		"Product": "Nomad : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -50413,7 +50413,7 @@
 		"AssetPackageName": "explosion_bender",
 		"AssetPath": "explosion_bender.Materials.explosion_bender",
 		"ID": 7485,
-		"Product": "Elémentaire",
+		"Product": "Élémentaire",
 		"Quality": "Limited",
 		"Slot": "Explosion de but",
 		"Slot Index": 15,
@@ -51017,7 +51017,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_crote_psplus",
@@ -51027,7 +51027,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_booji",
@@ -51057,7 +51057,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "playerbanner_scar_a_01",
@@ -51157,7 +51157,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_durian_lightning",
@@ -51973,7 +51973,7 @@
 		"AssetPackageName": "skin_lux_lightning",
 		"AssetPath": "skin_lux_lightning.skin_lux_lightning",
 		"ID": 7656,
-		"Product": "Maestro : Eclair",
+		"Product": "Maestro : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -52137,13 +52137,13 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_tophat_metal_fancy",
 		"AssetPath": "hat_tophat_metal_fancy.hat_tophat_metal_fancy",
 		"ID": 7675,
-		"Product": "Haut-de-forme : Edition d'anniversaire",
+		"Product": "Haut-de-forme : Édition d'anniversaire",
 		"Quality": "Exotic",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
@@ -52157,7 +52157,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_starz_inverted",
@@ -52197,7 +52197,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_doughnut",
@@ -52273,7 +52273,7 @@
 		"AssetPackageName": "wheel_ninja_gilded",
 		"AssetPath": "wheel_ninja_gilded.wheel_ninja_gilded",
 		"ID": 7695,
-		"Product": "Spyder : Edition d'anniversaire",
+		"Product": "Spyder : Édition d'anniversaire",
 		"Quality": "Exotic",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -52337,7 +52337,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_lux_marble",
@@ -53223,7 +53223,7 @@
 		"AssetPackageName": "skin_octane_ngu",
 		"AssetPath": "skin_octane_ngu.skin_octane_ngu",
 		"ID": 7814,
-		"Product": "Octane : Nike Air Zoom Mercurial - Jaune",
+		"Product": "Octane : Nike Air Zoom Mercurial – Jaune",
 		"Quality": "Import",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -53263,7 +53263,7 @@
 		"AssetPackageName": "skin_octane_NML",
 		"AssetPath": "skin_octane_NML.skin_octane_NML",
 		"ID": 7818,
-		"Product": "Octane : Nike Air Zoom Mercurial - Rose",
+		"Product": "Octane : Nike Air Zoom Mercurial – Rose",
 		"Quality": "Import",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -53273,7 +53273,7 @@
 		"AssetPackageName": "skin_octane_nse",
 		"AssetPath": "skin_octane_nse.skin_octane_nse",
 		"ID": 7819,
-		"Product": "Octane : Nike Air Zoom Mercurial - Vert",
+		"Product": "Octane : Nike Air Zoom Mercurial – Vert",
 		"Quality": "Import",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -53373,7 +53373,7 @@
 		"AssetPackageName": "skin_cheekface",
 		"AssetPath": "skin_cheekface.skin_cheekface",
 		"ID": 7833,
-		"Product": "Ecailles Rôdeuses",
+		"Product": "Écailles Rôdeuses",
 		"Quality": "BlackMarket",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -53747,7 +53747,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_headphones_psplus",
@@ -53757,7 +53757,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_tagbanger",
@@ -53927,7 +53927,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "body_pete",
@@ -54057,7 +54057,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "playerbanner_pigeonboombox",
@@ -54403,7 +54403,7 @@
 		"AssetPackageName": "skin_hic_tierall_lightning",
 		"AssetPath": "skin_hic_tierall_lightning.skin_hic_tierall_lightning",
 		"ID": 7964,
-		"Product": "Honda Civic Type R : Eclair",
+		"Product": "Honda Civic Type R : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -57983,7 +57983,7 @@
 		"AssetPackageName": "boost_bender",
 		"AssetPath": "boost_bender.boost_bender",
 		"ID": 8405,
-		"Product": "Elémentaire",
+		"Product": "Élémentaire",
 		"Quality": "Limited",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
@@ -58193,7 +58193,7 @@
 		"AssetPackageName": "skin_whiplash_lightning",
 		"AssetPath": "skin_whiplash_lightning.skin_whiplash_lightning",
 		"ID": 8427,
-		"Product": "Whiplash : Eclair",
+		"Product": "Whiplash : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -58343,7 +58343,7 @@
 		"AssetPackageName": "ss_bender",
 		"AssetPath": "ss_bender.ss_bender",
 		"ID": 8443,
-		"Product": "Elémentaire",
+		"Product": "Élémentaire",
 		"Quality": "Limited",
 		"Slot": "Traînée",
 		"Slot Index": 14,
@@ -58533,7 +58533,7 @@
 		"AssetPackageName": "skin_thrice_lightning",
 		"AssetPath": "skin_thrice_lightning.skin_thrice_lightning",
 		"ID": 8467,
-		"Product": "Fuse : Eclair",
+		"Product": "Fuse : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -58567,7 +58567,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_cherry_psplus",
@@ -58577,7 +58577,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_molten",
@@ -58727,7 +58727,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_linecolors",
@@ -58777,7 +58777,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "explosion_dragon_ga",
@@ -59013,7 +59013,7 @@
 		"AssetPackageName": "skin_beak_tierall_lightning",
 		"AssetPath": "skin_beak_tierall_lightning.skin_beak_tierall_lightning",
 		"ID": 8518,
-		"Product": "Emperor : Eclair",
+		"Product": "Emperor : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -59063,7 +59063,7 @@
 		"AssetPackageName": "wheel_swirl",
 		"AssetPath": "wheel_swirl.wheel_swirl",
 		"ID": 8523,
-		"Product": "Elémentaire",
+		"Product": "Élémentaire",
 		"Quality": "Limited",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -61297,7 +61297,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "Explosion_Lotusflow",
@@ -61357,7 +61357,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_hallowed_psplus",
@@ -61367,7 +61367,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "Antenna_FlowerHummingbird",
@@ -61387,7 +61387,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_Octane_Healer",
@@ -61453,7 +61453,7 @@
 		"AssetPackageName": "wheel_fcacm",
 		"AssetPath": "wheel_fcacm.wheel_fcacm",
 		"ID": 8833,
-		"Product": "AC Milan (PUMA x KOCHE)",
+		"Product": "AC Milan (PUMA x KOCHÉ)",
 		"Quality": "Import",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -61557,7 +61557,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_dub_huntress_tierall",
@@ -61603,7 +61603,7 @@
 		"AssetPackageName": "skin_octane_fcacm",
 		"AssetPath": "skin_octane_fcacm.skin_octane_fcacm",
 		"ID": 8849,
-		"Product": "Octane : AC Milan (PUMA x KOCHE)",
+		"Product": "Octane : AC Milan (PUMA x KOCHÉ)",
 		"Quality": "Import",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -61643,7 +61643,7 @@
 		"AssetPackageName": "skin_musclecar_fcacm",
 		"AssetPath": "skin_musclecar_fcacm.skin_musclecar_fcacm",
 		"ID": 8853,
-		"Product": "Dominus : AC Milan (PUMA x KOCHE)",
+		"Product": "Dominus : AC Milan (PUMA x KOCHÉ)",
 		"Quality": "Import",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -61933,7 +61933,7 @@
 		"AssetPackageName": "skin_dub_lightning_tierall",
 		"AssetPath": "skin_dub_lightning_tierall.skin_dub_lightning_tierall",
 		"ID": 8886,
-		"Product": "Volkswagen Golf GTI : Eclair",
+		"Product": "Volkswagen Golf GTI : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -61963,7 +61963,7 @@
 		"AssetPackageName": "skin_dub_kingsnake_tierall",
 		"AssetPath": "skin_dub_kingsnake_tierall.skin_dub_kingsnake_tierall",
 		"ID": 8889,
-		"Product": "Volkswagen Golf GTI : Equipe Kingsnake",
+		"Product": "Volkswagen Golf GTI : Équipe Kingsnake",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -62303,7 +62303,7 @@
 		"AssetPackageName": "skin_musclecar_tech",
 		"AssetPath": "skin_musclecar_tech.skin_musclecar_tech",
 		"ID": 8943,
-		"Product": "Dominus : Neo-Etoile",
+		"Product": "Dominus : Neo-Étoile",
 		"Quality": "Import",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -62363,7 +62363,7 @@
 		"AssetPackageName": "skin_aa_lightning_tierall",
 		"AssetPath": "skin_aa_lightning_tierall.skin_aa_lightning_tierall",
 		"ID": 8951,
-		"Product": "Ace : Eclair",
+		"Product": "Ace : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -62403,7 +62403,7 @@
 		"AssetPackageName": "skin_jinn_lightning_tierall",
 		"AssetPath": "skin_jinn_lightning_tierall.skin_jinn_lightning_tierall",
 		"ID": 8956,
-		"Product": "Redline : Eclair",
+		"Product": "Redline : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -63087,7 +63087,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "paintfinish_bubblewrap",
@@ -63197,7 +63197,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "Skin_Octane_galefire_psplus",
@@ -63207,7 +63207,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_claw_srt",
@@ -63487,7 +63487,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "playerbanner_crazies",
@@ -63823,7 +63823,7 @@
 		"AssetPackageName": "hat_subb",
 		"AssetPath": "hat_subb.hat_subb",
 		"ID": 9156,
-		"Product": "Ecrou ailé",
+		"Product": "Écrou ailé",
 		"Quality": "Limited",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
@@ -64083,7 +64083,7 @@
 		"AssetPackageName": "skin_seasalt_lightning_tierall",
 		"AssetPath": "skin_seasalt_lightning_tierall.skin_seasalt_lightning_tierall",
 		"ID": 9208,
-		"Product": "Nissan Silvia : Eclair",
+		"Product": "Nissan Silvia : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -64833,7 +64833,7 @@
 		"AssetPackageName": "skin_butter_lightning_tierall",
 		"AssetPath": "skin_butter_lightning_tierall.skin_butter_lightning_tierall",
 		"ID": 9308,
-		"Product": "Porsche 911 Turbo : Eclair",
+		"Product": "Porsche 911 Turbo : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -65247,7 +65247,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_glitched",
@@ -65427,7 +65427,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_vanquish_narwhal_psplus",
@@ -65437,7 +65437,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_perl_psplus",
@@ -65447,7 +65447,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_koi",
@@ -65913,7 +65913,7 @@
 		"AssetPackageName": "flag_mc_ownboss",
 		"AssetPath": "flag_mc_ownboss.flag_mc_ownboss",
 		"ID": 9452,
-		"Product": "Ownboss",
+		"Product": "Öwnboss",
 		"Quality": "Common",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -66863,7 +66863,7 @@
 		"AssetPackageName": "skin_torment_demon_sword",
 		"AssetPath": "skin_torment_demon_sword.skin_torment_demon_sword",
 		"ID": 9606,
-		"Product": "Hotshot : Epée tourmentée",
+		"Product": "Hotshot : Épée tourmentée",
 		"Quality": "Uncommon",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -67217,7 +67217,7 @@
 		"Quality": "Premium",
 		"Slot": "Traînée",
 		"Slot Index": 14,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "anthem_bobsramentheme",
@@ -67287,7 +67287,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_crown_psplus",
@@ -67297,7 +67297,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_hanzawa_psplus",
@@ -67307,7 +67307,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_fallingstar",
@@ -67403,7 +67403,7 @@
 		"AssetPackageName": "SS_Lightning_GP",
 		"AssetPath": "SS_Lightning_GP.SS_Lightning_GP",
 		"ID": 9711,
-		"Product": "Eclair : Doré",
+		"Product": "Éclair : Doré",
 		"Quality": "VeryRare",
 		"Slot": "Traînée",
 		"Slot Index": 14,
@@ -67813,7 +67813,7 @@
 		"AssetPackageName": "skin_rebar_lightning",
 		"AssetPath": "skin_rebar_lightning.skin_rebar_lightning",
 		"ID": 9775,
-		"Product": "Diesel : Eclair",
+		"Product": "Diesel : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -68003,7 +68003,7 @@
 		"AssetPackageName": "Hat_CD_Case",
 		"AssetPath": "Hat_CD_Case.Hat_CD_Case",
 		"ID": 9795,
-		"Product": "Etui de transport",
+		"Product": "Étui de transport",
 		"Quality": "Limited",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
@@ -68233,7 +68233,7 @@
 		"AssetPackageName": "skin_skunkz_lightning",
 		"AssetPath": "skin_skunkz_lightning.skin_skunkz_lightning",
 		"ID": 9821,
-		"Product": "Primo : Eclair",
+		"Product": "Primo : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -68857,7 +68857,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_aurawater",
@@ -69423,7 +69423,7 @@
 		"AssetPackageName": "paintfinish_fishscale",
 		"AssetPath": "paintfinish_fishscale.paintfinish_fishscale",
 		"ID": 10002,
-		"Product": "Ecaille de poisson",
+		"Product": "Écaille de poisson",
 		"Quality": "Limited",
 		"Slot": "Peinture",
 		"Slot Index": 7,
@@ -70257,7 +70257,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_abstractpanels_psplus",
@@ -70267,7 +70267,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_musclecar_nrg_024",
@@ -70327,7 +70327,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_grain_karminecorp_024",
@@ -70533,7 +70533,7 @@
 		"AssetPackageName": "skin_keanu_lightning",
 		"AssetPath": "skin_keanu_lightning.skin_keanu_lightning",
 		"ID": 10136,
-		"Product": "Mako : Eclair",
+		"Product": "Mako : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -70963,7 +70963,7 @@
 		"AssetPackageName": "skin_odb_lightning",
 		"AssetPath": "skin_odb_lightning.skin_odb_lightning",
 		"ID": 10191,
-		"Product": "Admiral : Eclair",
+		"Product": "Admiral : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -71180,6 +71180,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_rl03",
+		"AssetPath": "wheel_rl03.wheel_rl03",
+		"ID": 10220,
+		"Product": "Furnacer",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_rl135_t1",
 		"AssetPath": "wheel_rl135_t1.wheel_rl135_t1",
 		"ID": 10221,
@@ -71273,7 +71283,7 @@
 		"AssetPackageName": "skin_ran_lightning",
 		"AssetPath": "skin_ran_lightning.skin_ran_lightning",
 		"ID": 10230,
-		"Product": "McLaren 765LT : Eclair",
+		"Product": "McLaren 765LT : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -71883,7 +71893,7 @@
 		"AssetPackageName": "skin_sassy_lightning",
 		"AssetPath": "skin_sassy_lightning.skin_sassy_lightning",
 		"ID": 10329,
-		"Product": "Nissan Z Performance : Eclair",
+		"Product": "Nissan Z Performance : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -71963,7 +71973,7 @@
 		"AssetPackageName": "skin_ten_lightning",
 		"AssetPath": "skin_ten_lightning.skin_ten_lightning",
 		"ID": 10338,
-		"Product": "Bugatti Centodieci : Eclair",
+		"Product": "Bugatti Centodieci : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -72013,7 +72023,7 @@
 		"AssetPackageName": "skin_rage_lightning",
 		"AssetPath": "skin_rage_lightning.skin_rage_lightning",
 		"ID": 10344,
-		"Product": "Lamborghini Countach LPI 800-4 : Eclair",
+		"Product": "Lamborghini Countach LPI 800-4 : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -72103,7 +72113,7 @@
 		"AssetPackageName": "skin_ron_lightning",
 		"AssetPath": "skin_ron_lightning.skin_ron_lightning",
 		"ID": 10359,
-		"Product": "McLaren 570S : Eclair",
+		"Product": "McLaren 570S : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -72163,7 +72173,7 @@
 		"AssetPackageName": "skin_sixty_lightning",
 		"AssetPath": "skin_sixty_lightning.skin_sixty_lightning",
 		"ID": 10367,
-		"Product": "BMW M240i : Eclair",
+		"Product": "BMW M240i : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -72487,7 +72497,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_force_litup_psp",
@@ -72497,7 +72507,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_coober_psp",
@@ -72507,7 +72517,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "anthem_nostalgix_needyou",
@@ -72703,7 +72713,7 @@
 		"AssetPackageName": "skin_fbrn_lightning",
 		"AssetPath": "skin_fbrn_lightning.skin_fbrn_lightning",
 		"ID": 10438,
-		"Product": "Ford Bronco Raptor RLE : Eclair",
+		"Product": "Ford Bronco Raptor RLE : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -73467,7 +73477,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_musclecar_lowrider2",
@@ -73623,7 +73633,7 @@
 		"AssetPackageName": "skin_akuma_lightning_tierall",
 		"AssetPath": "skin_akuma_lightning_tierall.skin_akuma_lightning_tierall",
 		"ID": 10565,
-		"Product": "Nissan Fairlady Z : Eclair",
+		"Product": "Nissan Fairlady Z : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -74353,7 +74363,7 @@
 		"AssetPackageName": "skin_oblong_lightning",
 		"AssetPath": "skin_oblong_lightning.skin_oblong_lightning",
 		"ID": 10658,
-		"Product": "Lamborghini Huracán STO : Eclair",
+		"Product": "Lamborghini Huracán STO : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -74883,7 +74893,7 @@
 		"AssetPackageName": "skin_moonflax_sportscar_lightning",
 		"AssetPath": "skin_moonflax_sportscar_lightning.skin_moonflax_sportscar_lightning",
 		"ID": 10725,
-		"Product": "Lockjaw : Eclair",
+		"Product": "Lockjaw : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -74923,7 +74933,7 @@
 		"AssetPackageName": "skin_moonflax_suv_lightning",
 		"AssetPath": "skin_moonflax_suv_lightning.skin_moonflax_suv_lightning",
 		"ID": 10729,
-		"Product": "Behemoth : Eclair",
+		"Product": "Behemoth : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -75093,7 +75103,7 @@
 		"AssetPackageName": "boost_eclipse",
 		"AssetPath": "boost_eclipse.FX.boost_eclipse",
 		"ID": 10746,
-		"Product": "Eclipse",
+		"Product": "Éclipse",
 		"Quality": "Limited",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
@@ -75903,7 +75913,7 @@
 		"AssetPackageName": "Wheel_Mage",
 		"AssetPath": "Wheel_Mage.Wheel_Mage",
 		"ID": 10857,
-		"Product": "Ecaille de dragon",
+		"Product": "Écaille de dragon",
 		"Quality": "Exotic",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -76177,7 +76187,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_turnstile_psplus",
@@ -76187,7 +76197,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_astro_psplus",
@@ -76197,7 +76207,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_sticky_04",
@@ -76307,7 +76317,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_hero",
@@ -76373,7 +76383,7 @@
 		"AssetPackageName": "skin_bullet_lightning",
 		"AssetPath": "skin_bullet_lightning.skin_bullet_lightning",
 		"ID": 10915,
-		"Product": "McLaren Senna : Eclair",
+		"Product": "McLaren Senna : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -76423,7 +76433,7 @@
 		"AssetPackageName": "skin_bober_lightning",
 		"AssetPath": "skin_bober_lightning.skin_bober_lightning",
 		"ID": 10920,
-		"Product": "BMW 1 Series : Eclair",
+		"Product": "BMW 1 Series : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -77373,7 +77383,7 @@
 		"AssetPackageName": "skin_jam_lightning",
 		"AssetPath": "skin_jam_lightning.skin_jam_lightning",
 		"ID": 11043,
-		"Product": "Porsche 911 GT3 RS : Eclair",
+		"Product": "Porsche 911 GT3 RS : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -77407,7 +77417,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_hologlass",
@@ -77427,7 +77437,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_jam_livery1",
@@ -77563,7 +77573,7 @@
 		"AssetPackageName": "Skin_Force_Stub",
 		"AssetPath": "Skin_Force_Stub.Skin_Force_Stub",
 		"ID": 11075,
-		"Product": "Breakout : Epée mystique",
+		"Product": "Breakout : Épée mystique",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -77707,7 +77717,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "body_frog",
@@ -77777,7 +77787,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "explosion_fs_gray",
@@ -78013,7 +78023,7 @@
 		"AssetPackageName": "skin_wurst_lightning",
 		"AssetPath": "skin_wurst_lightning.skin_wurst_lightning",
 		"ID": 11145,
-		"Product": "Lamborghini Urus SE : Eclair",
+		"Product": "Lamborghini Urus SE : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -78233,7 +78243,7 @@
 		"AssetPackageName": "skin_seba_lightning",
 		"AssetPath": "skin_seba_lightning.skin_seba_lightning",
 		"ID": 11171,
-		"Product": "Quadra Turbo-R : Eclair",
+		"Product": "Quadra Turbo-R : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -78273,7 +78283,7 @@
 		"AssetPackageName": "skin_amber_lightning",
 		"AssetPath": "skin_amber_lightning.skin_amber_lightning",
 		"ID": 11175,
-		"Product": "007's Aston Martin DB5 : Eclair",
+		"Product": "007's Aston Martin DB5 : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -78733,7 +78743,7 @@
 		"AssetPackageName": "skin_pickle_lightning",
 		"AssetPath": "skin_pickle_lightning.skin_pickle_lightning",
 		"ID": 11233,
-		"Product": "Void Burn : Eclair",
+		"Product": "Void Burn : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -78753,7 +78763,7 @@
 		"AssetPackageName": "skin_zakut1_lightning",
 		"AssetPath": "skin_zakut1_lightning.skin_zakut1_lightning",
 		"ID": 11235,
-		"Product": "Shokunin : Eclair",
+		"Product": "Shokunin : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -79543,7 +79553,7 @@
 		"AssetPackageName": "skin_bb_lightning",
 		"AssetPath": "skin_bb_lightning.skin_bb_lightning",
 		"ID": 11345,
-		"Product": "Battle Bus : Eclair",
+		"Product": "Battle Bus : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -79887,7 +79897,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_wire_psp",
@@ -79897,7 +79907,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_atomizer_psp",
@@ -79907,7 +79917,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "anthem_aventurine03",
@@ -80123,7 +80133,7 @@
 		"AssetPackageName": "skin_futura_lightning",
 		"AssetPath": "skin_futura_lightning.skin_futura_lightning",
 		"ID": 11408,
-		"Product": "Azura : Eclair",
+		"Product": "Azura : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -80167,7 +80177,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "explosion_bramen",
@@ -80233,7 +80243,7 @@
 		"AssetPackageName": "skin_edison_lightning",
 		"AssetPath": "skin_edison_lightning.skin_edison_lightning",
 		"ID": 11420,
-		"Product": "Dodge Charger Daytona Scat Pack : Eclair",
+		"Product": "Dodge Charger Daytona Scat Pack : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -80583,7 +80593,7 @@
 		"AssetPackageName": "skin_mudpie_lightning",
 		"AssetPath": "skin_mudpie_lightning.skin_mudpie_lightning",
 		"ID": 11476,
-		"Product": "Jeep Wrangler Rubicon : Eclair",
+		"Product": "Jeep Wrangler Rubicon : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -81773,7 +81783,7 @@
 		"AssetPackageName": "boost_evilornament",
 		"AssetPath": "boost_evilornament.boost_evilornament",
 		"ID": 11636,
-		"Product": "Eclair de force",
+		"Product": "Éclair de force",
 		"Quality": "Limited",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
@@ -81903,7 +81913,7 @@
 		"AssetPackageName": "skin_rafael_lightning_01",
 		"AssetPath": "skin_rafael_lightning_01.skin_rafael_lightning_01",
 		"ID": 11654,
-		"Product": "Ferrari 296 GTB : Eclair",
+		"Product": "Ferrari 296 GTB : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -81927,7 +81937,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_glassy_psp",
@@ -81937,7 +81947,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_mohawk_psp",
@@ -81947,7 +81957,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_rafael_flames_01",
@@ -81973,7 +81983,7 @@
 		"AssetPackageName": "skin_feline_lightning",
 		"AssetPath": "skin_feline_lightning.skin_feline_lightning",
 		"ID": 11661,
-		"Product": "K.I.T.T. : Eclair",
+		"Product": "K.I.T.T. : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -82263,7 +82273,7 @@
 		"AssetPackageName": "ss_evilornament",
 		"AssetPath": "ss_evilornament.ss_evilornament",
 		"ID": 11696,
-		"Product": "Eclair de force",
+		"Product": "Éclair de force",
 		"Quality": "Limited",
 		"Slot": "Traînée",
 		"Slot Index": 14,
@@ -82333,7 +82343,7 @@
 		"AssetPackageName": "skin_lime_lightning",
 		"AssetPath": "skin_lime_lightning.skin_lime_lightning",
 		"ID": 11703,
-		"Product": "Stampede : Eclair",
+		"Product": "Stampede : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -82357,7 +82367,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_rafael_livery2",
@@ -82483,7 +82493,7 @@
 		"AssetPackageName": "skin_zrf_lightning",
 		"AssetPath": "skin_zrf_lightning.skin_zrf_lightning",
 		"ID": 11723,
-		"Product": "Fennec ZR-F : Eclair",
+		"Product": "Fennec ZR-F : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -82763,7 +82773,7 @@
 		"AssetPackageName": "skin_ruckus_lightning",
 		"AssetPath": "skin_ruckus_lightning.skin_ruckus_lightning",
 		"ID": 11755,
-		"Product": "Xentari : Eclair",
+		"Product": "Xentari : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -82837,7 +82847,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_vanquish_glitch_psp",
@@ -82847,7 +82857,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_glitch_glitch_psp",
@@ -82857,7 +82867,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "antenna_ballsnake",
@@ -83293,7 +83303,7 @@
 		"AssetPackageName": "paintfinish_bustedglass",
 		"AssetPath": "paintfinish_bustedglass.paintfinish_bustedglass",
 		"ID": 11822,
-		"Product": "Eclats de verre",
+		"Product": "Éclats de verre",
 		"Quality": "Limited",
 		"Slot": "Peinture",
 		"Slot Index": 7,
@@ -83333,7 +83343,7 @@
 		"AssetPackageName": "skin_crikey_lightning",
 		"AssetPath": "skin_crikey_lightning.skin_crikey_lightning",
 		"ID": 11826,
-		"Product": "Breakout X : Eclair",
+		"Product": "Breakout X : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -84497,7 +84507,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "flag_dragoncat",
@@ -84993,7 +85003,7 @@
 		"AssetPackageName": "wheel_rose",
 		"AssetPath": "wheel_rose.wheel_rose",
 		"ID": 12033,
-		"Product": "Etoile",
+		"Product": "Étoile",
 		"Quality": "Limited",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -85253,7 +85263,7 @@
 		"AssetPackageName": "skin_galaxy_lightning",
 		"AssetPath": "skin_galaxy_lightning.skin_galaxy_lightning",
 		"ID": 12069,
-		"Product": "Chevrolet Astro : Eclair",
+		"Product": "Chevrolet Astro : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -85383,7 +85393,7 @@
 		"AssetPackageName": "skin_manual_lightning",
 		"AssetPath": "skin_manual_lightning.skin_manual_lightning",
 		"ID": 12083,
-		"Product": "Pontiac Firebird : Eclair",
+		"Product": "Pontiac Firebird : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -86483,7 +86493,7 @@
 		"AssetPackageName": "wheel_chromeb",
 		"AssetPath": "wheel_chromeb.wheel_chromeb",
 		"ID": 12215,
-		"Product": "Eternel Daft Punk",
+		"Product": "Éternel Daft Punk",
 		"Quality": "Exotic",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -86757,7 +86767,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_s20",
@@ -86983,7 +86993,7 @@
 		"AssetPackageName": "skin_topple_lightning",
 		"AssetPath": "skin_topple_lightning.skin_topple_lightning",
 		"ID": 12270,
-		"Product": "BMW M4 GT3 EVO : Eclair",
+		"Product": "BMW M4 GT3 EVO : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -87037,7 +87047,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_gherkinlte",
@@ -87057,7 +87067,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_chrome",
@@ -87083,7 +87093,7 @@
 		"AssetPackageName": "skin_hydet1_lightning",
 		"AssetPath": "skin_hydet1_lightning.skin_hydet1_lightning",
 		"ID": 12280,
-		"Product": "Magnifique : Eclair",
+		"Product": "Magnifique : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -87233,7 +87243,7 @@
 		"AssetPackageName": "skin_jekyll_lightning",
 		"AssetPath": "skin_jekyll_lightning.skin_jekyll_lightning",
 		"ID": 12297,
-		"Product": "Corlay : Eclair",
+		"Product": "Corlay : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -87613,7 +87623,7 @@
 		"AssetPackageName": "skin_hydet2_lightning",
 		"AssetPath": "skin_hydet2_lightning.skin_hydet2_lightning",
 		"ID": 12339,
-		"Product": "Magnifique GXT : Eclair",
+		"Product": "Magnifique GXT : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -88320,6 +88330,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_sport67",
+		"AssetPath": "wheel_sport67.wheel_sport67",
+		"ID": 12425,
+		"Product": "Prime time",
+		"Quality": "Import",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_rl259",
 		"AssetPath": "wheel_rl259.wheel_rl259",
 		"ID": 12426,
@@ -88437,7 +88457,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_sheepbolt01",
@@ -88487,7 +88507,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "explosion_courgette",
@@ -88527,7 +88547,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_shogun",
@@ -88650,6 +88670,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "skin_musclecar_electricaltribal",
+		"AssetPath": "skin_musclecar_electricaltribal.skin_musclecar_electricaltribal",
+		"ID": 12471,
+		"Product": "Dominus : Ziggify",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_quartz_flames",
 		"AssetPath": "skin_quartz_flames.skin_quartz_flames",
 		"ID": 12472,
@@ -88663,7 +88693,7 @@
 		"AssetPackageName": "skin_quartz_lightning",
 		"AssetPath": "skin_quartz_lightning.skin_quartz_lightning",
 		"ID": 12473,
-		"Product": "007's Aston Martin DBS : Eclair",
+		"Product": "007's Aston Martin DBS : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -88993,7 +89023,7 @@
 		"AssetPackageName": "skin_spikelivery03",
 		"AssetPath": "skin_spikelivery03.skin_spikelivery03",
 		"ID": 12517,
-		"Product": "Havoc : Etau de glace",
+		"Product": "Havoc : Étau de glace",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -89187,7 +89217,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_rpluminousairplane04",
@@ -89283,7 +89313,7 @@
 		"AssetPackageName": "skin_stubbyhog_lightning",
 		"AssetPath": "skin_stubbyhog_lightning.skin_stubbyhog_lightning",
 		"ID": 12553,
-		"Product": "BMW M2 Racing : Eclair",
+		"Product": "BMW M2 Racing : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -89343,7 +89373,7 @@
 		"AssetPackageName": "skin_superomega_lightning",
 		"AssetPath": "skin_superomega_lightning.skin_superomega_lightning",
 		"ID": 12559,
-		"Product": "Maven : Eclair",
+		"Product": "Maven : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -89453,7 +89483,7 @@
 		"AssetPackageName": "skin_sheepbolt_lightning",
 		"AssetPath": "skin_sheepbolt_lightning.skin_sheepbolt_lightning",
 		"ID": 12571,
-		"Product": "Rivian R1S : Eclair",
+		"Product": "Rivian R1S : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -89863,7 +89893,7 @@
 		"AssetPackageName": "skin_sportytack_lightning",
 		"AssetPath": "skin_sportytack_lightning.skin_sportytack_lightning",
 		"ID": 12620,
-		"Product": "Zefira : Eclair",
+		"Product": "Zefira : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -90253,7 +90283,7 @@
 		"AssetPackageName": "skin_zedthirty_lightning",
 		"AssetPath": "skin_zedthirty_lightning.skin_zedthirty_lightning",
 		"ID": 12676,
-		"Product": "Nissan 350Z : Eclair",
+		"Product": "Nissan 350Z : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -90303,7 +90333,7 @@
 		"AssetPackageName": "boost_lightsheen",
 		"AssetPath": "boost_lightsheen.boost_lightsheen",
 		"ID": 12682,
-		"Product": "Eclat",
+		"Product": "Éclat",
 		"Quality": "Import",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
@@ -90317,6 +90347,16 @@
 		"Quality": "Import",
 		"Slot": "Roues",
 		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "explosion_opticorange01",
+		"AssetPath": "explosion_opticorange01.explosion_opticorange01",
+		"ID": 12687,
+		"Product": "?FRA?Products.explosion_opticorange01.Label?",
+		"Quality": "Exotic",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -90407,7 +90447,7 @@
 		"Quality": "Premium",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_heatwave_psp",
@@ -90417,7 +90457,7 @@
 		"Quality": "Premium",
 		"Slot": "Sticker",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_soccerball_psp",
@@ -90427,7 +90467,7 @@
 		"Quality": "Premium",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_grain_esportsfuria",
@@ -90657,7 +90697,7 @@
 		"Quality": "Premium",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_grain_esportsfut",
@@ -90800,6 +90840,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_opticorange02",
+		"AssetPath": "wheel_opticorange02.wheel_opticorange02",
+		"ID": 12757,
+		"Product": "?FRA?Products.wheel_opticorange02.Label?",
+		"Quality": "Import",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "explosion_lightsheen",
 		"AssetPath": "explosion_lightsheen.explosion_lightsheen",
 		"ID": 12758,
@@ -90850,6 +90900,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "boost_opticorangelte01",
+		"AssetPath": "boost_opticorangelte01.boost_opticorangelte01",
+		"ID": 12764,
+		"Product": "?FRA?Products.boost_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Accélération turbo",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_rl278_se",
 		"AssetPath": "wheel_rl278_se.wheel_rl278_se",
 		"ID": 12765,
@@ -90890,6 +90950,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_opticorangelte01",
+		"AssetPath": "wheel_opticorangelte01.wheel_opticorangelte01",
+		"ID": 12771,
+		"Product": "?FRA?Products.wheel_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_force_s23rocketpass",
 		"AssetPath": "skin_force_s23rocketpass.skin_force_s23rocketpass",
 		"ID": 12772,
@@ -90913,7 +90983,7 @@
 		"AssetPackageName": "skin_octane_spheregulp20",
 		"AssetPath": "skin_octane_spheregulp20.skin_octane_spheregulp20",
 		"ID": 12774,
-		"Product": "Octane : Equateur",
+		"Product": "Octane : Équateur",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -91090,6 +91160,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "ItemContainer",
+		"AssetPath": "ItemContainer.crateunlocked_OpticOrange",
+		"ID": 12793,
+		"Product": "?FRA?Products.crateunlocked_OpticOrange.Label?",
+		"Quality": "Rare",
+		"Slot": "Caisses",
+		"Slot Index": 11,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_heaven_livery01",
 		"AssetPath": "skin_heaven_livery01.skin_heaven_livery01",
 		"ID": 12794,
@@ -91143,7 +91223,7 @@
 		"AssetPackageName": "skin_octane_spheregulp12",
 		"AssetPath": "skin_octane_spheregulp12.skin_octane_spheregulp12",
 		"ID": 12799,
-		"Product": "Octane : Ecosse",
+		"Product": "Octane : Écosse",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -91250,6 +91330,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "hat_opticorangelte01",
+		"AssetPath": "hat_opticorangelte01.hat_opticorangelte01",
+		"ID": 12811,
+		"Product": "?FRA?Products.hat_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_octane_spheregulp28",
 		"AssetPath": "skin_octane_spheregulp28.skin_octane_spheregulp28",
 		"ID": 12812,
@@ -91303,7 +91393,7 @@
 		"AssetPackageName": "skin_octane_spheregulp13",
 		"AssetPath": "skin_octane_spheregulp13.skin_octane_spheregulp13",
 		"ID": 12817,
-		"Product": "Octane : Etats-Unis",
+		"Product": "Octane : États-Unis",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -91360,6 +91450,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "ss_opticorangelte01",
+		"AssetPath": "ss_opticorangelte01.ss_opticorangelte01",
+		"ID": 12824,
+		"Product": "?FRA?Products.ss_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Traînée",
+		"Slot Index": 14,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_sinew",
 		"AssetPath": "wheel_sinew.wheel_sinew",
 		"ID": 12825,
@@ -91398,6 +91498,16 @@
 		"Slot": "Bruit de moteur",
 		"Slot Index": 13,
 		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_opticorangelte01",
+		"AssetPath": "skin_opticorangelte01.skin_opticorangelte01",
+		"ID": 12829,
+		"Product": "?FRA?Products.skin_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
 		"AssetPackageName": "wheel_fancyflake01",
@@ -91573,7 +91683,7 @@
 		"AssetPackageName": "skin_neptuneshell_lightning",
 		"AssetPath": "skin_neptuneshell_lightning.skin_neptuneshell_lightning",
 		"ID": 12851,
-		"Product": "Maserati Stradale : Eclair",
+		"Product": "Maserati Stradale : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -91633,7 +91743,7 @@
 		"AssetPackageName": "skin_ryzarevt1_lightning",
 		"AssetPath": "skin_ryzarevt1_lightning.skin_ryzarevt1_lightning",
 		"ID": 12857,
-		"Product": "Ryza Trophy : Eclair",
+		"Product": "Ryza Trophy : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -91703,7 +91813,7 @@
 		"AssetPackageName": "skin_octane_spheregulp26",
 		"AssetPath": "skin_octane_spheregulp26.skin_octane_spheregulp26",
 		"ID": 12864,
-		"Product": "Octane : Egypte",
+		"Product": "Octane : Égypte",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -91900,6 +92010,16 @@
 		"UnlockMethod": "UnlockMethod_Default"
 	},
 	{
+		"AssetPackageName": "body_opticorange",
+		"AssetPath": "body_opticorange.body_opticorange",
+		"ID": 12888,
+		"Product": "?FRA?Products.body_opticorange.Label?",
+		"Quality": "Exotic",
+		"Slot": "Châssis",
+		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "anthem_kimpetras_dtla",
 		"AssetPath": "anthem_kimpetras_dtla.anthem_kimpetras_dtla",
 		"ID": 12889,
@@ -91973,7 +92093,7 @@
 		"AssetPackageName": "skin_turtlemodem_lightning",
 		"AssetPath": "skin_turtlemodem_lightning.skin_turtlemodem_lightning",
 		"ID": 12896,
-		"Product": "Hyundai Ioniq 6 : Eclair",
+		"Product": "Hyundai Ioniq 6 : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -92130,6 +92250,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "Anthem_S23ItemShop",
+		"AssetPath": "Anthem_S23ItemShop.Anthem_S23ItemShop",
+		"ID": 12913,
+		"Product": "?FRA?Products.Anthem_S23ItemShop.Label?",
+		"Quality": "Import",
+		"Slot": "Hymne de joueur",
+		"Slot Index": 18,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "anthem_tiffanyday_pretty4U",
 		"AssetPath": "anthem_tiffanyday_pretty4U.anthem_tiffanyday_pretty4U",
 		"ID": 12914,
@@ -92170,6 +92300,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "explosion_s23rlcs01",
+		"AssetPath": "explosion_s23rlcs01.explosion_s23rlcs01",
+		"ID": 12921,
+		"Product": "Jeton bleu",
+		"Quality": "Limited",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "anthem_epicaudioteam_s23autotournament",
 		"AssetPath": "anthem_epicaudioteam_s23autotournament.anthem_epicaudioteam_s23autotournament",
 		"ID": 12922,
@@ -92197,6 +92337,56 @@
 		"Quality": "Import",
 		"Slot": "Sticker",
 		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_opticorange01",
+		"AssetPath": "wheel_opticorange01.wheel_opticorange01",
+		"ID": 12925,
+		"Product": "?FRA?Products.wheel_opticorange01.Label?",
+		"Quality": "Import",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_opticorange01",
+		"AssetPath": "skin_opticorange01.skin_opticorange01",
+		"ID": 12926,
+		"Product": "?FRA?Products.body_opticorange.Label? : ?FRA?Products.skin_opticorange01.Label?",
+		"Quality": "Import",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_opticorange02",
+		"AssetPath": "skin_opticorange02.skin_opticorange02",
+		"ID": 12927,
+		"Product": "?FRA?Products.body_opticorange.Label? : ?FRA?Products.skin_opticorange02.Label?",
+		"Quality": "Exotic",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_opticorange03",
+		"AssetPath": "skin_opticorange03.skin_opticorange03",
+		"ID": 12928,
+		"Product": "?FRA?Products.body_opticorange.Label? : ?FRA?Products.skin_opticorange03.Label?",
+		"Quality": "Import",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "boost_s23rlcs01",
+		"AssetPath": "boost_s23rlcs01.Actors.boost_s23rlcs01",
+		"ID": 12930,
+		"Product": "Jeton bleu",
+		"Quality": "Import",
+		"Slot": "Accélération turbo",
+		"Slot Index": 3,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -92243,7 +92433,7 @@
 		"AssetPackageName": "skin_ryzarevt2_lightning",
 		"AssetPath": "skin_ryzarevt2_lightning.skin_ryzarevt2_lightning",
 		"ID": 12935,
-		"Product": "Ryza T60 : Eclair",
+		"Product": "Ryza T60 : Éclair",
 		"Quality": "Common",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -92350,6 +92540,76 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "skin_nopilgrim",
+		"AssetPath": "skin_nopilgrim.skin_nopilgrim",
+		"ID": 12950,
+		"Product": "Centre de l'attention",
+		"Quality": "Exotic",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_octane_opticorangelte01",
+		"AssetPath": "skin_octane_opticorangelte01.skin_octane_opticorangelte01",
+		"ID": 12959,
+		"Product": "Octane : ?FRA?Products.skin_octane_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_octane_s23rlcs01",
+		"AssetPath": "skin_octane_s23rlcs01.skin_octane_s23rlcs01",
+		"ID": 12960,
+		"Product": "Octane : Élite",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "avatarborder_opticorangelte01",
+		"AssetPath": "avatarborder_opticorangelte01.avatarborder_opticorangelte01",
+		"ID": 12979,
+		"Product": "?FRA?Products.avatarborder_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Bordure d'avatar",
+		"Slot Index": 20,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "playerbanner_opticorangelte01",
+		"AssetPath": "playerbanner_opticorangelte01.playerbanner_opticorangelte01",
+		"ID": 12980,
+		"Product": "?FRA?Products.playerbanner_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Bannière de joueur",
+		"Slot Index": 16,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "engineaudio_trackspice",
+		"AssetPath": "engineaudio_trackspice.engineaudio_trackspice",
+		"ID": 12996,
+		"Product": "Mercedes-Benz 190E Evo II",
+		"Quality": "Common",
+		"Slot": "Bruit de moteur",
+		"Slot Index": 13,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "body_trackspice",
+		"AssetPath": "body_trackspice.body_trackspice",
+		"ID": 12999,
+		"Product": "Mercedes-Benz 190E Evo II",
+		"Quality": "Exotic",
+		"Slot": "Châssis",
+		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "body_genericmystery",
 		"AssetPath": "body_genericmystery.Body_Giftbox_Mystery_Limited",
 		"ID": 13008,
@@ -92357,6 +92617,76 @@
 		"Quality": "Limited",
 		"Slot": "Châssis",
 		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "engineaudio_OpticOrange",
+		"AssetPath": "engineaudio_OpticOrange.engineaudio_OpticOrange",
+		"ID": 13011,
+		"Product": "?FRA?Products.engineaudio_OpticOrange.Label?",
+		"Quality": "Common",
+		"Slot": "Bruit de moteur",
+		"Slot Index": 13,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_trackspice01",
+		"AssetPath": "skin_trackspice01.skin_trackspice01",
+		"ID": 13017,
+		"Product": "Mercedes-Benz 190E Evo II : Noir mat",
+		"Quality": "Import",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_trackspice02",
+		"AssetPath": "skin_trackspice02.skin_trackspice02",
+		"ID": 13018,
+		"Product": "Mercedes-Benz 190E Evo II : Contre la montre",
+		"Quality": "Import",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_trackspice03",
+		"AssetPath": "skin_trackspice03.skin_trackspice03",
+		"ID": 13019,
+		"Product": "Mercedes-Benz 190E Evo II : Circuit Buffy-Sugo",
+		"Quality": "Import",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_trackspice04",
+		"AssetPath": "skin_trackspice04.skin_trackspice04",
+		"ID": 13020,
+		"Product": "Mercedes-Benz 190E Evo II : Tour de lama",
+		"Quality": "Import",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_trackspice01",
+		"AssetPath": "wheel_trackspice01.wheel_trackspice01",
+		"ID": 13022,
+		"Product": "Mercedes-Benz 190E Evo II",
+		"Quality": "Import",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_trackspice02",
+		"AssetPath": "wheel_trackspice02.wheel_trackspice02",
+		"ID": 13023,
+		"Product": "Mercedes-Benz 190E Evo II Redux",
+		"Quality": "Import",
+		"Slot": "Roues",
+		"Slot Index": 2,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{

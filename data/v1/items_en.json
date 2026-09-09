@@ -9067,7 +9067,7 @@
 		"Quality": "Premium",
 		"Slot": "Crate",
 		"Slot Index": 11,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_vanquish_flowers",
@@ -9177,7 +9177,7 @@
 		"Quality": "BlackMarket",
 		"Slot": "Body",
 		"Slot Index": 0,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "Body_CarCar",
@@ -9487,7 +9487,7 @@
 		"Quality": "BlackMarket",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_number6_stripes_rgb",
@@ -19467,7 +19467,7 @@
 		"Quality": "Rare",
 		"Slot": "Body",
 		"Slot Index": 0,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_force_born2boost",
@@ -26517,7 +26517,7 @@
 		"Quality": "Premium",
 		"Slot": "Player Banner",
 		"Slot Index": 16,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_edge",
@@ -30667,7 +30667,7 @@
 		"Quality": "Premium",
 		"Slot": "Currency",
 		"Slot Index": 26,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "body_kusanagi_t3",
@@ -33437,7 +33437,7 @@
 		"Quality": "Premium",
 		"Slot": "Player Banner",
 		"Slot Index": 16,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "Skin_SideWinder",
@@ -34347,7 +34347,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_ToonRocks_psplus",
@@ -34357,7 +34357,7 @@
 		"Quality": "Premium",
 		"Slot": "Trail",
 		"Slot Index": 14,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_shark_lightning",
@@ -34377,7 +34377,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_shark_frosted",
@@ -35617,7 +35617,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_focaccia_psplus",
@@ -35627,7 +35627,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_trailblazer",
@@ -35857,7 +35857,7 @@
 		"Quality": "Premium",
 		"Slot": "Trail",
 		"Slot Index": 14,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_sblo",
@@ -36187,7 +36187,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_chains",
@@ -38697,7 +38697,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_stylized_psplus",
@@ -38707,7 +38707,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_dwi_psplus",
@@ -38717,7 +38717,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_7spoke_psplus",
@@ -38727,7 +38727,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_magic_fire",
@@ -39137,7 +39137,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_s2",
@@ -39257,7 +39257,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ItemContainer",
@@ -39377,7 +39377,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_apexstripes",
@@ -39397,7 +39397,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "avatarborder_savethebees",
@@ -40297,7 +40297,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_fracture_haa",
@@ -40317,7 +40317,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_fracture_ast",
@@ -40347,7 +40347,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_fracture_red",
@@ -40857,7 +40857,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_drofb",
@@ -40877,7 +40877,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_bluemoon_xbb",
@@ -41357,7 +41357,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_goop_xbg",
@@ -41367,7 +41367,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_7spoke_xbg",
@@ -41387,7 +41387,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_toon_xbg",
@@ -51017,7 +51017,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_crote_psplus",
@@ -51027,7 +51027,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_booji",
@@ -51057,7 +51057,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "playerbanner_scar_a_01",
@@ -51157,7 +51157,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_durian_lightning",
@@ -52137,7 +52137,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_tophat_metal_fancy",
@@ -52157,7 +52157,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_starz_inverted",
@@ -52197,7 +52197,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_doughnut",
@@ -52337,7 +52337,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_lux_marble",
@@ -53223,7 +53223,7 @@
 		"AssetPackageName": "skin_octane_ngu",
 		"AssetPath": "skin_octane_ngu.skin_octane_ngu",
 		"ID": 7814,
-		"Product": "Octane: Nike Air Zoom Mercurial - Yellow",
+		"Product": "Octane: Nike Air Zoom Mercurial – Yellow",
 		"Quality": "Import",
 		"Slot": "Decal",
 		"Slot Index": 1,
@@ -53747,7 +53747,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_headphones_psplus",
@@ -53757,7 +53757,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_tagbanger",
@@ -53927,7 +53927,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "body_pete",
@@ -54057,7 +54057,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "playerbanner_pigeonboombox",
@@ -58567,7 +58567,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_cherry_psplus",
@@ -58577,7 +58577,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_molten",
@@ -58727,7 +58727,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_linecolors",
@@ -58777,7 +58777,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "explosion_dragon_ga",
@@ -61297,7 +61297,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "Explosion_Lotusflow",
@@ -61357,7 +61357,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_hallowed_psplus",
@@ -61367,7 +61367,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "Antenna_FlowerHummingbird",
@@ -61387,7 +61387,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_Octane_Healer",
@@ -61453,7 +61453,7 @@
 		"AssetPackageName": "wheel_fcacm",
 		"AssetPath": "wheel_fcacm.wheel_fcacm",
 		"ID": 8833,
-		"Product": "AC Milan (PUMA x KOCHE)",
+		"Product": "AC Milan (PUMA x KOCHÉ)",
 		"Quality": "Import",
 		"Slot": "Wheels",
 		"Slot Index": 2,
@@ -61557,7 +61557,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_dub_huntress_tierall",
@@ -61603,7 +61603,7 @@
 		"AssetPackageName": "skin_octane_fcacm",
 		"AssetPath": "skin_octane_fcacm.skin_octane_fcacm",
 		"ID": 8849,
-		"Product": "Octane: AC Milan (PUMA x KOCHE)",
+		"Product": "Octane: AC Milan (PUMA x KOCHÉ)",
 		"Quality": "Import",
 		"Slot": "Decal",
 		"Slot Index": 1,
@@ -61643,7 +61643,7 @@
 		"AssetPackageName": "skin_musclecar_fcacm",
 		"AssetPath": "skin_musclecar_fcacm.skin_musclecar_fcacm",
 		"ID": 8853,
-		"Product": "Dominus: AC Milan (PUMA x KOCHE)",
+		"Product": "Dominus: AC Milan (PUMA x KOCHÉ)",
 		"Quality": "Import",
 		"Slot": "Decal",
 		"Slot Index": 1,
@@ -63087,7 +63087,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "paintfinish_bubblewrap",
@@ -63197,7 +63197,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "Skin_Octane_galefire_psplus",
@@ -63207,7 +63207,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_claw_srt",
@@ -63487,7 +63487,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "playerbanner_crazies",
@@ -65247,7 +65247,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_glitched",
@@ -65427,7 +65427,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_vanquish_narwhal_psplus",
@@ -65437,7 +65437,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_perl_psplus",
@@ -65447,7 +65447,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_koi",
@@ -65913,7 +65913,7 @@
 		"AssetPackageName": "flag_mc_ownboss",
 		"AssetPath": "flag_mc_ownboss.flag_mc_ownboss",
 		"ID": 9452,
-		"Product": "Ownboss",
+		"Product": "Öwnboss",
 		"Quality": "Common",
 		"Slot": "Antenna",
 		"Slot Index": 4,
@@ -67217,7 +67217,7 @@
 		"Quality": "Premium",
 		"Slot": "Trail",
 		"Slot Index": 14,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "anthem_bobsramentheme",
@@ -67287,7 +67287,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_crown_psplus",
@@ -67297,7 +67297,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_hanzawa_psplus",
@@ -67307,7 +67307,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_fallingstar",
@@ -68857,7 +68857,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_aurawater",
@@ -70257,7 +70257,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_abstractpanels_psplus",
@@ -70267,7 +70267,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_musclecar_nrg_024",
@@ -70327,7 +70327,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_grain_karminecorp_024",
@@ -71177,6 +71177,16 @@
 		"Quality": "Limited",
 		"Slot": "Antenna",
 		"Slot Index": 4,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_rl03",
+		"AssetPath": "wheel_rl03.wheel_rl03",
+		"ID": 10220,
+		"Product": "Furnacer",
+		"Quality": "Limited",
+		"Slot": "Wheels",
+		"Slot Index": 2,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -72487,7 +72497,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_force_litup_psp",
@@ -72497,7 +72507,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_coober_psp",
@@ -72507,7 +72517,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "anthem_nostalgix_needyou",
@@ -73467,7 +73477,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_musclecar_lowrider2",
@@ -76177,7 +76187,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_turnstile_psplus",
@@ -76187,7 +76197,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_astro_psplus",
@@ -76197,7 +76207,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_sticky_04",
@@ -76307,7 +76317,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_hero",
@@ -77407,7 +77417,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_hologlass",
@@ -77427,7 +77437,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_jam_livery1",
@@ -77707,7 +77717,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "body_frog",
@@ -77777,7 +77787,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "explosion_fs_gray",
@@ -79887,7 +79897,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_wire_psp",
@@ -79897,7 +79907,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_atomizer_psp",
@@ -79907,7 +79917,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "anthem_aventurine03",
@@ -80167,7 +80177,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "explosion_bramen",
@@ -81927,7 +81937,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_glassy_psp",
@@ -81937,7 +81947,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_mohawk_psp",
@@ -81947,7 +81957,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_rafael_flames_01",
@@ -82357,7 +82367,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_rafael_livery2",
@@ -82837,7 +82847,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_vanquish_glitch_psp",
@@ -82847,7 +82857,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_glitch_glitch_psp",
@@ -82857,7 +82867,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "antenna_ballsnake",
@@ -84497,7 +84507,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "flag_dragoncat",
@@ -84993,7 +85003,7 @@
 		"AssetPackageName": "wheel_rose",
 		"AssetPath": "wheel_rose.wheel_rose",
 		"ID": 12033,
-		"Product": "Etoile",
+		"Product": "Étoile",
 		"Quality": "Limited",
 		"Slot": "Wheels",
 		"Slot Index": 2,
@@ -86757,7 +86767,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "boost_s20",
@@ -87037,7 +87047,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_gherkinlte",
@@ -87057,7 +87067,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "ss_chrome",
@@ -88320,6 +88330,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_sport67",
+		"AssetPath": "wheel_sport67.wheel_sport67",
+		"ID": 12425,
+		"Product": "Primetime",
+		"Quality": "Import",
+		"Slot": "Wheels",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_rl259",
 		"AssetPath": "wheel_rl259.wheel_rl259",
 		"ID": 12426,
@@ -88437,7 +88457,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_sheepbolt01",
@@ -88487,7 +88507,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "explosion_courgette",
@@ -88527,7 +88547,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_shogun",
@@ -88647,6 +88667,16 @@
 		"Quality": "Import",
 		"Slot": "Wheels",
 		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_musclecar_electricaltribal",
+		"AssetPath": "skin_musclecar_electricaltribal.skin_musclecar_electricaltribal",
+		"ID": 12471,
+		"Product": "Dominus: Ziggify",
+		"Quality": "Limited",
+		"Slot": "Decal",
+		"Slot Index": 1,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -89187,7 +89217,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "hat_rpluminousairplane04",
@@ -90320,6 +90350,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "explosion_opticorange01",
+		"AssetPath": "explosion_opticorange01.explosion_opticorange01",
+		"ID": 12687,
+		"Product": "?INT?Products.explosion_opticorange01.Label?",
+		"Quality": "Exotic",
+		"Slot": "Goal Explosion",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "ItemContainer",
 		"AssetPath": "ItemContainer.crateunlocked_AT23",
 		"ID": 12688,
@@ -90407,7 +90447,7 @@
 		"Quality": "Premium",
 		"Slot": "Topper",
 		"Slot Index": 5,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_octane_heatwave_psp",
@@ -90417,7 +90457,7 @@
 		"Quality": "Premium",
 		"Slot": "Decal",
 		"Slot Index": 1,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "wheel_soccerball_psp",
@@ -90427,7 +90467,7 @@
 		"Quality": "Premium",
 		"Slot": "Wheels",
 		"Slot Index": 2,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_grain_esportsfuria",
@@ -90657,7 +90697,7 @@
 		"Quality": "Premium",
 		"Slot": "Rocket Boost",
 		"Slot Index": 3,
-		"UnlockMethod": "DLC"
+		"UnlockMethod": "UnlockMethod_DLC"
 	},
 	{
 		"AssetPackageName": "skin_grain_esportsfut",
@@ -90800,6 +90840,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_opticorange02",
+		"AssetPath": "wheel_opticorange02.wheel_opticorange02",
+		"ID": 12757,
+		"Product": "?INT?Products.wheel_opticorange02.Label?",
+		"Quality": "Import",
+		"Slot": "Wheels",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "explosion_lightsheen",
 		"AssetPath": "explosion_lightsheen.explosion_lightsheen",
 		"ID": 12758,
@@ -90850,6 +90900,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "boost_opticorangelte01",
+		"AssetPath": "boost_opticorangelte01.boost_opticorangelte01",
+		"ID": 12764,
+		"Product": "?INT?Products.boost_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Rocket Boost",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_rl278_se",
 		"AssetPath": "wheel_rl278_se.wheel_rl278_se",
 		"ID": 12765,
@@ -90887,6 +90947,16 @@
 		"Quality": "Limited",
 		"Slot": "Decal",
 		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_opticorangelte01",
+		"AssetPath": "wheel_opticorangelte01.wheel_opticorangelte01",
+		"ID": 12771,
+		"Product": "?INT?Products.wheel_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Wheels",
+		"Slot Index": 2,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -91090,6 +91160,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "ItemContainer",
+		"AssetPath": "ItemContainer.crateunlocked_OpticOrange",
+		"ID": 12793,
+		"Product": "?INT?Products.crateunlocked_OpticOrange.Label?",
+		"Quality": "Rare",
+		"Slot": "Crate",
+		"Slot Index": 11,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_heaven_livery01",
 		"AssetPath": "skin_heaven_livery01.skin_heaven_livery01",
 		"ID": 12794,
@@ -91250,6 +91330,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "hat_opticorangelte01",
+		"AssetPath": "hat_opticorangelte01.hat_opticorangelte01",
+		"ID": 12811,
+		"Product": "?INT?Products.hat_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Topper",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_octane_spheregulp28",
 		"AssetPath": "skin_octane_spheregulp28.skin_octane_spheregulp28",
 		"ID": 12812,
@@ -91360,6 +91450,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "ss_opticorangelte01",
+		"AssetPath": "ss_opticorangelte01.ss_opticorangelte01",
+		"ID": 12824,
+		"Product": "?INT?Products.ss_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Trail",
+		"Slot Index": 14,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_sinew",
 		"AssetPath": "wheel_sinew.wheel_sinew",
 		"ID": 12825,
@@ -91398,6 +91498,16 @@
 		"Slot": "Engine Audio",
 		"Slot Index": 13,
 		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_opticorangelte01",
+		"AssetPath": "skin_opticorangelte01.skin_opticorangelte01",
+		"ID": 12829,
+		"Product": "?INT?Products.skin_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
 		"AssetPackageName": "wheel_fancyflake01",
@@ -91900,6 +92010,16 @@
 		"UnlockMethod": "UnlockMethod_Default"
 	},
 	{
+		"AssetPackageName": "body_opticorange",
+		"AssetPath": "body_opticorange.body_opticorange",
+		"ID": 12888,
+		"Product": "?INT?Products.body_opticorange.Label?",
+		"Quality": "Exotic",
+		"Slot": "Body",
+		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "anthem_kimpetras_dtla",
 		"AssetPath": "anthem_kimpetras_dtla.anthem_kimpetras_dtla",
 		"ID": 12889,
@@ -92130,6 +92250,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "Anthem_S23ItemShop",
+		"AssetPath": "Anthem_S23ItemShop.Anthem_S23ItemShop",
+		"ID": 12913,
+		"Product": "?INT?Products.Anthem_S23ItemShop.Label?",
+		"Quality": "Import",
+		"Slot": "Player Anthem",
+		"Slot Index": 18,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "anthem_tiffanyday_pretty4U",
 		"AssetPath": "anthem_tiffanyday_pretty4U.anthem_tiffanyday_pretty4U",
 		"ID": 12914,
@@ -92170,6 +92300,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "explosion_s23rlcs01",
+		"AssetPath": "explosion_s23rlcs01.explosion_s23rlcs01",
+		"ID": 12921,
+		"Product": "Blue Chip",
+		"Quality": "Limited",
+		"Slot": "Goal Explosion",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "anthem_epicaudioteam_s23autotournament",
 		"AssetPath": "anthem_epicaudioteam_s23autotournament.anthem_epicaudioteam_s23autotournament",
 		"ID": 12922,
@@ -92197,6 +92337,56 @@
 		"Quality": "Import",
 		"Slot": "Decal",
 		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_opticorange01",
+		"AssetPath": "wheel_opticorange01.wheel_opticorange01",
+		"ID": 12925,
+		"Product": "?INT?Products.wheel_opticorange01.Label?",
+		"Quality": "Import",
+		"Slot": "Wheels",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_opticorange01",
+		"AssetPath": "skin_opticorange01.skin_opticorange01",
+		"ID": 12926,
+		"Product": "?INT?Products.body_opticorange.Label?: ?INT?Products.skin_opticorange01.Label?",
+		"Quality": "Import",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_opticorange02",
+		"AssetPath": "skin_opticorange02.skin_opticorange02",
+		"ID": 12927,
+		"Product": "?INT?Products.body_opticorange.Label?: ?INT?Products.skin_opticorange02.Label?",
+		"Quality": "Exotic",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_opticorange03",
+		"AssetPath": "skin_opticorange03.skin_opticorange03",
+		"ID": 12928,
+		"Product": "?INT?Products.body_opticorange.Label?: ?INT?Products.skin_opticorange03.Label?",
+		"Quality": "Import",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "boost_s23rlcs01",
+		"AssetPath": "boost_s23rlcs01.Actors.boost_s23rlcs01",
+		"ID": 12930,
+		"Product": "Blue Chip",
+		"Quality": "Import",
+		"Slot": "Rocket Boost",
+		"Slot Index": 3,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -92350,6 +92540,76 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "skin_nopilgrim",
+		"AssetPath": "skin_nopilgrim.skin_nopilgrim",
+		"ID": 12950,
+		"Product": "Head Turner",
+		"Quality": "Exotic",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_octane_opticorangelte01",
+		"AssetPath": "skin_octane_opticorangelte01.skin_octane_opticorangelte01",
+		"ID": 12959,
+		"Product": "Octane: ?INT?Products.skin_octane_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_octane_s23rlcs01",
+		"AssetPath": "skin_octane_s23rlcs01.skin_octane_s23rlcs01",
+		"ID": 12960,
+		"Product": "Octane: Blue Chip",
+		"Quality": "Limited",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "avatarborder_opticorangelte01",
+		"AssetPath": "avatarborder_opticorangelte01.avatarborder_opticorangelte01",
+		"ID": 12979,
+		"Product": "?INT?Products.avatarborder_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Avatar Border",
+		"Slot Index": 20,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "playerbanner_opticorangelte01",
+		"AssetPath": "playerbanner_opticorangelte01.playerbanner_opticorangelte01",
+		"ID": 12980,
+		"Product": "?INT?Products.playerbanner_opticorangelte01.Label?",
+		"Quality": "Limited",
+		"Slot": "Player Banner",
+		"Slot Index": 16,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "engineaudio_trackspice",
+		"AssetPath": "engineaudio_trackspice.engineaudio_trackspice",
+		"ID": 12996,
+		"Product": "Mercedes-Benz 190E Evo II",
+		"Quality": "Common",
+		"Slot": "Engine Audio",
+		"Slot Index": 13,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "body_trackspice",
+		"AssetPath": "body_trackspice.body_trackspice",
+		"ID": 12999,
+		"Product": "Mercedes-Benz 190E Evo II",
+		"Quality": "Exotic",
+		"Slot": "Body",
+		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "body_genericmystery",
 		"AssetPath": "body_genericmystery.Body_Giftbox_Mystery_Limited",
 		"ID": 13008,
@@ -92357,6 +92617,76 @@
 		"Quality": "Limited",
 		"Slot": "Body",
 		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "engineaudio_OpticOrange",
+		"AssetPath": "engineaudio_OpticOrange.engineaudio_OpticOrange",
+		"ID": 13011,
+		"Product": "?INT?Products.engineaudio_OpticOrange.Label?",
+		"Quality": "Common",
+		"Slot": "Engine Audio",
+		"Slot Index": 13,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_trackspice01",
+		"AssetPath": "skin_trackspice01.skin_trackspice01",
+		"ID": 13017,
+		"Product": "Mercedes-Benz 190E Evo II: Matte Black",
+		"Quality": "Import",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_trackspice02",
+		"AssetPath": "skin_trackspice02.skin_trackspice02",
+		"ID": 13018,
+		"Product": "Mercedes-Benz 190E Evo II: Time Trial",
+		"Quality": "Import",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_trackspice03",
+		"AssetPath": "skin_trackspice03.skin_trackspice03",
+		"ID": 13019,
+		"Product": "Mercedes-Benz 190E Evo II: Buffy-Sugo Track",
+		"Quality": "Import",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_trackspice04",
+		"AssetPath": "skin_trackspice04.skin_trackspice04",
+		"ID": 13020,
+		"Product": "Mercedes-Benz 190E Evo II: Llama Lap",
+		"Quality": "Import",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_trackspice01",
+		"AssetPath": "wheel_trackspice01.wheel_trackspice01",
+		"ID": 13022,
+		"Product": "Mercedes-Benz 190E Evo II",
+		"Quality": "Import",
+		"Slot": "Wheels",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_trackspice02",
+		"AssetPath": "wheel_trackspice02.wheel_trackspice02",
+		"ID": 13023,
+		"Product": "Mercedes-Benz 190E Evo II Redux",
+		"Quality": "Import",
+		"Slot": "Wheels",
+		"Slot Index": 2,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
