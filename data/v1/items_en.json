@@ -92980,6 +92980,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "boost_alphadevreward",
+		"AssetPath": "boost_alphadevreward.boost_alphadevreward",
+		"ID": 12968,
+		"Product": "Dev Boost",
+		"Quality": "Limited",
+		"Slot": "Rocket Boost",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "hat_s24psplus",
 		"AssetPath": "hat_s24psplus.hat_s24psplus",
 		"ID": 12970,
@@ -93753,7 +93763,7 @@
 		"AssetPackageName": "album_anthem_season24",
 		"AssetPath": "album_anthem_season24.album_anthem_season24",
 		"ID": 13144,
-		"Product": "?INT?Products.album_anthem_season24.Label?",
+		"Product": "Season 24",
 		"Quality": "Common",
 		"Slot": "Player Anthem",
 		"Slot Index": 18,
