@@ -22670,6 +22670,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "skin_octane_halloweenscream",
+		"AssetPath": "skin_octane_halloweenscream.skin_octane_halloweenscream",
+		"ID": 3606,
+		"Product": "Octane : Le hurleur",
+		"Quality": "Rare",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_octane_jackoriver",
 		"AssetPath": "skin_octane_jackoriver.skin_octane_jackoriver",
 		"ID": 3607,
@@ -22863,7 +22873,7 @@
 		"AssetPackageName": "wheel_zytech",
 		"AssetPath": "wheel_zytech.wheel_zytech",
 		"ID": 3629,
-		"Product": "Bronze",
+		"Product": "Ultérieur",
 		"Quality": "Limited",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -30517,6 +30527,26 @@
 		"Quality": "Rare",
 		"Slot": "Caisses",
 		"Slot Index": 11,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "AvatarBorder_2019ChineseValentinesDay",
+		"AssetPath": "AvatarBorder_2019ChineseValentinesDay.AvatarBorder_2019ChineseValentinesDay",
+		"ID": 4723,
+		"Product": "Azumaya",
+		"Quality": "Limited",
+		"Slot": "Bordure d'avatar",
+		"Slot Index": 20,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "PlayerBanner_2019ChineseValentinesDay",
+		"AssetPath": "PlayerBanner_2019ChineseValentinesDay.PlayerBanner_2019ChineseValentinesDay",
+		"ID": 4724,
+		"Product": "Oiseaux paisibles",
+		"Quality": "Limited",
+		"Slot": "Bannière de joueur",
+		"Slot Index": 16,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -39250,6 +39280,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_phantoom",
+		"AssetPath": "wheel_phantoom.wheel_phantoom",
+		"ID": 5900,
+		"Product": "Crypt-id",
+		"Quality": "Uncommon",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_reaper_psplus",
 		"AssetPath": "wheel_reaper_psplus.wheel_reaper_psplus",
 		"ID": 5901,
@@ -39695,6 +39735,16 @@
 		"ID": 5953,
 		"Product": "Stride Tide",
 		"Quality": "BlackMarket",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_thattamari",
+		"AssetPath": "skin_thattamari.skin_thattamari",
+		"ID": 5954,
+		"Product": "Torrent tigré",
+		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
 		"UnlockMethod": "UnlockMethod_Online"
@@ -52630,6 +52680,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "boost_ghosthand",
+		"AssetPath": "boost_ghosthand.boost_ghosthand",
+		"ID": 7739,
+		"Product": "Main de la faucheuse",
+		"Quality": "Import",
+		"Slot": "Accélération turbo",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "playerbanner_arcadecabinet",
 		"AssetPath": "playerbanner_arcadecabinet.playerbanner_arcadecabinet",
 		"ID": 7740,
@@ -52873,7 +52933,7 @@
 		"AssetPackageName": "antenna_pencil",
 		"AssetPath": "antenna_pencil.antenna_pencil",
 		"ID": 7769,
-		"Product": "Stylo",
+		"Product": "Crayon",
 		"Quality": "Uncommon",
 		"Slot": "Antenne",
 		"Slot Index": 4,
@@ -55527,6 +55587,16 @@
 		"Quality": "VeryRare",
 		"Slot": "Sticker",
 		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "ss_ghosthand",
+		"AssetPath": "ss_ghosthand.ss_ghosthand",
+		"ID": 8112,
+		"Product": "Main de la faucheuse",
+		"Quality": "VeryRare",
+		"Slot": "Traînée",
+		"Slot Index": 14,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -64240,6 +64310,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "antenna_messagebottle",
+		"AssetPath": "antenna_messagebottle.antenna_messagebottle",
+		"ID": 9229,
+		"Product": "Bottle Message",
+		"Quality": "Uncommon",
+		"Slot": "Antenne",
+		"Slot Index": 4,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "antenna_torch",
 		"AssetPath": "antenna_torch.antenna_torch",
 		"ID": 9230,
@@ -67050,6 +67130,16 @@
 		"UnlockMethod": "UnlockMethod_Default"
 	},
 	{
+		"AssetPackageName": "skin_torment_beholder",
+		"AssetPath": "skin_torment_beholder.skin_torment_beholder",
+		"ID": 9637,
+		"Product": "Hotshot : Beholder",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "flag_mc_hausofpanda",
 		"AssetPath": "flag_mc_hausofpanda.flag_mc_hausofpanda",
 		"ID": 9639,
@@ -67463,7 +67553,7 @@
 		"AssetPackageName": "Explosion_Butterflies_GP",
 		"AssetPath": "Explosion_Butterflies_GP.Explosion_Butterflies_GP",
 		"ID": 9721,
-		"Product": "Papillons : Doré",
+		"Product": "?FRA?Products.Explosion_Butterflies_GP.Label?",
 		"Quality": "Exotic",
 		"Slot": "Explosion de but",
 		"Slot Index": 15,
@@ -72560,6 +72650,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "Explosion_MoonSword",
+		"AssetPath": "Explosion_MoonSword.Explosion_MoonSword",
+		"ID": 10415,
+		"Product": "Intervention divine",
+		"Quality": "Limited",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "Boost_InfernoVortex",
 		"AssetPath": "Boost_InfernoVortex.Boost_InfernoVortex",
 		"ID": 10416,
@@ -73367,6 +73467,16 @@
 		"Quality": "Limited",
 		"Slot": "Antenne",
 		"Slot Index": 4,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_octane_aw",
+		"AssetPath": "skin_octane_aw.skin_octane_aw",
+		"ID": 10529,
+		"Product": "Octane : Fractale brisée",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -74307,6 +74417,16 @@
 		"Quality": "Import",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "hat_headinbowl",
+		"AssetPath": "hat_headinbowl.hat_headinbowl",
+		"ID": 10651,
+		"Product": "Bol de tête",
+		"Quality": "Rare",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -77487,6 +77607,16 @@
 		"Quality": "Import",
 		"Slot": "Sticker",
 		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "explosion_rip",
+		"AssetPath": "explosion_rip.explosion_rip",
+		"ID": 11062,
+		"Product": "R.I.P.",
+		"Quality": "BlackMarket",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -81570,6 +81700,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "antenna_turnip",
+		"AssetPath": "antenna_turnip.antenna_turnip",
+		"ID": 11604,
+		"Product": "Navet",
+		"Quality": "Limited",
+		"Slot": "Antenne",
+		"Slot Index": 4,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "explosion_dimensionator",
 		"AssetPath": "explosion_dimensionator.explosion_dimensionator",
 		"ID": 11606,
@@ -81837,6 +81977,16 @@
 		"Quality": "Import",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_rl197",
+		"AssetPath": "wheel_rl197.wheel_rl197",
+		"ID": 11644,
+		"Product": "Muscle MK",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -84850,6 +85000,26 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_rl1993",
+		"AssetPath": "wheel_rl1993.wheel_rl1993",
+		"ID": 12011,
+		"Product": "Turbind",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_rl1991",
+		"AssetPath": "wheel_rl1991.wheel_rl1991",
+		"ID": 12012,
+		"Product": "Coureur de chape",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "anthem_dragoncat_05",
 		"AssetPath": "anthem_dragoncat_05.anthem_dragoncat_05",
 		"ID": 12013,
@@ -84924,6 +85094,16 @@
 		"AssetPath": "paintfinish_gothcloth.paintfinish_gothcloth",
 		"ID": 12021,
 		"Product": "Gotheory",
+		"Quality": "Limited",
+		"Slot": "Peinture",
+		"Slot Index": 7,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "paintfinish_gothcloth",
+		"AssetPath": "paintfinish_gothcloth.paintfinish_gothclothb",
+		"ID": 12022,
+		"Product": "Denim déchiré",
 		"Quality": "Limited",
 		"Slot": "Peinture",
 		"Slot Index": 7,
@@ -85100,6 +85280,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "paintfinish_cubes",
+		"AssetPath": "paintfinish_cubes.paintfinish_cubes",
+		"ID": 12045,
+		"Product": "Cubique",
+		"Quality": "Limited",
+		"Slot": "Peinture",
+		"Slot Index": 7,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_legs_livery2",
 		"AssetPath": "skin_legs_livery2.skin_legs_livery2",
 		"ID": 12046,
@@ -85137,6 +85327,16 @@
 		"Quality": "Limited",
 		"Slot": "Traînée",
 		"Slot Index": 14,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_rl217",
+		"AssetPath": "wheel_rl217.wheel_rl217",
+		"ID": 12052,
+		"Product": "Chape moulée",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -87950,6 +88150,16 @@
 		"UnlockMethod": "UnlockMethod_Default"
 	},
 	{
+		"AssetPackageName": "hat_chessqueen",
+		"AssetPath": "hat_chessqueen.hat_chessqueen",
+		"ID": 12374,
+		"Product": "Reine des échecs",
+		"Quality": "Limited",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "engineaudio_cutie",
 		"AssetPath": "engineaudio_cutie.engineaudio_cutie",
 		"ID": 12375,
@@ -88024,6 +88234,16 @@
 		"AssetPath": "wheel_rl264.wheel_rl264",
 		"ID": 12383,
 		"Product": "Anneau d'or",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_shatter",
+		"AssetPath": "wheel_shatter.wheel_shatter",
+		"ID": 12385,
+		"Product": "Triple massacre",
 		"Quality": "Limited",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -88127,6 +88347,16 @@
 		"Quality": "Import",
 		"Slot": "Hymne de joueur",
 		"Slot Index": 18,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "Boost_Trippy",
+		"AssetPath": "Boost_Trippy.Boost_Trippy",
+		"ID": 12397,
+		"Product": "Lampe de lave",
+		"Quality": "Limited",
+		"Slot": "Accélération turbo",
+		"Slot Index": 3,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -88234,6 +88464,16 @@
 		"AssetPath": "wheel_rl196_se.wheel_rl196_se",
 		"ID": 12414,
 		"Product": "Constellar : infini",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "Wheel_RL253",
+		"AssetPath": "Wheel_RL253.Wheel_RL253",
+		"ID": 12415,
+		"Product": "Port CD",
 		"Quality": "Limited",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -88407,6 +88647,16 @@
 		"Quality": "Limited",
 		"Slot": "Antenne",
 		"Slot Index": 4,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_force_tropical",
+		"AssetPath": "skin_force_tropical.skin_force_tropical",
+		"ID": 12436,
+		"Product": "Breakout : Lézard bruyant",
+		"Quality": "Uncommon",
+		"Slot": "Sticker",
+		"Slot Index": 1,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -89870,6 +90120,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_sport76",
+		"AssetPath": "wheel_sport76.wheel_sport76",
+		"ID": 12616,
+		"Product": "Mise en garde",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "ItemContainer",
 		"AssetPath": "ItemContainer.crateunlocked_fool",
 		"ID": 12617,
@@ -89927,6 +90187,16 @@
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_sport80",
+		"AssetPath": "wheel_sport80.wheel_sport80",
+		"ID": 12625,
+		"Product": "Sceptre",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -90180,6 +90450,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_rl275",
+		"AssetPath": "wheel_rl275.wheel_rl275",
+		"ID": 12655,
+		"Product": "Art destro",
+		"Quality": "Import",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "body_ryzat2",
 		"AssetPath": "body_ryzat2.body_ryzat2",
 		"ID": 12657,
@@ -90197,6 +90477,16 @@
 		"Quality": "Limited",
 		"Slot": "Châssis",
 		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "antenna_skyscraper",
+		"AssetPath": "antenna_skyscraper.antenna_skyscraper",
+		"ID": 12659,
+		"Product": "Sci-Scraper",
+		"Quality": "Limited",
+		"Slot": "Antenne",
+		"Slot Index": 4,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -90258,6 +90548,16 @@
 		"Slot": "Bruit de moteur",
 		"Slot Index": 13,
 		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_dreamdust",
+		"AssetPath": "skin_dreamdust.skin_dreamdust",
+		"ID": 12671,
+		"Product": "Borealis",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
 		"AssetPackageName": "skin_tagtigerflames",
@@ -90353,7 +90653,7 @@
 		"AssetPackageName": "explosion_opticorange01",
 		"AssetPath": "explosion_opticorange01.explosion_opticorange01",
 		"ID": 12687,
-		"Product": "?FRA?Products.explosion_opticorange01.Label?",
+		"Product": "Seal the Goal",
 		"Quality": "Exotic",
 		"Slot": "Explosion de but",
 		"Slot Index": 15,
@@ -90630,6 +90930,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "hat_storm",
+		"AssetPath": "hat_storm.hat_storm",
+		"ID": 12726,
+		"Product": "Système orageux",
+		"Quality": "VeryRare",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_grain_esportsshopifyrebellion",
 		"AssetPath": "skin_grain_esportsshopifyrebellion.skin_grain_esportsshopifyrebellion",
 		"ID": 12727,
@@ -90740,6 +91050,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "hat_moon",
+		"AssetPath": "hat_moon.hat_moon",
+		"ID": 12743,
+		"Product": "Croissant de lune",
+		"Quality": "Limited",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_tagtiger03",
 		"AssetPath": "skin_tagtiger03.skin_tagtiger03",
 		"ID": 12744,
@@ -90843,7 +91163,7 @@
 		"AssetPackageName": "wheel_opticorange02",
 		"AssetPath": "wheel_opticorange02.wheel_opticorange02",
 		"ID": 12757,
-		"Product": "?FRA?Products.wheel_opticorange02.Label?",
+		"Product": "Sans cœur",
 		"Quality": "Import",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -90903,7 +91223,7 @@
 		"AssetPackageName": "boost_opticorangelte01",
 		"AssetPath": "boost_opticorangelte01.boost_opticorangelte01",
 		"ID": 12764,
-		"Product": "?FRA?Products.boost_opticorangelte01.Label?",
+		"Product": "Star Trails",
 		"Quality": "Limited",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
@@ -90914,6 +91234,16 @@
 		"AssetPath": "wheel_rl278_se.wheel_rl278_se",
 		"ID": 12765,
 		"Product": "Chef : givré",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_hardpoint",
+		"AssetPath": "wheel_hardpoint.wheel_hardpoint",
+		"ID": 12767,
+		"Product": "Foret",
 		"Quality": "Limited",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -90953,7 +91283,7 @@
 		"AssetPackageName": "wheel_opticorangelte01",
 		"AssetPath": "wheel_opticorangelte01.wheel_opticorangelte01",
 		"ID": 12771,
-		"Product": "?FRA?Products.wheel_opticorangelte01.Label?",
+		"Product": "Lucky Emblem",
 		"Quality": "Limited",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -91163,7 +91493,7 @@
 		"AssetPackageName": "ItemContainer",
 		"AssetPath": "ItemContainer.crateunlocked_OpticOrange",
 		"ID": 12793,
-		"Product": "?FRA?Products.crateunlocked_OpticOrange.Label?",
+		"Product": "Coffre au trésor",
 		"Quality": "Rare",
 		"Slot": "Caisses",
 		"Slot Index": 11,
@@ -91333,7 +91663,7 @@
 		"AssetPackageName": "hat_opticorangelte01",
 		"AssetPath": "hat_opticorangelte01.hat_opticorangelte01",
 		"ID": 12811,
-		"Product": "?FRA?Products.hat_opticorangelte01.Label?",
+		"Product": "Keyblade",
 		"Quality": "Limited",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
@@ -91453,7 +91783,7 @@
 		"AssetPackageName": "ss_opticorangelte01",
 		"AssetPath": "ss_opticorangelte01.ss_opticorangelte01",
 		"ID": 12824,
-		"Product": "?FRA?Products.ss_opticorangelte01.Label?",
+		"Product": "Star Trails",
 		"Quality": "Limited",
 		"Slot": "Traînée",
 		"Slot Index": 14,
@@ -91503,7 +91833,7 @@
 		"AssetPackageName": "skin_opticorangelte01",
 		"AssetPath": "skin_opticorangelte01.skin_opticorangelte01",
 		"ID": 12829,
-		"Product": "?FRA?Products.skin_opticorangelte01.Label?",
+		"Product": "Full Hearted",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -92013,7 +92343,7 @@
 		"AssetPackageName": "body_opticorange",
 		"AssetPath": "body_opticorange.body_opticorange",
 		"ID": 12888,
-		"Product": "?FRA?Products.body_opticorange.Label?",
+		"Product": "Vaisseau gélifié",
 		"Quality": "Exotic",
 		"Slot": "Châssis",
 		"Slot Index": 0,
@@ -92253,7 +92583,7 @@
 		"AssetPackageName": "Anthem_S23ItemShop",
 		"AssetPath": "Anthem_S23ItemShop.Anthem_S23ItemShop",
 		"ID": 12913,
-		"Product": "?FRA?Products.Anthem_S23ItemShop.Label?",
+		"Product": "Blast Away! - Gummi Ship II",
 		"Quality": "Import",
 		"Slot": "Hymne de joueur",
 		"Slot Index": 18,
@@ -92267,6 +92597,16 @@
 		"Quality": "Limited",
 		"Slot": "Hymne de joueur",
 		"Slot Index": 18,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "ItemContainer",
+		"AssetPath": "ItemContainer.crateunlocked_AT24",
+		"ID": 12915,
+		"Product": "Accolade XXIV",
+		"Quality": "Rare",
+		"Slot": "Caisses",
+		"Slot Index": 11,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -92343,7 +92683,7 @@
 		"AssetPackageName": "wheel_opticorange01",
 		"AssetPath": "wheel_opticorange01.wheel_opticorange01",
 		"ID": 12925,
-		"Product": "?FRA?Products.wheel_opticorange01.Label?",
+		"Product": "Gummi Ship",
 		"Quality": "Import",
 		"Slot": "Roues",
 		"Slot Index": 2,
@@ -92353,7 +92693,7 @@
 		"AssetPackageName": "skin_opticorange01",
 		"AssetPath": "skin_opticorange01.skin_opticorange01",
 		"ID": 12926,
-		"Product": "?FRA?Products.body_opticorange.Label? : ?FRA?Products.skin_opticorange01.Label?",
+		"Product": "Vaisseau gélifié : Classique",
 		"Quality": "Import",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -92363,7 +92703,7 @@
 		"AssetPackageName": "skin_opticorange02",
 		"AssetPath": "skin_opticorange02.skin_opticorange02",
 		"ID": 12927,
-		"Product": "?FRA?Products.body_opticorange.Label? : ?FRA?Products.skin_opticorange02.Label?",
+		"Product": "Vaisseau gélifié : Magie",
 		"Quality": "Exotic",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -92373,7 +92713,7 @@
 		"AssetPackageName": "skin_opticorange03",
 		"AssetPath": "skin_opticorange03.skin_opticorange03",
 		"ID": 12928,
-		"Product": "?FRA?Products.body_opticorange.Label? : ?FRA?Products.skin_opticorange03.Label?",
+		"Product": "Vaisseau gélifié : Sans cœur",
 		"Quality": "Import",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -92550,10 +92890,60 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "body_burnishedraven",
+		"AssetPath": "body_burnishedraven.body_burnishedraven",
+		"ID": 12951,
+		"Product": "Cadillac CT5-V Blackwing",
+		"Quality": "Exotic",
+		"Slot": "Châssis",
+		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_rl275_se",
+		"AssetPath": "wheel_rl275_se.wheel_rl275_se",
+		"ID": 12953,
+		"Product": "Art destro : holographique",
+		"Quality": "Exotic",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "boost_iconcolors",
+		"AssetPath": "boost_iconcolors.boost_iconcolors",
+		"ID": 12956,
+		"Product": "Infraroad",
+		"Quality": "Limited",
+		"Slot": "Accélération turbo",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "boost_overdriver",
+		"AssetPath": "boost_overdriver.FX.boost_overdriver",
+		"ID": 12957,
+		"Product": "Synapse",
+		"Quality": "Limited",
+		"Slot": "Accélération turbo",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_sport80se",
+		"AssetPath": "wheel_sport80se.wheel_sport80se",
+		"ID": 12958,
+		"Product": "Scepter: Infinite",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_octane_opticorangelte01",
 		"AssetPath": "skin_octane_opticorangelte01.skin_octane_opticorangelte01",
 		"ID": 12959,
-		"Product": "Octane : ?FRA?Products.skin_octane_opticorangelte01.Label?",
+		"Product": "Octane : Sora",
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
@@ -92570,10 +92960,100 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "boost_chromaticaberration",
+		"AssetPath": "boost_chromaticaberration.FX.boost_chromaticaberration",
+		"ID": 12963,
+		"Product": "Aberration chromatique",
+		"Quality": "Limited",
+		"Slot": "Accélération turbo",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "explosion_vspace",
+		"AssetPath": "explosion_vspace.explosion_vspace",
+		"ID": 12966,
+		"Product": "Anipop",
+		"Quality": "Limited",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "hat_s24psplus",
+		"AssetPath": "hat_s24psplus.hat_s24psplus",
+		"ID": 12970,
+		"Product": "Chapeau G+G",
+		"Quality": "Premium",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_DLC"
+	},
+	{
+		"AssetPackageName": "skin_musclecar_firechicken",
+		"AssetPath": "skin_musclecar_firechicken.skin_musclecar_firechicken",
+		"ID": 12972,
+		"Product": "Dominus : Valiantor",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_burnishedravenflames",
+		"AssetPath": "skin_burnishedravenflames.skin_burnishedravenflames",
+		"ID": 12974,
+		"Product": "Cadillac CT5-V Blackwing : Flammes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_burnishedravenlightning",
+		"AssetPath": "skin_burnishedravenlightning.skin_burnishedravenlightning",
+		"ID": 12975,
+		"Product": "Cadillac CT5-V Blackwing : Éclair",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_burnishedravenwings",
+		"AssetPath": "skin_burnishedravenwings.skin_burnishedravenwings",
+		"ID": 12976,
+		"Product": "Cadillac CT5-V Blackwing : Ailes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_octane_s24psplus",
+		"AssetPath": "skin_octane_s24psplus.skin_octane_s24psplus",
+		"ID": 12977,
+		"Product": "Octane : Habillé chic G+G",
+		"Quality": "Premium",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_DLC"
+	},
+	{
+		"AssetPackageName": "wheel_s24psplus",
+		"AssetPath": "wheel_s24psplus.wheel_s24psplus",
+		"ID": 12978,
+		"Product": "Spinner G+G",
+		"Quality": "Premium",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_DLC"
+	},
+	{
 		"AssetPackageName": "avatarborder_opticorangelte01",
 		"AssetPath": "avatarborder_opticorangelte01.avatarborder_opticorangelte01",
 		"ID": 12979,
-		"Product": "?FRA?Products.avatarborder_opticorangelte01.Label?",
+		"Product": "Keyblade",
 		"Quality": "Limited",
 		"Slot": "Bordure d'avatar",
 		"Slot Index": 20,
@@ -92583,10 +93063,60 @@
 		"AssetPackageName": "playerbanner_opticorangelte01",
 		"AssetPath": "playerbanner_opticorangelte01.playerbanner_opticorangelte01",
 		"ID": 12980,
-		"Product": "?FRA?Products.playerbanner_opticorangelte01.Label?",
+		"Product": "Keyblade",
 		"Quality": "Limited",
 		"Slot": "Bannière de joueur",
 		"Slot Index": 16,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "boost_paralyzingfear_psplus",
+		"AssetPath": "boost_paralyzingfear_psplus.boost_paralyzingfear_psplus",
+		"ID": 12982,
+		"Product": "Feu sombre G+G",
+		"Quality": "Premium",
+		"Slot": "Accélération turbo",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_DLC"
+	},
+	{
+		"AssetPackageName": "skin_vanquish_buffy",
+		"AssetPath": "skin_vanquish_buffy.skin_vanquish_buffy",
+		"ID": 12987,
+		"Product": "Merc : Agent Sugo",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "engineaudio_burnishedraven",
+		"AssetPath": "engineaudio_burnishedraven.engineaudio_burnishedraven",
+		"ID": 12988,
+		"Product": "Cadillac CT5-V Blackwing",
+		"Quality": "Common",
+		"Slot": "Bruit de moteur",
+		"Slot Index": 13,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_force_pastelgraffiti",
+		"AssetPath": "skin_force_pastelgraffiti.skin_force_pastelgraffiti",
+		"ID": 12993,
+		"Product": "Breakout : Techtoxic",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "ss_roadsparks",
+		"AssetPath": "ss_roadsparks.ss_roadsparks",
+		"ID": 12994,
+		"Product": "Étincelles de chape",
+		"Quality": "Limited",
+		"Slot": "Traînée",
+		"Slot Index": 14,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -92610,6 +93140,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "ss_chromaticaberration",
+		"AssetPath": "ss_chromaticaberration.FX.ss_chromaticaberration",
+		"ID": 13003,
+		"Product": "Aberration chromatique",
+		"Quality": "Limited",
+		"Slot": "Traînée",
+		"Slot Index": 14,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "body_genericmystery",
 		"AssetPath": "body_genericmystery.Body_Giftbox_Mystery_Limited",
 		"ID": 13008,
@@ -92620,14 +93160,54 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "hat_chibigrain",
+		"AssetPath": "hat_chibigrain.hat_chibigrain",
+		"ID": 13009,
+		"Product": "Fennec chibi",
+		"Quality": "Limited",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "engineaudio_OpticOrange",
 		"AssetPath": "engineaudio_OpticOrange.engineaudio_OpticOrange",
 		"ID": 13011,
-		"Product": "?FRA?Products.engineaudio_OpticOrange.Label?",
+		"Product": "Vaisseau gélifié",
 		"Quality": "Common",
 		"Slot": "Bruit de moteur",
 		"Slot Index": 13,
 		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_autosplittone",
+		"AssetPath": "skin_autosplittone.skin_autosplittone",
+		"ID": 13012,
+		"Product": "Mi-convenable",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "ss_kawaiistickers",
+		"AssetPath": "ss_kawaiistickers.ss_kawaiistickers",
+		"ID": 13014,
+		"Product": "Stickers kawaii",
+		"Quality": "Limited",
+		"Slot": "Traînée",
+		"Slot Index": 14,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_burnishedravenlivery01",
+		"AssetPath": "skin_burnishedravenlivery01.skin_burnishedravenlivery01",
+		"ID": 13016,
+		"Product": "Cadillac CT5-V Blackwing : Blackwing absolu",
+		"Quality": "Import",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
 		"AssetPackageName": "skin_trackspice01",
@@ -92670,6 +93250,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_burnishedraven01",
+		"AssetPath": "wheel_burnishedraven01.wheel_burnishedraven01",
+		"ID": 13021,
+		"Product": "Cadillac CT5-V Blackwing",
+		"Quality": "Import",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_trackspice01",
 		"AssetPath": "wheel_trackspice01.wheel_trackspice01",
 		"ID": 13022,
@@ -92690,10 +93280,40 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "skin_burnishedravenstripes",
+		"AssetPath": "skin_burnishedravenstripes.skin_burnishedravenstripes",
+		"ID": 13024,
+		"Product": "Cadillac CT5-V Blackwing : Bandes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "explosion_waypoint",
+		"AssetPath": "explosion_waypoint.explosion_waypoint",
+		"ID": 13026,
+		"Product": "Bolide des rues",
+		"Quality": "Limited",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "ItemContainer",
 		"AssetPath": "ItemContainer.crateunlocked_luxlow1",
 		"ID": 13030,
 		"Product": "Collection Inferno",
+		"Quality": "Limited",
+		"Slot": "Caisses",
+		"Slot Index": 11,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "ItemContainer",
+		"AssetPath": "ItemContainer.crateunlocked_luxmed1",
+		"ID": 13031,
+		"Product": "Collection Nova",
 		"Quality": "Limited",
 		"Slot": "Caisses",
 		"Slot Index": 11,
@@ -92707,6 +93327,496 @@
 		"Quality": "Limited",
 		"Slot": "Caisses",
 		"Slot Index": 11,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "ss_iconcolors",
+		"AssetPath": "ss_iconcolors.ss_iconcolors",
+		"ID": 13039,
+		"Product": "Infraroad",
+		"Quality": "Limited",
+		"Slot": "Traînée",
+		"Slot Index": 14,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "hat_speedometer",
+		"AssetPath": "hat_speedometer.hat_speedometer",
+		"ID": 13041,
+		"Product": "Compteur de vitesse",
+		"Quality": "Limited",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_shatterse",
+		"AssetPath": "wheel_shatterse.wheel_shatterse",
+		"ID": 13059,
+		"Product": "Triple massacre : remix",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_sport76se",
+		"AssetPath": "wheel_sport76se.wheel_sport76se",
+		"ID": 13062,
+		"Product": "Mise en garde : holographique",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_hardpointse",
+		"AssetPath": "wheel_hardpointse.wheel_hardpointse",
+		"ID": 13063,
+		"Product": "Foret : remix",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_cobaltdagger01",
+		"AssetPath": "wheel_cobaltdagger01.wheel_cobaltdagger01",
+		"ID": 13064,
+		"Product": "Volkswagen Golf GTI Edition 50",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_vstaples",
+		"AssetPath": "skin_vstaples.skin_vstaples",
+		"ID": 13070,
+		"Product": "Vextor",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "body_neonmarmot",
+		"AssetPath": "body_neonmarmot.body_neonmarmot",
+		"ID": 13071,
+		"Product": "Dominus GT 76",
+		"Quality": "Limited",
+		"Slot": "Châssis",
+		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "body_cobaltdagger",
+		"AssetPath": "body_cobaltdagger.body_cobaltdagger",
+		"ID": 13074,
+		"Product": "Volkswagen Golf GTI Edition 50",
+		"Quality": "Limited",
+		"Slot": "Châssis",
+		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "body_safari",
+		"AssetPath": "body_safari.body_safari",
+		"ID": 13075,
+		"Product": "Pareto 5S",
+		"Quality": "Limited",
+		"Slot": "Châssis",
+		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "engineaudio_cobaltdagger",
+		"AssetPath": "engineaudio_cobaltdagger.engineaudio_cobaltdagger",
+		"ID": 13080,
+		"Product": "?FRA?Products.engineaudio_cobaltdagger.Label?",
+		"Quality": "Common",
+		"Slot": "Bruit de moteur",
+		"Slot Index": 13,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_cobaltdagger_flames",
+		"AssetPath": "skin_cobaltdagger_flames.skin_cobaltdagger_flames",
+		"ID": 13081,
+		"Product": "Volkswagen Golf GTI Edition 50 : Flammes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_cobaltdagger_lightning",
+		"AssetPath": "skin_cobaltdagger_lightning.skin_cobaltdagger_lightning",
+		"ID": 13082,
+		"Product": "Volkswagen Golf GTI Edition 50 : Éclair",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_CobaltDagger_livery01",
+		"AssetPath": "skin_CobaltDagger_livery01.skin_CobaltDagger_livery01",
+		"ID": 13083,
+		"Product": "Volkswagen Golf GTI Edition 50 : MKD Ultra",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_cobaltdagger_livery02",
+		"AssetPath": "skin_cobaltdagger_livery02.skin_cobaltdagger_livery02",
+		"ID": 13084,
+		"Product": "Volkswagen Golf GTI Edition 50 : Pegasus Ultra",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_cobaltdagger_livery03",
+		"AssetPath": "skin_cobaltdagger_livery03.skin_cobaltdagger_livery03",
+		"ID": 13085,
+		"Product": "Volkswagen Golf GTI Edition 50 : Tread Ultra",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_CobaltDagger_stripes",
+		"AssetPath": "skin_CobaltDagger_stripes.skin_CobaltDagger_stripes",
+		"ID": 13086,
+		"Product": "Volkswagen Golf GTI Edition 50 : Bandes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_CobaltDagger_wings",
+		"AssetPath": "skin_CobaltDagger_wings.skin_CobaltDagger_wings",
+		"ID": 13087,
+		"Product": "Volkswagen Golf GTI Edition 50 : Ailes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_safari_flames",
+		"AssetPath": "skin_safari_flames.skin_safari_flames",
+		"ID": 13088,
+		"Product": "Pareto 5S : Flammes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_safari_lightning",
+		"AssetPath": "skin_safari_lightning.skin_safari_lightning",
+		"ID": 13089,
+		"Product": "Pareto 5S : Éclair",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_safari_livery01",
+		"AssetPath": "skin_safari_livery01.skin_safari_livery01",
+		"ID": 13090,
+		"Product": "Pareto 5S : Choc de Pareto",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_safari_stripes",
+		"AssetPath": "skin_safari_stripes.skin_safari_stripes",
+		"ID": 13091,
+		"Product": "Pareto 5S : Bandes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_safari_wings",
+		"AssetPath": "skin_safari_wings.skin_safari_wings",
+		"ID": 13092,
+		"Product": "Pareto 5S : Ailes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "playerbanner_s24rocketpass",
+		"AssetPath": "playerbanner_s24rocketpass.playerbanner_s24rocketpass",
+		"ID": 13093,
+		"Product": "Nous sommes Rocket League",
+		"Quality": "Limited",
+		"Slot": "Bannière de joueur",
+		"Slot Index": 16,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "engineaudio_safari",
+		"AssetPath": "engineaudio_safari.engineaudio_safari",
+		"ID": 13094,
+		"Product": "?FRA?Products.engineaudio_safari.Label?",
+		"Quality": "Common",
+		"Slot": "Bruit de moteur",
+		"Slot Index": 13,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "engineaudio_neonmarmot",
+		"AssetPath": "engineaudio_neonmarmot.engineaudio_neonmarmot",
+		"ID": 13095,
+		"Product": "?FRA?Products.engineaudio_neonmarmot.Label?",
+		"Quality": "Common",
+		"Slot": "Bruit de moteur",
+		"Slot Index": 13,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "wheel_s24reward01",
+		"AssetPath": "wheel_s24reward01.wheel_s24reward01",
+		"ID": 13100,
+		"Product": "S23 - Bronze",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_s24reward02",
+		"AssetPath": "wheel_s24reward02.wheel_s24reward02",
+		"ID": 13104,
+		"Product": "S23 - Or",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_s24reward03",
+		"AssetPath": "wheel_s24reward03.wheel_s24reward03",
+		"ID": 13105,
+		"Product": "S23 - Argent",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_s24reward04",
+		"AssetPath": "wheel_s24reward04.wheel_s24reward04",
+		"ID": 13106,
+		"Product": "S23 - Platine",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_s24reward05",
+		"AssetPath": "wheel_s24reward05.wheel_s24reward05",
+		"ID": 13107,
+		"Product": "S23 - Diamant",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_s24reward06",
+		"AssetPath": "wheel_s24reward06.wheel_s24reward06",
+		"ID": 13108,
+		"Product": "S23 - Champion",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_s24reward07",
+		"AssetPath": "wheel_s24reward07.wheel_s24reward07",
+		"ID": 13109,
+		"Product": "S23 - Grand Champion",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_s24reward08",
+		"AssetPath": "wheel_s24reward08.wheel_s24reward08",
+		"ID": 13110,
+		"Product": "S23 - Légende supersonique",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_wreaper",
+		"AssetPath": "skin_wreaper.skin_wreaper",
+		"ID": 13112,
+		"Product": "Reap-Wrap",
+		"Quality": "Exotic",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "playerbanner_s24autotournament",
+		"AssetPath": "playerbanner_s24autotournament.playerbanner_s24autotournament",
+		"ID": 13123,
+		"Product": "Maisons hantées",
+		"Quality": "Uncommon",
+		"Slot": "Bannière de joueur",
+		"Slot Index": 16,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_majormuscle",
+		"AssetPath": "skin_majormuscle.skin_majormuscle",
+		"ID": 13126,
+		"Product": "Frappe latérale",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_neonmarmot_flames",
+		"AssetPath": "skin_neonmarmot_flames.skin_neonmarmot_flames",
+		"ID": 13136,
+		"Product": "Dominus GT 76 : Flammes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_neonmarmot_lightning",
+		"AssetPath": "skin_neonmarmot_lightning.skin_neonmarmot_lightning",
+		"ID": 13137,
+		"Product": "Dominus GT 76 : Éclair",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_neonmarmot_stripes",
+		"AssetPath": "skin_neonmarmot_stripes.skin_neonmarmot_stripes",
+		"ID": 13138,
+		"Product": "Dominus GT 76 : Bandes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "skin_neonmarmot_wings",
+		"AssetPath": "skin_neonmarmot_wings.skin_neonmarmot_wings",
+		"ID": 13139,
+		"Product": "Dominus GT 76 : Ailes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "hat_buffysugo",
+		"AssetPath": "hat_buffysugo.hat_buffysugo",
+		"ID": 13142,
+		"Product": "Buffy Sugo",
+		"Quality": "Limited",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "album_anthem_season24",
+		"AssetPath": "album_anthem_season24.album_anthem_season24",
+		"ID": 13144,
+		"Product": "?FRA?Products.album_anthem_season24.Label?",
+		"Quality": "Common",
+		"Slot": "Hymne de joueur",
+		"Slot Index": 18,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "Anthem_Primate_Booyah",
+		"AssetPath": "Anthem_Primate_Booyah.Anthem_Primate_Booyah",
+		"ID": 13147,
+		"Product": "Booyah",
+		"Quality": "Limited",
+		"Slot": "Hymne de joueur",
+		"Slot Index": 18,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "anthem_seanpitaro_mirrors",
+		"AssetPath": "anthem_seanpitaro_mirrors.anthem_seanpitaro_mirrors",
+		"ID": 13148,
+		"Product": "mirrors",
+		"Quality": "Rare",
+		"Slot": "Hymne de joueur",
+		"Slot Index": 18,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "anthem_sportmode_backspin",
+		"AssetPath": "anthem_sportmode_backspin.anthem_sportmode_backspin",
+		"ID": 13149,
+		"Product": "BACKSPIN",
+		"Quality": "Limited",
+		"Slot": "Hymne de joueur",
+		"Slot Index": 18,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_neonmarmot_livery02",
+		"AssetPath": "skin_neonmarmot_livery02.skin_neonmarmot_livery02",
+		"ID": 13152,
+		"Product": "Dominus GT 76 : Essor",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_safari_livery02",
+		"AssetPath": "skin_safari_livery02.skin_safari_livery02",
+		"ID": 13153,
+		"Product": "Pareto 5S : Essor",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_neonmarmot_livery01",
+		"AssetPath": "skin_neonmarmot_livery01.skin_neonmarmot_livery01",
+		"ID": 13162,
+		"Product": "Dominus GT 76 : Choc",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
 		"UnlockMethod": "UnlockMethod_Online"
 	}
 ]

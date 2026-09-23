@@ -3811,6 +3811,14 @@
   "Text": "CRL Spring 2025 Contender",
   "Category": "Champion"
  },
+ "2025_CRL_Fall_Champion": {
+  "Text": "CRL Fall 2025 Champion",
+  "Category": "Champion"
+ },
+ "2025_CRL_Fall_Championship_Contender": {
+  "Text": "CRL Fall 2025 Contender",
+  "Category": "Champion"
+ },
  "Maddening_Mutator": {
   "Text": "Maddening Mutator",
   "Category": ""
@@ -4947,6 +4955,22 @@
   "Text": "RLCS 2026 World Championship Contender",
   "Category": "RLCS_Champion"
  },
+ "2026_CRL_Fall_Championship_Contender": {
+  "Text": "2026 CRL Fall Championship Contender",
+  "Category": "Champion"
+ },
+ "2026_CRL_Fall_Champion": {
+  "Text": "2026 CRL Fall Champion",
+  "Category": "Champion"
+ },
+ "2026_CRL_Spring_Championship_Contender": {
+  "Text": "2026 CRL Spring Championship Contender",
+  "Category": "Champion"
+ },
+ "2026_CRL_Spring_Champion": {
+  "Text": "2026 CRL Spring Champion",
+  "Category": "Champion"
+ },
  "AutoTour_23_Bronze_1": {
   "Text": "S23 {Bronze} Tournament Winner",
   "Category": ""
@@ -5663,18 +5687,6 @@
   "Text": "FASHIONABLY EARLY",
   "Category": ""
  },
- "Test_Title1": {
-  "Text": "S24 MVPs: 5",
-  "Category": "StatTrackerStage1"
- },
- "Test_Title2": {
-  "Text": "S24 MVPs: 15",
-  "Category": "StatTrackerStage2"
- },
- "Test_Title3": {
-  "Text": "S24 MVPs: 25",
-  "Category": "StatTrackerStage3"
- },
  "FOOTBALL_IS_LIFE": {
   "Text": "FOOTBALL IS LIFE",
   "Category": ""
@@ -5689,6 +5701,22 @@
  },
  "POINTS_DONT_MATTER": {
   "Text": "POINTS DON'T MATTER",
+  "Category": ""
+ },
+ "PLAYING_THE_REAL_GAME": {
+  "Text": "PLAYING THE REAL GAME",
+  "Category": ""
+ },
+ "INTERNATIONAL_ICON": {
+  "Text": "INTERNATIONAL ICON",
+  "Category": ""
+ },
+ "UPPER_90_SPECIALIST": {
+  "Text": "UPPER 90 SPECIALIST",
+  "Category": ""
+ },
+ "LONG_SHOT": {
+  "Text": "LONG SHOT",
   "Category": ""
  },
  "S36_Grand_Champion": {
@@ -5751,22 +5779,6 @@
   "Text": "New Car, Who Dis?",
   "Category": ""
  },
- "PLAYING_THE_REAL_GAME": {
-  "Text": "PLAYING THE REAL GAME",
-  "Category": ""
- },
- "INTERNATIONAL_ICON": {
-  "Text": "INTERNATIONAL ICON",
-  "Category": ""
- },
- "UPPER_90_SPECIALIST": {
-  "Text": "UPPER 90 SPECIALIST",
-  "Category": ""
- },
- "LONG_SHOT": {
-  "Text": "LONG SHOT",
-  "Category": ""
- },
  "AoRL_Gol": {
   "Text": "Gol",
   "Category": ""
@@ -5779,8 +5791,148 @@
   "Text": "SAIKO SAIKO",
   "Category": ""
  },
+ "KHearts_2026_Title01": {
+  "Text": "KEYBLADE'S CHOSEN",
+  "Category": ""
+ },
+ "RLCSWC_Title_01": {
+  "Text": "Heartless",
+  "Category": ""
+ },
  "Unity2026_Title_01": {
   "Text": "Diva Energy",
   "Category": ""
+ },
+ "ViralBallGame2026_Title01": {
+  "Text": "FEIK",
+  "Category": ""
+ },
+ "ViralBallGame2026_Title02": {
+  "Text": "PINCH",
+  "Category": ""
+ },
+ "ViralBallGame2026_Title03": {
+  "Text": "Ball Game",
+  "Category": ""
+ },
+ "jstncrdbl_Creator": {
+  "Text": "jstncrdbl",
+  "Category": "Community_Spotlight_Creator"
+ },
+ "jstncrdbl": {
+  "Text": "jstncrdbl",
+  "Category": "Community_Spotlight"
+ },
+ "S23_3v3_TopRank_100": {
+  "Text": "S23 3V3 TOP 100",
+  "Category": "TopRank_Purple"
+ },
+ "S23_3v3_TopRank_50": {
+  "Text": "S23 3V3 TOP 50",
+  "Category": "TopRank_Purple"
+ },
+ "S23_3v3_TopRank_25": {
+  "Text": "S23 3V3 TOP 25",
+  "Category": "TopRank_Purple"
+ },
+ "S23_3v3_TopRank_10": {
+  "Text": "S23 3V3 TOP 10",
+  "Category": "TopRank_Purple"
+ },
+ "S23_3v3_TopRank_1": {
+  "Text": "S23 3V3 GLOBAL #1",
+  "Category": "TopRank_YellowAndPurple"
+ },
+ "S23_2v2_TopRank_100": {
+  "Text": "S23 2V2 TOP 100",
+  "Category": "TopRank_Purple"
+ },
+ "S23_2v2_TopRank_50": {
+  "Text": "S23 2V2 TOP 50",
+  "Category": "TopRank_Purple"
+ },
+ "S23_2v2_TopRank_25": {
+  "Text": "S23 2V2 TOP 25",
+  "Category": "TopRank_Purple"
+ },
+ "S23_2v2_TopRank_10": {
+  "Text": "S23 2V2 TOP 10",
+  "Category": "TopRank_Purple"
+ },
+ "S23_2v2_TopRank_1": {
+  "Text": "S23 2V2 GLOBAL #1",
+  "Category": "TopRank_YellowAndPurple"
+ },
+ "S23_1v1_TopRank_100": {
+  "Text": "S23 1V1 TOP 100",
+  "Category": "TopRank_Purple"
+ },
+ "S23_1v1_TopRank_50": {
+  "Text": "S23 1V1 TOP 50",
+  "Category": "TopRank_Purple"
+ },
+ "S23_1v1_TopRank_25": {
+  "Text": "S23 1V1 TOP 25",
+  "Category": "TopRank_Purple"
+ },
+ "S23_1v1_TopRank_10": {
+  "Text": "S23 1V1 TOP 10",
+  "Category": "TopRank_Purple"
+ },
+ "S23_1v1_TopRank_1": {
+  "Text": "S23 1V1 GLOBAL #1",
+  "Category": "TopRank_YellowAndPurple"
+ },
+ "World_Championship_2026_Attendee": {
+  "Text": "World Championship 2026 Attendee",
+  "Category": "Community_Spotlight"
+ },
+ "S37_SSL_Heetseeker": {
+  "Text": "S23 SUPER SEEKING LEGEND",
+  "Category": "SZN_1_White"
+ },
+ "S37_SSL_Dropshot": {
+  "Text": "S23 Tile Annihilator",
+  "Category": "SZN_1_White"
+ },
+ "S37_SSL_Hoops": {
+  "Text": "S23 Legendary Baller",
+  "Category": "SZN_1_White"
+ },
+ "S37_SSL_Snowday": {
+  "Text": "S23 Ice Titan",
+  "Category": "SZN_1_White"
+ },
+ "S37_SSL_Rumble": {
+  "Text": "S23 RNGenius",
+  "Category": "SZN_1_White"
+ },
+ "S37_SuperSonic_Legend": {
+  "Text": "S23 Supersonic Legend",
+  "Category": "SZN_1_White"
+ },
+ "S37_Grand_Champion_Heatseeker": {
+  "Text": "S23 HEATSEEKER ACE",
+  "Category": "SZN_1_Red"
+ },
+ "S37_Grand_Champion_Dropshot": {
+  "Text": "S23 Floor Destroyer",
+  "Category": "SZN_1_Red"
+ },
+ "S37_Grand_Champion_Hoops": {
+  "Text": "S23 Dunk Master",
+  "Category": "SZN_1_Red"
+ },
+ "S37_Grand_Champion_Snowday": {
+  "Text": "S23 Blizzard Wizard",
+  "Category": "SZN_1_Red"
+ },
+ "S37_Grand_Champion_Rumble": {
+  "Text": "S23 RNG Champ",
+  "Category": "SZN_1_Red"
+ },
+ "S37_Grand_Champion": {
+  "Text": "S23 Grand Champion",
+  "Category": "SZN_1_Red"
  }
 }
