@@ -5934,5 +5934,243 @@
  "S37_Grand_Champion": {
   "Text": "S23 Grand Champion",
   "Category": "SZN_1_Red"
+ },
+ "Professional_Yapper_Creator": {
+  "Category": "Community_Spotlight_Creator",
+  "Text": "Professional Yapper"
+ },
+ "Professional_Yapper": {
+  "Category": "Community_Spotlight",
+  "Text": "Professional Yapper"
+ },
+ "S24_MVP_TRACKER": {
+  "Category": "StatTitleThreshold0",
+  "StatName": "Title_S24_MVPs",
+  "Text": "S24 MVPs: {StatValue}"
+ },
+ "S24_WINS_TRACKER": {
+  "Category": "StatTitleThreshold0",
+  "StatName": "Title_S24_Wins",
+  "Text": "S24 Wins: {StatValue}"
+ },
+ "Okay_Boomer": {
+  "Text": "Okay Boomer",
+  "Category": ""
+ },
+ "P5_TAKE_YOUR_HEART": {
+  "Text": "TAKE YOUR HEART",
+  "Category": ""
+ },
+ "I_always_come_back": {
+  "Text": "I always come back",
+  "Category": ""
+ },
+ "RocketRivalry_S24_Team1": {
+  "Category": "Community_Spotlight",
+  "Text": "FORK IN THE ROAD"
+ },
+ "RocketRivalry_S24_Team1_Creator": {
+  "Category": "Community_Spotlight_Creator",
+  "Text": "FORK IN THE ROAD"
+ },
+ "RocketRivalry_S24_Team2": {
+  "Category": "Community_Spotlight",
+  "Text": "TENACIOUS LEGEND"
+ },
+ "RocketRivalry_S24_Team2_Creator": {
+  "Category": "Community_Spotlight_Creator",
+  "Text": "TENACIOUS LEGEND"
+ },
+ "RocketRivalry_S24_Team3": {
+  "Category": "Community_Spotlight",
+  "Text": "FENOMENO"
+ },
+ "RocketRivalry_S24_Team3_Creator": {
+  "Category": "Community_Spotlight_Creator",
+  "Text": "FENOMENO"
+ },
+ "RocketRivalry_S24_Team4": {
+  "Category": "Community_Spotlight",
+  "Text": "ALMOST IMPOSSIBLE"
+ },
+ "RocketRivalry_S24_Team4_Creator": {
+  "Category": "Community_Spotlight_Creator",
+  "Text": "ALMOST IMPOSSIBLE"
+ },
+ "RocketRivalry_S24_Team5": {
+  "Category": "Community_Spotlight",
+  "Text": "FREESTYLER"
+ },
+ "RocketRivalry_S24_Team5_Creator": {
+  "Category": "Community_Spotlight_Creator",
+  "Text": "FREESTYLER"
+ },
+ "RocketRivalry_S24_Team6": {
+  "Category": "Community_Spotlight",
+  "Text": "JACK OF ALL TRADES"
+ },
+ "RocketRivalry_S24_Team6_Creator": {
+  "Category": "Community_Spotlight_Creator",
+  "Text": "JACK OF ALL TRADES"
+ },
+ "RocketRivalry_S24_Team7": {
+  "Category": "Community_Spotlight",
+  "Text": "MENA AURA"
+ },
+ "RocketRivalry_S24_Team7_Creator": {
+  "Category": "Community_Spotlight_Creator",
+  "Text": "MENA AURA"
+ },
+ "RocketRivalry_S24_Team8": {
+  "Category": "Community_Spotlight",
+  "Text": "STAY TWISTY"
+ },
+ "RocketRivalry_S24_Team8_Creator": {
+  "Category": "Community_Spotlight_Creator",
+  "Text": "STAY TWISTY"
+ },
+ "RP_S24_FreeTitle01": {
+  "Text": "Passenger Princess",
+  "Category": ""
+ },
+ "RP_S24_PremiumTitle01": {
+  "Text": "Clip This",
+  "Category": ""
+ },
+ "RP_S24_PremiumTitle02": {
+  "Text": "Thanks for Watching",
+  "Category": ""
+ },
+ "RP_S24_PremiumTitle03": {
+  "Text": "Generational Talent",
+  "Category": ""
+ },
+ "AutoTour_24_Bronze_1": {
+  "Text": "S24 {Bronze} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_24_Bronze_2": {
+  "Category": "AutoTour_Completed",
+  "Text": "S24 {Bronze} Tournament Winner"
+ },
+ "AutoTour_24_Silver_1": {
+  "Text": "S24 {Silver} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_24_Silver_2": {
+  "Category": "AutoTour_Completed",
+  "Text": "S24 {Silver} Tournament Winner"
+ },
+ "AutoTour_24_Gold_1": {
+  "Text": "S24 {Gold} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_24_Gold_2": {
+  "Category": "AutoTour_Completed",
+  "Text": "S24 {Gold} Tournament Winner"
+ },
+ "AutoTour_24_Platinum_1": {
+  "Text": "S24 {Platinum} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_24_Platinum_2": {
+  "Category": "AutoTour_Completed",
+  "Text": "S24 {Platinum} Tournament Winner"
+ },
+ "AutoTour_24_Diamond_1": {
+  "Text": "S24 {Diamond} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_24_Diamond_2": {
+  "Category": "AutoTour_Completed",
+  "Text": "S24 {Diamond} Tournament Winner"
+ },
+ "AutoTour_24_Champion_1": {
+  "Text": "S24 {Champion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_24_Champion_2": {
+  "Category": "AutoTour_Completed",
+  "Text": "S24 {Champion} Tournament Winner"
+ },
+ "AutoTour_24_GrandChampion_1": {
+  "Text": "S24 {GrandChampion} Tournament Winner",
+  "Category": ""
+ },
+ "AutoTour_24_GrandChampion_2": {
+  "Category": "AutoTour_CompletedGC",
+  "Text": "S24 {GrandChampion} Tournament Winner"
+ },
+ "AutoTour_24_SuperSonicLegend_1": {
+  "Category": "AutoTour_CompletedSuperSonicLegend_1",
+  "Text": "S24 {Legend} Tournament Winner"
+ },
+ "AutoTour_24_SuperSonicLegend_2": {
+  "Category": "AutoTour_CompletedSuperSonicLegend_2",
+  "Text": "S24 {Legend} Tournament Winner"
+ },
+ "Pentathlon_24_Bronze_1": {
+  "Text": "S24 {Bronze} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_24_Bronze_2": {
+  "Category": "AutoTour_Completed",
+  "Text": "S24 {Bronze} Pentathlon Winner"
+ },
+ "Pentathlon_24_Silver_1": {
+  "Text": "S24 {Silver} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_24_Silver_2": {
+  "Category": "AutoTour_Completed",
+  "Text": "S24 {Silver} Pentathlon Winner"
+ },
+ "Pentathlon_24_Gold_1": {
+  "Text": "S24 {Gold} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_24_Gold_2": {
+  "Category": "AutoTour_Completed",
+  "Text": "S24 {Gold} Pentathlon Winner"
+ },
+ "Pentathlon_24_Platinum_1": {
+  "Text": "S24 {Platinum} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_24_Platinum_2": {
+  "Category": "AutoTour_Completed",
+  "Text": "S24 {Platinum} Pentathlon Winner"
+ },
+ "Pentathlon_24_Diamond_1": {
+  "Text": "S24 {Diamond} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_24_Diamond_2": {
+  "Category": "AutoTour_Completed",
+  "Text": "S24 {Diamond} Pentathlon Winner"
+ },
+ "Pentathlon_24_Champion_1": {
+  "Text": "S24 {Champion} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_24_Champion_2": {
+  "Category": "AutoTour_Completed",
+  "Text": "S24 {Champion} Pentathlon Winner"
+ },
+ "Pentathlon_24_GrandChampion_1": {
+  "Text": "S24 {GrandChampion} Pentathlon Winner",
+  "Category": ""
+ },
+ "Pentathlon_24_GrandChampion_2": {
+  "Category": "AutoTour_CompletedGC",
+  "Text": "S24 {GrandChampion} Pentathlon Winner"
+ },
+ "Pentathlon_24_SuperSonicLegend_1": {
+  "Category": "AutoTour_CompletedSuperSonicLegend_1",
+  "Text": "S24 {Legend} Pentathlon Winner"
+ },
+ "Pentathlon_24_SuperSonicLegend_2": {
+  "Category": "AutoTour_CompletedSuperSonicLegend_2",
+  "Text": "S24 {Legend} Pentathlon Winner"
  }
 }
