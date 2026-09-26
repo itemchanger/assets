@@ -93828,5 +93828,205 @@
 		"Slot": "Decal",
 		"Slot Index": 1,
 		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_rl249",
+		"AssetPath": "wheel_rl249.wheel_rl249",
+		"ID": 12124,
+		"Product": "Fast Forward",
+		"Quality": "Import",
+		"Slot": "Wheels",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "boost_umbragenesis",
+		"AssetPath": "boost_umbragenesis.boost_umbragenesis",
+		"ID": 12681,
+		"Product": "Morgana's Token",
+		"Quality": "Limited",
+		"Slot": "Rocket Boost",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "explosion_umbragenesis01",
+		"AssetPath": "explosion_umbragenesis01.explosion_umbragenesis01",
+		"ID": 12803,
+		"Product": "Phantom Thieves of Hearts",
+		"Quality": "BlackMarket",
+		"Slot": "Goal Explosion",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_umbragenesislte01",
+		"AssetPath": "wheel_umbragenesislte01.wheel_umbragenesislte01",
+		"ID": 12837,
+		"Product": "The Trickstar (P5R)",
+		"Quality": "Limited",
+		"Slot": "Wheels",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "crateunlocked_UmbraGenesis",
+		"AssetPath": "crateunlocked_UmbraGenesis.crateunlocked_UmbraGenesis",
+		"ID": 12917,
+		"Product": "Treasure Chest",
+		"Quality": "Limited",
+		"Slot": "Crate",
+		"Slot Index": 11,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_umbragenesis01",
+		"AssetPath": "wheel_umbragenesis01.wheel_umbragenesis01",
+		"ID": 12961,
+		"Product": "Mona Car",
+		"Quality": "Import",
+		"Slot": "Wheels",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "ss_umbragenesislte01",
+		"AssetPath": "ss_umbragenesislte01.ss_umbragenesislte01",
+		"ID": 12967,
+		"Product": "Morgana's Token",
+		"Quality": "Limited",
+		"Slot": "Trail",
+		"Slot Index": 14,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_octane_umbragenesis01",
+		"AssetPath": "skin_octane_umbragenesis01.skin_octane_umbragenesis01",
+		"ID": 12983,
+		"Product": "Octane: Persona 5 Royal",
+		"Quality": "Limited",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_uniumbragenesis",
+		"AssetPath": "skin_uniumbragenesis.skin_uniumbragenesis",
+		"ID": 12986,
+		"Product": "Phantom Thieves of Hearts",
+		"Quality": "Limited",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "body_umbragenesis",
+		"AssetPath": "body_umbragenesis.body_umbragenesis",
+		"ID": 13000,
+		"Product": "Mona Car",
+		"Quality": "Exotic",
+		"Slot": "Body",
+		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_umbragenesis02",
+		"AssetPath": "wheel_umbragenesis02.wheel_umbragenesis02",
+		"ID": 13015,
+		"Product": "Phantom Thieves of Hearts (P5R)",
+		"Quality": "Import",
+		"Slot": "Wheels",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "avatarborder_umbragenesislte01",
+		"AssetPath": "avatarborder_umbragenesislte01.avatarborder_umbragenesislte01",
+		"ID": 13037,
+		"Product": "P5R",
+		"Quality": "Limited",
+		"Slot": "Avatar Border",
+		"Slot Index": 20,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "playerbanner_umbragenesislte01",
+		"AssetPath": "playerbanner_umbragenesislte01.playerbanner_umbragenesislte01",
+		"ID": 13038,
+		"Product": "Morgana",
+		"Quality": "Limited",
+		"Slot": "Player Banner",
+		"Slot Index": 16,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_umbragenesis_umbragenesis01",
+		"AssetPath": "skin_umbragenesis_umbragenesis01.skin_umbragenesis_umbragenesis01",
+		"ID": 13045,
+		"Product": "Mona Car: Mona Car",
+		"Quality": "Import",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_umbragenesis02",
+		"AssetPath": "skin_umbragenesis02.skin_umbragenesis02",
+		"ID": 13060,
+		"Product": "Mona Car: Joker (P5R)",
+		"Quality": "Exotic",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_umbragenesis03",
+		"AssetPath": "skin_umbragenesis03.skin_umbragenesis03",
+		"ID": 13061,
+		"Product": "Mona Car: Panther (P5R)",
+		"Quality": "Exotic",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "hat_umbragenesislte01",
+		"AssetPath": "hat_umbragenesislte01.hat_umbragenesislte01",
+		"ID": 13065,
+		"Product": "Joker",
+		"Quality": "Limited",
+		"Slot": "Topper",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "explosion_powerstar",
+		"AssetPath": "explosion_powerstar.explosion_powerstar",
+		"ID": 13077,
+		"Product": "Starmageddon",
+		"Quality": "Exotic",
+		"Slot": "Goal Explosion",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "engineaudio_umbragenesis",
+		"AssetPath": "engineaudio_umbragenesis.engineaudio_umbragenesis",
+		"ID": 13096,
+		"Product": "Mona Car",
+		"Quality": "Common",
+		"Slot": "Engine Audio",
+		"Slot Index": 13,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "anthem_mrbillvctre_absence",
+		"AssetPath": "anthem_mrbillvctre_absence.anthem_mrbillvctre_absence",
+		"ID": 13146,
+		"Product": "Absence",
+		"Quality": "Import",
+		"Slot": "Player Anthem",
+		"Slot Index": 18,
+		"UnlockMethod": "UnlockMethod_Online"
 	}
 ]
