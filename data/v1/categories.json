@@ -1,0 +1,122 @@
+{
+ "Developer": {
+  "Color": "00FFAA",
+  "GlowColor": "00FFFF"
+ },
+ "Helper": {
+  "Color": "00FFAA"
+ },
+ "Participant": {
+  "Color": "FFEB5C"
+ },
+ "Champion": {
+  "Color": "FFEB5C",
+  "GlowColor": "FFA300"
+ },
+ "Ranked_Champion": {
+  "Color": "DBD2FF",
+  "GlowColor": "8C50FF"
+ },
+ "RLCS_Champion": {
+  "Color": "AEF7FF",
+  "GlowColor": "43AFFF"
+ },
+ "RLCS_Challenger": {
+  "Color": "43CDFF",
+  "GlowColor": "9966CC"
+ },
+ "AutoTour_Completed": {
+  "Color": "9BFF00"
+ },
+ "AutoTour_CompletedGC": {
+  "Color": "FF2800",
+  "GlowColor": "FF2800"
+ },
+ "AutoTour_CompletedSuperSonicLegend_1": {
+  "Color": "F0FFF9",
+  "GlowColor": "F0FFF9"
+ },
+ "AutoTour_CompletedSuperSonicLegend_2": {
+  "Color": "FF8DDD",
+  "GlowColor": "FF8DDD"
+ },
+ "SZN_1_Red": {
+  "Color": "FF2800",
+  "GlowColor": "FF2800"
+ },
+ "SZN_1_White": {
+  "Color": "E8E8E8",
+  "GlowColor": "E8E8E8"
+ },
+ "Community_Spotlight_Creator": {
+  "Color": "BF5FFF",
+  "GlowColor": "BF5FFF"
+ },
+ "Community_Spotlight": {
+  "Color": "BF5FFF"
+ },
+ "Gryffindor": {
+  "Color": "BEBEBE",
+  "GlowColor": "C80752"
+ },
+ "Hufflepuff": {
+  "Color": "BEBEBE",
+  "GlowColor": "FFD046"
+ },
+ "Ravenclaw": {
+  "Color": "BEBEBE",
+  "GlowColor": "4D90CD"
+ },
+ "Slytherin": {
+  "Color": "BEBEBE",
+  "GlowColor": "006351"
+ },
+ "PocketLeague": {
+  "Color": "FFA900",
+  "GlowColor": "0062FF"
+ },
+ "AuraFarmer": {
+  "Color": "E1F8FF",
+  "GlowColor": "4B99F7"
+ },
+ "MinusAura": {
+  "Color": "C31334",
+  "GlowColor": "4A0000"
+ },
+ "Rivalry_Red": {
+  "Color": "FF0000"
+ },
+ "Rivalry_Blue": {
+  "Color": "2C9EFF"
+ },
+ "Rivalry_Yellow": {
+  "Color": "F8BF26"
+ },
+ "World_Cup_Gold": {
+  "Color": "FFCF5C"
+ },
+ "TopRank_Purple": {
+  "Color": "FFFFFF",
+  "GlowColor": "FF8DDD"
+ },
+ "TopRank_YellowAndPurple": {
+  "Color": "FFCF5C",
+  "GlowColor": "FF8DDD"
+ },
+ "StatTitleThreshold0": {
+  "Color": "FFFFFF",
+  "GlowColor": "000000"
+ },
+ "StatTitleThreshold1": {
+  "Color": "FFFFFF",
+  "GlowColor": "03C1FF"
+ },
+ "StatTitleThreshold2": {
+  "Color": "FFFFFF",
+  "GlowColor": "B603FC"
+ },
+ "StatTitleThreshold3": {
+  "Color": "FFFFFF",
+  "GlowColor": "FF0370"
+ }
+}
