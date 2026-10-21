@@ -18434,10 +18434,10 @@
 		"AssetPath": "wheel_maple.wheel_maple",
 		"ID": 2955,
 		"Product": "Jurassic Jeep® Wrangler",
-		"Quality": "Common",
+		"Quality": "Import",
 		"Slot": "Roues",
 		"Slot Index": 2,
-		"UnlockMethod": "UnlockMethod_Default"
+		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
 		"AssetPackageName": "wheel_treble_mega",
@@ -26804,10 +26804,10 @@
 		"AssetPath": "boost_feline.boost_feline",
 		"ID": 4188,
 		"Product": "K.I.T.T.",
-		"Quality": "Import",
+		"Quality": "Common",
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
-		"UnlockMethod": "UnlockMethod_Online"
+		"UnlockMethod": "UnlockMethod_Default"
 	},
 	{
 		"AssetPackageName": "skin_force_bootube",
@@ -67553,7 +67553,7 @@
 		"AssetPackageName": "Explosion_Butterflies_GP",
 		"AssetPath": "Explosion_Butterflies_GP.Explosion_Butterflies_GP",
 		"ID": 9721,
-		"Product": "?FRA?Products.Explosion_Butterflies_GP.Label?",
+		"Product": "Papillons : Doré",
 		"Quality": "Exotic",
 		"Slot": "Explosion de but",
 		"Slot Index": 15,
@@ -77940,6 +77940,16 @@
 		"UnlockMethod": "UnlockMethod_Default"
 	},
 	{
+		"AssetPackageName": "skin_autogoo",
+		"AssetPath": "skin_autogoo.skin_autogoo",
+		"ID": 11116,
+		"Product": "Coulant",
+		"Quality": "Exotic",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_autoshatter",
 		"AssetPath": "skin_autoshatter.skin_autoshatter",
 		"ID": 11117,
@@ -85910,6 +85920,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_rl249",
+		"AssetPath": "wheel_rl249.wheel_rl249",
+		"ID": 12124,
+		"Product": "Avance rapide",
+		"Quality": "Import",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "antenna_goldenskull",
 		"AssetPath": "antenna_goldenskull.antenna_goldenskull",
 		"ID": 12125,
@@ -89320,6 +89340,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "boost_redplasma",
+		"AssetPath": "boost_redplasma.boost_redplasma",
+		"ID": 12524,
+		"Product": "Villainous",
+		"Quality": "Exotic",
+		"Slot": "Accélération turbo",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "anthem_fool_drifter",
 		"AssetPath": "anthem_fool_drifter.anthem_fool_drifter",
 		"ID": 12525,
@@ -90630,6 +90660,16 @@
 		"UnlockMethod": "UnlockMethod_Default"
 	},
 	{
+		"AssetPackageName": "boost_umbragenesis",
+		"AssetPath": "boost_umbragenesis.boost_umbragenesis",
+		"ID": 12681,
+		"Product": "Morgana's Token",
+		"Quality": "Limited",
+		"Slot": "Accélération turbo",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "boost_lightsheen",
 		"AssetPath": "boost_lightsheen.boost_lightsheen",
 		"ID": 12682,
@@ -91590,6 +91630,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "explosion_umbragenesis01",
+		"AssetPath": "explosion_umbragenesis01.explosion_umbragenesis01",
+		"ID": 12803,
+		"Product": "Phantom Thieves of Hearts",
+		"Quality": "BlackMarket",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_octane_spheregulp22",
 		"AssetPath": "skin_octane_spheregulp22.skin_octane_spheregulp22",
 		"ID": 12804,
@@ -91770,6 +91820,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "explosion_luckyonyx01",
+		"AssetPath": "explosion_luckyonyx01.explosion_luckyonyx01",
+		"ID": 12822,
+		"Product": "Arsène",
+		"Quality": "BlackMarket",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_octane_spheregulp02",
 		"AssetPath": "skin_octane_spheregulp02.skin_octane_spheregulp02",
 		"ID": 12823,
@@ -91877,6 +91937,16 @@
 		"Quality": "Limited",
 		"Slot": "Bannière de joueur",
 		"Slot Index": 16,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_umbragenesislte01",
+		"AssetPath": "wheel_umbragenesislte01.wheel_umbragenesislte01",
+		"ID": 12837,
+		"Product": "The Trickstar (P5R)",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -92310,6 +92380,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "boost_luckyonyx",
+		"AssetPath": "boost_luckyonyx.boost_luckyonyx",
+		"ID": 12884,
+		"Product": "Anti-Magie",
+		"Quality": "Import",
+		"Slot": "Accélération turbo",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_octane_spheregulp04",
 		"AssetPath": "skin_octane_spheregulp04.skin_octane_spheregulp04",
 		"ID": 12885,
@@ -92605,6 +92685,16 @@
 		"ID": 12915,
 		"Product": "Accolade XXIV",
 		"Quality": "Rare",
+		"Slot": "Caisses",
+		"Slot Index": 11,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "crateunlocked_UmbraGenesis",
+		"AssetPath": "crateunlocked_UmbraGenesis.crateunlocked_UmbraGenesis",
+		"ID": 12917,
+		"Product": "Coffre au trésor",
+		"Quality": "Limited",
 		"Slot": "Caisses",
 		"Slot Index": 11,
 		"UnlockMethod": "UnlockMethod_Online"
@@ -92960,6 +93050,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "wheel_umbragenesis01",
+		"AssetPath": "wheel_umbragenesis01.wheel_umbragenesis01",
+		"ID": 12961,
+		"Product": "Mona Car",
+		"Quality": "Import",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "boost_chromaticaberration",
 		"AssetPath": "boost_chromaticaberration.FX.boost_chromaticaberration",
 		"ID": 12963,
@@ -92977,6 +93077,16 @@
 		"Quality": "Limited",
 		"Slot": "Explosion de but",
 		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "ss_umbragenesislte01",
+		"AssetPath": "ss_umbragenesislte01.ss_umbragenesislte01",
+		"ID": 12967,
+		"Product": "Morgana's Token",
+		"Quality": "Limited",
+		"Slot": "Traînée",
+		"Slot Index": 14,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -93007,6 +93117,16 @@
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "ss_luckyonyx01",
+		"AssetPath": "ss_luckyonyx01.ss_luckyonyx01",
+		"ID": 12973,
+		"Product": "Anti-Magie",
+		"Quality": "Import",
+		"Slot": "Traînée",
+		"Slot Index": 14,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -93080,6 +93200,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "explosion_fs_voidgaze",
+		"AssetPath": "explosion_fs_voidgaze.explosion_fs_voidgaze",
+		"ID": 12981,
+		"Product": "Phrosgoth",
+		"Quality": "BlackMarket",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "boost_paralyzingfear_psplus",
 		"AssetPath": "boost_paralyzingfear_psplus.boost_paralyzingfear_psplus",
 		"ID": 12982,
@@ -93088,6 +93218,26 @@
 		"Slot": "Accélération turbo",
 		"Slot Index": 3,
 		"UnlockMethod": "UnlockMethod_DLC"
+	},
+	{
+		"AssetPackageName": "skin_octane_umbragenesis01",
+		"AssetPath": "skin_octane_umbragenesis01.skin_octane_umbragenesis01",
+		"ID": 12983,
+		"Product": "Octane : Persona 5 Royal",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_uniumbragenesis",
+		"AssetPath": "skin_uniumbragenesis.skin_uniumbragenesis",
+		"ID": 12986,
+		"Product": "Phantom Thieves of Hearts",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
 		"AssetPackageName": "skin_vanquish_buffy",
@@ -93108,6 +93258,16 @@
 		"Slot": "Bruit de moteur",
 		"Slot Index": 13,
 		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "wheel_luckyonyx01",
+		"AssetPath": "wheel_luckyonyx01.wheel_luckyonyx01",
+		"ID": 12992,
+		"Product": "Anti-Magie",
+		"Quality": "Exotic",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
 		"AssetPackageName": "skin_force_pastelgraffiti",
@@ -93150,6 +93310,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "body_umbragenesis",
+		"AssetPath": "body_umbragenesis.body_umbragenesis",
+		"ID": 13000,
+		"Product": "Mona Car",
+		"Quality": "Exotic",
+		"Slot": "Châssis",
+		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "ss_chromaticaberration",
 		"AssetPath": "ss_chromaticaberration.FX.ss_chromaticaberration",
 		"ID": 13003,
@@ -93180,6 +93350,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "skin_musclecar_astroglacier",
+		"AssetPath": "skin_musclecar_astroglacier.skin_musclecar_astroglacier",
+		"ID": 13010,
+		"Product": "Dominus : Astro iceberg",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "engineaudio_OpticOrange",
 		"AssetPath": "engineaudio_OpticOrange.engineaudio_OpticOrange",
 		"ID": 13011,
@@ -93207,6 +93387,16 @@
 		"Quality": "Limited",
 		"Slot": "Traînée",
 		"Slot Index": 14,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_umbragenesis02",
+		"AssetPath": "wheel_umbragenesis02.wheel_umbragenesis02",
+		"ID": 13015,
+		"Product": "Phantom Thieves of Hearts (P5R)",
+		"Quality": "Import",
+		"Slot": "Roues",
+		"Slot Index": 2,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -93300,11 +93490,31 @@
 		"UnlockMethod": "UnlockMethod_Default"
 	},
 	{
+		"AssetPackageName": "skin_grain_sunnywave",
+		"AssetPath": "skin_grain_sunnywave.skin_grain_sunnywave",
+		"ID": 13025,
+		"Product": "Fennec : ?FRA?Products.skin_grain_sunnywave.Label?",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "explosion_waypoint",
 		"AssetPath": "explosion_waypoint.explosion_waypoint",
 		"ID": 13026,
 		"Product": "Bolide des rues",
 		"Quality": "Limited",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "explosion_s24rlcswinner",
+		"AssetPath": "explosion_s24rlcswinner.explosion_s24rlcswinner",
+		"ID": 13028,
+		"Product": "Champions du monde",
+		"Quality": "Common",
 		"Slot": "Explosion de but",
 		"Slot Index": 15,
 		"UnlockMethod": "UnlockMethod_Online"
@@ -93340,6 +93550,36 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "explosion_honduel01",
+		"AssetPath": "explosion_honduel01.explosion_honduel01",
+		"ID": 13036,
+		"Product": "?FRA?Products.explosion_honduel01.Label?",
+		"Quality": "Limited",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "avatarborder_umbragenesislte01",
+		"AssetPath": "avatarborder_umbragenesislte01.avatarborder_umbragenesislte01",
+		"ID": 13037,
+		"Product": "P5R",
+		"Quality": "Limited",
+		"Slot": "Bordure d'avatar",
+		"Slot Index": 20,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "playerbanner_umbragenesislte01",
+		"AssetPath": "playerbanner_umbragenesislte01.playerbanner_umbragenesislte01",
+		"ID": 13038,
+		"Product": "Morgana",
+		"Quality": "Limited",
+		"Slot": "Bannière de joueur",
+		"Slot Index": 16,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "ss_iconcolors",
 		"AssetPath": "ss_iconcolors.ss_iconcolors",
 		"ID": 13039,
@@ -93347,6 +93587,16 @@
 		"Quality": "Limited",
 		"Slot": "Traînée",
 		"Slot Index": 14,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_autohonduel01",
+		"AssetPath": "skin_autohonduel01.skin_autohonduel01",
+		"ID": 13040,
+		"Product": "?FRA?Products.skin_autohonduel01.Label?",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -93360,6 +93610,116 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "body_revivalline",
+		"AssetPath": "body_revivalline.body_revivalline",
+		"ID": 13042,
+		"Product": "Nissan GT-R Nismo",
+		"Quality": "Exotic",
+		"Slot": "Châssis",
+		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_grain_mvp01",
+		"AssetPath": "skin_grain_mvp01.skin_grain_mvp01",
+		"ID": 13043,
+		"Product": "Fennec : Éclat externe",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_umbragenesis_umbragenesis01",
+		"AssetPath": "skin_umbragenesis_umbragenesis01.skin_umbragenesis_umbragenesis01",
+		"ID": 13045,
+		"Product": "Mona Car : Mona Car",
+		"Quality": "Import",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_revivalline01",
+		"AssetPath": "wheel_revivalline01.wheel_revivalline01",
+		"ID": 13048,
+		"Product": "Nissan GT-R Nismo",
+		"Quality": "Import",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_revivalline02",
+		"AssetPath": "wheel_revivalline02.wheel_revivalline02",
+		"ID": 13050,
+		"Product": "Nissan GT-R Nismo - Gold",
+		"Quality": "Import",
+		"Slot": "Roues",
+		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "explosion_reactiveshop01",
+		"AssetPath": "explosion_reactiveshop01.explosion_reactiveshop01",
+		"ID": 13051,
+		"Product": "Ballon pour tous",
+		"Quality": "BlackMarket",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "hat_honduel01",
+		"AssetPath": "hat_honduel01.hat_honduel01",
+		"ID": 13052,
+		"Product": "?FRA?Products.hat_honduel01.Label?",
+		"Quality": "Limited",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_revivalline_luckyonyx_01",
+		"AssetPath": "skin_revivalline_luckyonyx_01.skin_revivalline_luckyonyx_01",
+		"ID": 13053,
+		"Product": "Nissan GT-R Nismo : Black Bulls Asta",
+		"Quality": "Exotic",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "boost_mvp01",
+		"AssetPath": "boost_mvp01.FX.boost_mvp01",
+		"ID": 13056,
+		"Product": "Vitesse lumière",
+		"Quality": "Limited",
+		"Slot": "Accélération turbo",
+		"Slot Index": 3,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "explosion_team01",
+		"AssetPath": "explosion_team01.explosion_team01",
+		"ID": 13057,
+		"Product": "?FRA?Products.explosion_team01.Label?",
+		"Quality": "Limited",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_automvp01",
+		"AssetPath": "skin_automvp01.skin_automvp01",
+		"ID": 13058,
+		"Product": "Doux balayage",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_shatterse",
 		"AssetPath": "wheel_shatterse.wheel_shatterse",
 		"ID": 13059,
@@ -93367,6 +93727,26 @@
 		"Quality": "Limited",
 		"Slot": "Roues",
 		"Slot Index": 2,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_umbragenesis02",
+		"AssetPath": "skin_umbragenesis02.skin_umbragenesis02",
+		"ID": 13060,
+		"Product": "Mona Car : Joker (P5R)",
+		"Quality": "Exotic",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_umbragenesis03",
+		"AssetPath": "skin_umbragenesis03.skin_umbragenesis03",
+		"ID": 13061,
+		"Product": "Mona Car : Panther (P5R)",
+		"Quality": "Exotic",
+		"Slot": "Sticker",
+		"Slot Index": 1,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -93400,6 +93780,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "hat_umbragenesislte01",
+		"AssetPath": "hat_umbragenesislte01.hat_umbragenesislte01",
+		"ID": 13065,
+		"Product": "Joker",
+		"Quality": "Limited",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_vstaples",
 		"AssetPath": "skin_vstaples.skin_vstaples",
 		"ID": 13070,
@@ -93420,6 +93810,26 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "skin_revivalline_luckyonyx_02",
+		"AssetPath": "skin_revivalline_luckyonyx_02.skin_revivalline_luckyonyx_02",
+		"ID": 13072,
+		"Product": "Nissan GT-R Nismo : Golden Dawn Yuno",
+		"Quality": "Exotic",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_revivalline_luckyonyx_03",
+		"AssetPath": "skin_revivalline_luckyonyx_03.skin_revivalline_luckyonyx_03",
+		"ID": 13073,
+		"Product": "Nissan GT-R Nismo : Black Bulls Noelle",
+		"Quality": "Exotic",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "body_cobaltdagger",
 		"AssetPath": "body_cobaltdagger.body_cobaltdagger",
 		"ID": 13074,
@@ -93437,6 +93847,16 @@
 		"Quality": "Limited",
 		"Slot": "Châssis",
 		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "explosion_powerstar",
+		"AssetPath": "explosion_powerstar.explosion_powerstar",
+		"ID": 13077,
+		"Product": "Starmageddon",
+		"Quality": "Exotic",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -93600,6 +94020,26 @@
 		"UnlockMethod": "UnlockMethod_Default"
 	},
 	{
+		"AssetPackageName": "engineaudio_umbragenesis",
+		"AssetPath": "engineaudio_umbragenesis.engineaudio_umbragenesis",
+		"ID": 13096,
+		"Product": "Mona Car",
+		"Quality": "Common",
+		"Slot": "Bruit de moteur",
+		"Slot Index": 13,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "ss_mvp01",
+		"AssetPath": "ss_mvp01.ss_mvp01",
+		"ID": 13097,
+		"Product": "Vitesse lumière",
+		"Quality": "Limited",
+		"Slot": "Traînée",
+		"Slot Index": 14,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_s24reward01",
 		"AssetPath": "wheel_s24reward01.wheel_s24reward01",
 		"ID": 13100,
@@ -93608,6 +94048,16 @@
 		"Slot": "Roues",
 		"Slot Index": 2,
 		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "engineaudio_revivalline",
+		"AssetPath": "engineaudio_revivalline.engineaudio_revivalline",
+		"ID": 13103,
+		"Product": "Nissan GT-R Nismo",
+		"Quality": "Common",
+		"Slot": "Bruit de moteur",
+		"Slot Index": 13,
+		"UnlockMethod": "UnlockMethod_Default"
 	},
 	{
 		"AssetPackageName": "wheel_s24reward02",
@@ -93680,6 +94130,16 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "antenna_honduel01",
+		"AssetPath": "antenna_honduel01.antenna_honduel01",
+		"ID": 13111,
+		"Product": "?FRA?Products.antenna_honduel01.Label?",
+		"Quality": "Limited",
+		"Slot": "Antenne",
+		"Slot Index": 4,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_wreaper",
 		"AssetPath": "skin_wreaper.skin_wreaper",
 		"ID": 13112,
@@ -93705,6 +94165,26 @@
 		"ID": 13126,
 		"Product": "Frappe latérale",
 		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_revivalline_livery_01",
+		"AssetPath": "skin_revivalline_livery_01.skin_revivalline_livery_01",
+		"ID": 13131,
+		"Product": "Nissan GT-R Nismo : Ligne d'acier",
+		"Quality": "Import",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_revivalline_livery_02",
+		"AssetPath": "skin_revivalline_livery_02.skin_revivalline_livery_02",
+		"ID": 13132,
+		"Product": "Nissan GT-R Nismo : Ligne haute",
+		"Quality": "Import",
 		"Slot": "Sticker",
 		"Slot Index": 1,
 		"UnlockMethod": "UnlockMethod_Online"
@@ -93750,6 +94230,16 @@
 		"UnlockMethod": "UnlockMethod_Default"
 	},
 	{
+		"AssetPackageName": "skin_octane_honduel01",
+		"AssetPath": "skin_octane_honduel01.skin_octane_honduel01",
+		"ID": 13141,
+		"Product": "Octane : ?FRA?Products.skin_octane_honduel01.Label?",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "hat_buffysugo",
 		"AssetPath": "hat_buffysugo.hat_buffysugo",
 		"ID": 13142,
@@ -93768,6 +94258,26 @@
 		"Slot": "Hymne de joueur",
 		"Slot Index": 18,
 		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
+		"AssetPackageName": "anthem_BassVenturaLGJ_Doublin",
+		"AssetPath": "anthem_BassVenturaLGJ_Doublin.anthem_BassVenturaLGJ_Doublin",
+		"ID": 13145,
+		"Product": "Doublin",
+		"Quality": "Import",
+		"Slot": "Hymne de joueur",
+		"Slot Index": 18,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "anthem_mrbillvctre_absence",
+		"AssetPath": "anthem_mrbillvctre_absence.anthem_mrbillvctre_absence",
+		"ID": 13146,
+		"Product": "Absence",
+		"Quality": "Import",
+		"Slot": "Hymne de joueur",
+		"Slot Index": 18,
+		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
 		"AssetPackageName": "Anthem_Primate_Booyah",
@@ -93820,6 +94330,26 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "skin_gellihaha",
+		"AssetPath": "skin_gellihaha.skin_gellihaha",
+		"ID": 13157,
+		"Product": "?FRA?Products.skin_gellihaha.Label?",
+		"Quality": "Limited",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_revivalline_flames",
+		"AssetPath": "skin_revivalline_flames.skin_revivalline_flames",
+		"ID": 13161,
+		"Product": "Nissan GT-R Nismo : Flammes",
+		"Quality": "Common",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Default"
+	},
+	{
 		"AssetPackageName": "skin_neonmarmot_livery01",
 		"AssetPath": "skin_neonmarmot_livery01.skin_neonmarmot_livery01",
 		"ID": 13162,
@@ -93830,213 +94360,13 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
-		"AssetPackageName": "wheel_rl249",
-		"AssetPath": "wheel_rl249.wheel_rl249",
-		"ID": 12124,
-		"Product": "Avance rapide",
-		"Quality": "Import",
-		"Slot": "Roues",
-		"Slot Index": 2,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "boost_umbragenesis",
-		"AssetPath": "boost_umbragenesis.boost_umbragenesis",
-		"ID": 12681,
-		"Product": "Morgana's Token",
-		"Quality": "Limited",
-		"Slot": "Accélération turbo",
-		"Slot Index": 3,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "explosion_umbragenesis01",
-		"AssetPath": "explosion_umbragenesis01.explosion_umbragenesis01",
-		"ID": 12803,
-		"Product": "Phantom Thieves of Hearts",
-		"Quality": "BlackMarket",
-		"Slot": "Explosion de but",
-		"Slot Index": 15,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "wheel_umbragenesislte01",
-		"AssetPath": "wheel_umbragenesislte01.wheel_umbragenesislte01",
-		"ID": 12837,
-		"Product": "The Trickstar (P5R)",
-		"Quality": "Limited",
-		"Slot": "Roues",
-		"Slot Index": 2,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "crateunlocked_UmbraGenesis",
-		"AssetPath": "crateunlocked_UmbraGenesis.crateunlocked_UmbraGenesis",
-		"ID": 12917,
-		"Product": "Coffre au trésor",
-		"Quality": "Limited",
-		"Slot": "Caisses",
-		"Slot Index": 11,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "wheel_umbragenesis01",
-		"AssetPath": "wheel_umbragenesis01.wheel_umbragenesis01",
-		"ID": 12961,
-		"Product": "Mona Car",
-		"Quality": "Import",
-		"Slot": "Roues",
-		"Slot Index": 2,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "ss_umbragenesislte01",
-		"AssetPath": "ss_umbragenesislte01.ss_umbragenesislte01",
-		"ID": 12967,
-		"Product": "Morgana's Token",
-		"Quality": "Limited",
-		"Slot": "Traînée",
-		"Slot Index": 14,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "skin_octane_umbragenesis01",
-		"AssetPath": "skin_octane_umbragenesis01.skin_octane_umbragenesis01",
-		"ID": 12983,
-		"Product": "Octane : Persona 5 Royal",
-		"Quality": "Limited",
-		"Slot": "Sticker",
-		"Slot Index": 1,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "skin_uniumbragenesis",
-		"AssetPath": "skin_uniumbragenesis.skin_uniumbragenesis",
-		"ID": 12986,
-		"Product": "Phantom Thieves of Hearts",
-		"Quality": "Limited",
-		"Slot": "Sticker",
-		"Slot Index": 1,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "body_umbragenesis",
-		"AssetPath": "body_umbragenesis.body_umbragenesis",
-		"ID": 13000,
-		"Product": "Mona Car",
-		"Quality": "Exotic",
-		"Slot": "Châssis",
-		"Slot Index": 0,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "wheel_umbragenesis02",
-		"AssetPath": "wheel_umbragenesis02.wheel_umbragenesis02",
-		"ID": 13015,
-		"Product": "Phantom Thieves of Hearts (P5R)",
-		"Quality": "Import",
-		"Slot": "Roues",
-		"Slot Index": 2,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "avatarborder_umbragenesislte01",
-		"AssetPath": "avatarborder_umbragenesislte01.avatarborder_umbragenesislte01",
-		"ID": 13037,
-		"Product": "P5R",
-		"Quality": "Limited",
-		"Slot": "Bordure d'avatar",
-		"Slot Index": 20,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "playerbanner_umbragenesislte01",
-		"AssetPath": "playerbanner_umbragenesislte01.playerbanner_umbragenesislte01",
-		"ID": 13038,
-		"Product": "Morgana",
-		"Quality": "Limited",
-		"Slot": "Bannière de joueur",
-		"Slot Index": 16,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "skin_umbragenesis_umbragenesis01",
-		"AssetPath": "skin_umbragenesis_umbragenesis01.skin_umbragenesis_umbragenesis01",
-		"ID": 13045,
-		"Product": "Mona Car : Mona Car",
-		"Quality": "Import",
-		"Slot": "Sticker",
-		"Slot Index": 1,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "explosion_reactiveshop01",
-		"AssetPath": "explosion_reactiveshop01.explosion_reactiveshop01",
-		"ID": 13051,
-		"Product": "Ballon pour tous",
-		"Quality": "BlackMarket",
-		"Slot": "Explosion de but",
-		"Slot Index": 15,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "skin_umbragenesis02",
-		"AssetPath": "skin_umbragenesis02.skin_umbragenesis02",
-		"ID": 13060,
-		"Product": "Mona Car : Joker (P5R)",
-		"Quality": "Exotic",
-		"Slot": "Sticker",
-		"Slot Index": 1,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "skin_umbragenesis03",
-		"AssetPath": "skin_umbragenesis03.skin_umbragenesis03",
-		"ID": 13061,
-		"Product": "Mona Car : Panther (P5R)",
-		"Quality": "Exotic",
-		"Slot": "Sticker",
-		"Slot Index": 1,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "hat_umbragenesislte01",
-		"AssetPath": "hat_umbragenesislte01.hat_umbragenesislte01",
-		"ID": 13065,
-		"Product": "Joker",
+		"AssetPackageName": "hat_team01",
+		"AssetPath": "hat_team01.hat_team01",
+		"ID": 13209,
+		"Product": "?FRA?Products.hat_team01.Label?",
 		"Quality": "Limited",
 		"Slot": "Accessoire",
 		"Slot Index": 5,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "explosion_powerstar",
-		"AssetPath": "explosion_powerstar.explosion_powerstar",
-		"ID": 13077,
-		"Product": "Starmageddon",
-		"Quality": "Exotic",
-		"Slot": "Explosion de but",
-		"Slot Index": 15,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "engineaudio_umbragenesis",
-		"AssetPath": "engineaudio_umbragenesis.engineaudio_umbragenesis",
-		"ID": 13096,
-		"Product": "Mona Car",
-		"Quality": "Common",
-		"Slot": "Bruit de moteur",
-		"Slot Index": 13,
-		"UnlockMethod": "UnlockMethod_Online"
-	},
-	{
-		"AssetPackageName": "anthem_mrbillvctre_absence",
-		"AssetPath": "anthem_mrbillvctre_absence.anthem_mrbillvctre_absence",
-		"ID": 13146,
-		"Product": "Absence",
-		"Quality": "Import",
-		"Slot": "Hymne de joueur",
-		"Slot Index": 18,
 		"UnlockMethod": "UnlockMethod_Online"
 	}
 ]
