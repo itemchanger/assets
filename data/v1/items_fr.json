@@ -93070,6 +93070,17 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "explosion_sunseteffgy01",
+		"AssetPath": "explosion_sunseteffgy01.explosion_sunseteffgy01",
+		"CookedAssetPackageName": "p6a07fe0ff42393155810_SF",
+		"ID": 12965,
+		"Product": "Freddy Fazbear",
+		"Quality": "BlackMarket",
+		"Slot": "Explosion de but",
+		"Slot Index": 15,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "explosion_vspace",
 		"AssetPath": "explosion_vspace.explosion_vspace",
 		"ID": 12966,
@@ -93260,6 +93271,17 @@
 		"UnlockMethod": "UnlockMethod_Default"
 	},
 	{
+		"AssetPackageName": "skin_unisunseteffigylte01",
+		"AssetPath": "skin_unisunseteffigylte01.skin_unisunseteffigylte01",
+		"CookedAssetPackageName": "p3221a92cf85aa6429117_SF",
+		"ID": 12989,
+		"Product": "Five Nights",
+		"Quality": "Exotic",
+		"Slot": "Sticker",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_luckyonyx01",
 		"AssetPath": "wheel_luckyonyx01.wheel_luckyonyx01",
 		"ID": 12992,
@@ -93377,6 +93399,17 @@
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "hat_sunseteffigylte01",
+		"AssetPath": "hat_sunseteffigylte01.hat_sunseteffigylte01",
+		"CookedAssetPackageName": "p8d2a0ce0d7765fe4132f_SF",
+		"ID": 13013,
+		"Product": "Freddy Fazbear",
+		"Quality": "Limited",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -93512,6 +93545,7 @@
 	{
 		"AssetPackageName": "explosion_s24rlcswinner",
 		"AssetPath": "explosion_s24rlcswinner.explosion_s24rlcswinner",
+		"CookedAssetPackageName": "p7254d7cd4f6f2d9fa41e_SF",
 		"ID": 13028,
 		"Product": "Champions du monde",
 		"Quality": "Common",
@@ -93537,6 +93571,17 @@
 		"Quality": "Limited",
 		"Slot": "Caisses",
 		"Slot Index": 11,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_octane_sunseteffigy01",
+		"AssetPath": "skin_octane_sunseteffigy01.skin_octane_sunseteffigy01",
+		"CookedAssetPackageName": "pf9d83f4769fa093d94d4_SF",
+		"ID": 13032,
+		"Product": "Octane : Freddy Fazbear",
+		"Quality": "Import",
+		"Slot": "Sticker",
+		"Slot Index": 1,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -93640,6 +93685,17 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "hat_sunseteffigylte03",
+		"AssetPath": "hat_sunseteffigylte03.hat_sunseteffigylte03",
+		"CookedAssetPackageName": "p9ab0276bef6256933767_SF",
+		"ID": 13046,
+		"Product": "Bonnie The Bunny",
+		"Quality": "Limited",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "wheel_revivalline01",
 		"AssetPath": "wheel_revivalline01.wheel_revivalline01",
 		"ID": 13048,
@@ -93687,6 +93743,28 @@
 		"Quality": "Exotic",
 		"Slot": "Sticker",
 		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "hat_sunseteffigylte02",
+		"AssetPath": "hat_sunseteffigylte02.hat_sunseteffigylte02",
+		"CookedAssetPackageName": "pc9aba5e9ec19e8460f96_SF",
+		"ID": 13054,
+		"Product": "Foxy The Pirate Fox",
+		"Quality": "Limited",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "hat_sunseteffigylte04",
+		"AssetPath": "hat_sunseteffigylte04.hat_sunseteffigylte04",
+		"CookedAssetPackageName": "p6c3c2bbeba9ded88ef26_SF",
+		"ID": 13055,
+		"Product": "Chica The Chicken",
+		"Quality": "Limited",
+		"Slot": "Accessoire",
+		"Slot Index": 5,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -94170,6 +94248,28 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "avatarborder_sunseteffigylte01",
+		"AssetPath": "avatarborder_sunseteffigylte01.avatarborder_sunseteffigylte01",
+		"CookedAssetPackageName": "paca6f52bcd3aad77dd19_SF",
+		"ID": 13127,
+		"Product": "Five Nights",
+		"Quality": "Limited",
+		"Slot": "Bordure d'avatar",
+		"Slot Index": 20,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "playerbanner_sunseteffigylte01",
+		"AssetPath": "playerbanner_sunseteffigylte01.playerbanner_sunseteffigylte01",
+		"CookedAssetPackageName": "p3d91b762de8b7f3e5a98_SF",
+		"ID": 13128,
+		"Product": "Freddy Fazbear",
+		"Quality": "Limited",
+		"Slot": "Bannière de joueur",
+		"Slot Index": 16,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_revivalline_livery_01",
 		"AssetPath": "skin_revivalline_livery_01.skin_revivalline_livery_01",
 		"ID": 13131,
@@ -94187,6 +94287,17 @@
 		"Quality": "Import",
 		"Slot": "Sticker",
 		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "wheel_sunseteffigylte01",
+		"AssetPath": "wheel_sunseteffigylte01.wheel_sunseteffigylte01",
+		"CookedAssetPackageName": "p9384b55de17df6ea1948_SF",
+		"ID": 13133,
+		"Product": "Faz-Token",
+		"Quality": "Limited",
+		"Slot": "Roues",
+		"Slot Index": 2,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
@@ -94357,6 +94468,17 @@
 		"Quality": "Limited",
 		"Slot": "Sticker",
 		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "CrateUnlocked_SunsetEffigy",
+		"AssetPath": "CrateUnlocked_SunsetEffigy.CrateUnlocked_SunsetEffigy",
+		"CookedAssetPackageName": "p190ef0a2217e78eb8163_SF",
+		"ID": 13163,
+		"Product": "No. 1 Crate",
+		"Quality": "Rare",
+		"Slot": "Caisses",
+		"Slot Index": 11,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
