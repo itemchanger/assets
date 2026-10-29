@@ -93868,6 +93868,50 @@
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
+		"AssetPackageName": "skin_scara_ramuh01",
+		"AssetPath": "skin_scara_ramuh01.skin_scara_ramuh01",
+		"CookedAssetPackageName": "pbd6fcb2b099758bc5a86_SF",
+		"ID": 13066,
+		"Product": "NASCAR Next Gen Ford Mustang: Team Penske",
+		"Quality": "Import",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_scara_ramuh02",
+		"AssetPath": "skin_scara_ramuh02.skin_scara_ramuh02",
+		"CookedAssetPackageName": "pfd7991ca6610a59c0915_SF",
+		"ID": 13067,
+		"Product": "NASCAR Next Gen Ford Mustang: Wood Brothers Racing",
+		"Quality": "Import",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_scara_ramuh03",
+		"AssetPath": "skin_scara_ramuh03.skin_scara_ramuh03",
+		"CookedAssetPackageName": "p18fa2f03e43369b65959_SF",
+		"ID": 13068,
+		"Product": "NASCAR Next Gen Ford Mustang: Front Row Motorsports",
+		"Quality": "Import",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_scara_ramuh04",
+		"AssetPath": "skin_scara_ramuh04.skin_scara_ramuh04",
+		"CookedAssetPackageName": "p21791ddef8bfb72d7372_SF",
+		"ID": 13069,
+		"Product": "NASCAR Next Gen Ford Mustang: RFK Racing",
+		"Quality": "Import",
+		"Slot": "Decal",
+		"Slot Index": 1,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
 		"AssetPackageName": "skin_vstaples",
 		"AssetPath": "skin_vstaples.skin_vstaples",
 		"ID": 13070,
@@ -93925,6 +93969,17 @@
 		"Quality": "Limited",
 		"Slot": "Body",
 		"Slot Index": 0,
+		"UnlockMethod": "UnlockMethod_Online"
+	},
+	{
+		"AssetPackageName": "skin_scar_a_default",
+		"AssetPath": "skin_scar_a_default.skin_scar_a_default",
+		"CookedAssetPackageName": "pfa08d3e742383f4b7a76_SF",
+		"ID": 13076,
+		"Product": "NASCAR Next Gen Ford Mustang: NASCAR Classic",
+		"Quality": "Import",
+		"Slot": "Decal",
+		"Slot Index": 1,
 		"UnlockMethod": "UnlockMethod_Online"
 	},
 	{
