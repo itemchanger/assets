@@ -5857,6 +5857,16 @@
   "Category": "StatTitleThreshold0",
   "StatName": "Title_S24_Wins"
  },
+ "S24_SHOTSONTARGET_TRACKER": {
+  "Text": "Shots on Target: {StatValue}",
+  "Category": "StatTitleThreshold0",
+  "StatName": "Title_S24_ShotsOnTarget"
+ },
+ "S24_SHOTSALMOSTONTARGET_TRACKER": {
+  "Text": "Shots Almost on Target: {StatValue}",
+  "Category": "StatTitleThreshold0",
+  "StatName": "Title_S24_ShotsAlmostOnTarget"
+ },
  "Okay_Boomer": {
   "Text": "Okay Boomer",
   "Category": ""
